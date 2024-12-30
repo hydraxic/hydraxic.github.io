@@ -1,6 +1,79 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #ffffff;
-    color: #333;
+    text-align: left;
+}
+
+.tabs {
+    max-width: 100%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.tab-buttons {
+    display: flex;
+    border-bottom: 2px solid #ccc;
+}
+
+.tab-button {
+    flex: 1;
+    padding: 10px;
+    cursor: pointer;
+    background: #f4f4f4;
+    border: none;
+    outline: none;
     text-align: center;
+    transition: background 0.3s;
+}
+
+.tab-button.active {
+    background: #ddd;
+    border-bottom: 2px solid #272727;
+}
+
+.tab-content {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+
+details {
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    padding: 0.5em 0.5em 0;
+    margin-bottom: 10px;
+}
+
+summary {
+    font-weight: bold;
+    margin: -0.5em -0.5em 0;
+    padding: 0.5em;
+}
+
+details[open] {
+    padding: 0.5em;
+}
+
+details[open] summary {
+    border-bottom: 1px solid #aaa;
+    margin-bottom: 0.5em;
+}
+
+.build-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 25px;
+}
+
+.build-image {
+    flex: 0 0 auto;
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+}
+
+.build-text {
+    flex: 1;
+    width: 100%;
+    word-wrap: break-word;
 }
