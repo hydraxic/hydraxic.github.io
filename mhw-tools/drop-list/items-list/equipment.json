@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Lightbreak Press",
+        "type": "ig",
+        "rarity": 12,
+        "materials": [
+            {
+                "name": "Brach Obliterator",
+                "quantity": 3
+            },
+            {
+                "name": "Brach Warhead",
+                "quantity": 1
+            },
+            {
+                "name": "Indestructible Ebonshell",
+                "quantity": 4
+            },
+            {
+                "name": "Immortal Reactor",
+                "quantity": 1
+            }
+        ]
+    }
+]

@@ -20,7 +20,7 @@
         <div class = "tab-content" id = "drop-list">
             <center>
                 <h2>Item Drops List</h2>
-                <p>Track where every item drops from.</p>
+                <p>Track where to get every material for your new gear.</p>
             </center>
 
             <div id="search-bar">
@@ -33,6 +33,24 @@
             </div>
             <div id="results"></div>
             
+            <div id="material-results"></div>
+
+            <template id="equipment-table-template">
+                <div class="item-info">
+                    <h3 class="item-name">
+                        Item Name
+                    </h3>
+                    <table class="crafting-materials">
+                        <tr>
+                            <th><b>Material</b></th>
+                            <th><b>Sources</b></th>
+                            <th><b>Locales</b></th>
+                            <th><b>Quantity</b></th>
+                        </tr>
+                    </table>
+                </div>
+            </template>
+
         </div>
     </div>
 

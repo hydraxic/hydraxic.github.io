@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Brach Obliterator",
+        "type": "monster-carve",
+        "source": ["Raging Brachydios"],
+        "locales": [],
+        "rarity": 11
+    },
+    {
+        "name": "Brach Warhead",
+        "type": "monster-carve",
+        "source": ["Raging Brachydios"],
+        "locales": [],
+        "rarity": 11
+    },
+    {
+        "name": "Indestructible Ebonshell",
+        "type": "monster-carve",
+        "source": ["Raging Brachydios"],
+        "locales": [],
+        "rarity": 11
+    },
+    {
+        "name": "Immortal Reactor",
+        "type": "monster-carve",
+        "source": ["Raging Brachydios", "Melding"],
+        "locales": [],
+        "rarity": 12
+    },
+    {
+        "name": "Dreamcore Ore",
+        "type": "mining-outcrop",
+        "source": ["High Rank Red Mining Outcrop"],
+        "locales": ["Ancient Forest", "Wildspire Waste", "Coral Highlands", "Rotten Vale", "Elder's Recess", "Hoarfrost Reach"],
+        "rarity": 7
+    }
+]

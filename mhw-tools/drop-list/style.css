@@ -72,3 +72,46 @@ body {
 .result-button:hover {
     background-color: rgb(182, 182, 182);
 }
+
+#results {
+    margin-bottom: 20px;
+}
+
+.result-button {
+    display: inline-block;
+    outline: 0;
+    border: 0;
+    cursor: pointer;
+    border-radius: 6px;
+    padding: 14px 24px 16px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1;
+    transition: background 200ms;
+    background: transparent;
+    color: #2e2e2e;
+    box-shadow: 0 0 0 3px #000000 inset;
+}
+
+.item-info {
+    border: 1px solid #808080;
+    border-radius: 4px;
+    padding: 1em;
+    padding-top: 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+table, th, tr {
+    border: 1px solid #808080;
+    border-collapse: collapse;
+}
+
+th, tr {
+    padding: 0.5em;
+    text-align: center;
+}
+
+.crafting-materials {
+    width: 100%;
+}
