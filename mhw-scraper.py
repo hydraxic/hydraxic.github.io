@@ -98,14 +98,14 @@ for weapon in weapons:
                 name = link.get_text(strip=True).encode('utf-8').decode('utf-8')
                 amt = (link.parent.parent.find_all('td')[2].get_text(strip=True).encode('utf-8').decode('utf-8')).replace("x", "")
                 #if url and name:
-                temp = {"name": name, "quantity": amt}
+                temp = {"name": name, "quantity": amt, "url": url}
                 materials_forge.append(temp)
             elif link.parent.parent.find('td').get_text(strip=True).encode('utf-8').decode('utf-8') == "Upgrade Equipment":
                 url = link.get('href')
                 name = link.get_text(strip=True).encode('utf-8').decode('utf-8')
                 amt = (link.parent.parent.find_all('td')[2].get_text(strip=True).encode('utf-8').decode('utf-8')).replace("x", "")
                 #if url and name:
-                temp = {"name": name, "quantity": amt}
+                temp = {"name": name, "quantity": amt, "url": url}
                 materials_upgrade.append(temp)
         
         equipments.append(
@@ -127,3 +127,93 @@ with open('mhw-tools/drop-list/items-list/equipment.json', 'w') as f:
 
 # materials scraper
 
+mined = [
+    "Iron Ore",
+    "Machalite Ore",
+    "Dragonite Ore",
+    "Carbalite Ore",
+    "Fucium Ore",
+    "Eltalite Ore",
+    "Meldspar Ore",
+    "Earth Crystal",
+    "Coral Crystal",
+    "Dragonvein Crystal",
+    "Spiritvein Crystal",
+    "Lightcrystal",
+    "Novacrystal",
+    "Purecrystal",
+    "Firecell Stone",
+    "Bathycite Ore",
+    "Gracium",
+    "Aquacore Ore",
+    "Spiritcore Ore",
+    "Dreamcore Ore",
+    "Dragoncore Ore",
+    "Phantomcore Ore",
+    "Shadowcore Ore",
+]
+
+# if mined, ONLY check for mining outcrops, NO quest rewards. IGNORE Seliana Supply Cache    DONE!
+# if material has both monster drops and quest rewards, IGNORE quest rewards
+# if material has only quest rewards, use quest rewards
+# For all materials, take first two columns of table.
+
+# Rerun weapon scraper, added new part.
+
+def get_mined_materials(material):
+    url = material["url"]
+    r = requests.get(url, headers=header)
+    soup = BeautifulSoup(r.text, 'html.parser')
+
+    tds = soup.find('td')
+    tdstext = tds.get_text(strip=True).encode('utf-8').decode('utf-8')
+    raritynum = re.split(r'(\d+)', tdstext)[1]
+
+    start_keyword = "Where to find " + material["name"]
+    end_keyword = "What " + material["name"] + " is used for"
+
+    htmlstr = str(soup)
+
+    start_index = htmlstr.find(start_keyword)
+    end_index = htmlstr.find(end_keyword)
+
+    print(f'Start index: {start_index}, End index: {end_index}')
+
+    if start_index != -1 and end_index != -1 and start_index < end_index:
+        sliced_html = htmlstr[start_index:end_index + len(end_keyword)]
+        sliced_soup = BeautifulSoup(sliced_html, 'html.parser')
+
+        rows = sliced_soup.find_all('tr')
+
+        locales = []
+
+        for row in rows:
+            cols = row.find_all('td')
+            if len(cols) >= 2:
+                p1 = cols[0].get_text(strip=True).encode('utf-8').decode('utf-8')
+                p2 = cols[1].get_text(strip=True).encode('utf-8').decode('utf-8')
+
+                if p2 == ("Seliana Supply Cache" or "Quest Rewards"):
+                    continue
+
+                full_source = p1 + " " + p2 + " Mining Outcrop"
+                locales.append(full_source)
+        
+    return locales, raritynum
+
+materials_json = []
+
+with open('mhw-tools/drop-list/items-list/equipment.json') as f:
+    equipments = json.load(f)
+
+    for equipment in equipments:
+        for material in equipment["materials-forge"]:
+            if material["name"] in mined:
+                loc, rar = get_mined_materials(material)
+                materials_json.append({
+                    "name": material["name"],
+                    "type": "mining-outcrop",
+                    "source": "Mining Outcrop",
+                    "locales": loc,
+                    "rarity": rar,
+                })
