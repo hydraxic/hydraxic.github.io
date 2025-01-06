@@ -1,9 +1,19 @@
 import requests
 from bs4 import BeautifulSoup
 import re
+import json
+from fake_useragent import UserAgent
 
-r = requests.get('https://mhworld.kiranico.com/en/weapons?type=10')
+header = {
+    'User-Agent': UserAgent().chrome,
+    'Referer': 'https://mhworld.kiranico.com/en/',
+}
+
+r = requests.get('https://mhworld.kiranico.com/en/weapons?type=10', headers=header)
 soup = BeautifulSoup(r.text, 'html.parser')
+
+equipments = []
+weapons = []
 
 links = soup.find_all('a')
 
@@ -29,10 +39,11 @@ if start_index is not None and end_index is not None and start_index < end_index
         if link.get('href') in unwanted_links:
             continue
         url = link.get('href')
-        name = link.get_text(strip=True).encode('utf-8')
+        name = link.get_text(strip=True).encode('utf-8').decode('utf-8')
         #if url and name:
-        print(f'{name}: {url}')
-        
+        weapons.append([name, url])
+
+print(weapons)
 
 # insect glaive: 1st: Iron Blade I, last: Kj\xc3\xa1rr Glaive "Paralysis"
 # unwanted extra links (filter these out): 
@@ -44,37 +55,75 @@ if start_index is not None and end_index is not None and start_index < end_index
 # Critical Status: https://mhworld.kiranico.com/en/skilltrees/LzjrL/critical-status
 # scraper will open those links and scrape those pages too
 
-rw = requests.get('https://mhworld.kiranico.com/en/weapons/WgswETq4/beo-glaive-i')
-soupw = BeautifulSoup(rw.text, 'html.parser')
+for weapon in weapons:
+    weaponname = weapon[0]
+    url = weapon[1]
 
-# extract weapon rarity
-tds = soupw.find('td')
-tdstext = tds.get_text(strip=True).encode('utf-8').decode('utf-8')
-raritynum = re.split(r'(\d+)', tdstext)[1]
-print("Rarity: " + raritynum)
+    rw = requests.get(url, headers=header)
+    soupw = BeautifulSoup(rw.text, 'html.parser')
 
-# extract weapon forge materials
-start_keyword = "Required Cost"
-end_keyword = "Tree"
+    # extract weapon rarity
+    tds = soupw.find('td')
+    tdstext = tds.get_text(strip=True).encode('utf-8').decode('utf-8')
+    raritynum = re.split(r'(\d+)', tdstext)[1]
+    print("Rarity: " + raritynum)
 
-htmlstr = str(soupw)
+    # extract weapon forge materials
+    start_keyword = "Required Cost"
+    end_keyword = "Tree" # sometimes it says "Unavailable"
+    end_keyword_alt = "Unavailable"
 
-start_index = htmlstr.find(start_keyword)
-end_index = htmlstr.find(end_keyword)
+    htmlstr = str(soupw)
 
-print(f'Start index: {start_index}, End index: {end_index}')
+    start_index = htmlstr.find(start_keyword)
+    if htmlstr.find(end_keyword) == -1:
+        end_index = htmlstr.find(end_keyword_alt)
+    else:
+        end_index = htmlstr.find(end_keyword)
 
-if start_index != -1 and end_index != -1 and start_index < end_index:
-    sliced_html = htmlstr[start_index:end_index + len(end_keyword)]
-    sliced_soup = BeautifulSoup(sliced_html, 'html.parser')
+    print(f'Start index: {start_index}, End index: {end_index}')
 
-    links = sliced_soup.find_all('a')
+    if start_index != -1 and end_index != -1 and start_index < end_index:
+        sliced_html = htmlstr[start_index:end_index + len(end_keyword)]
+        sliced_soup = BeautifulSoup(sliced_html, 'html.parser')
 
-    for link in links:
-        if link.parent.parent.find('td').get_text(strip=True).encode('utf-8').decode('utf-8') == "Forge Equipment":
-            continue
-        url = link.get('href')
-        name = link.get_text(strip=True).encode('utf-8')
-        amt = (link.parent.parent.find_all('td')[2].get_text(strip=True).encode('utf-8').decode('utf-8')).replace("x", "")
-        #if url and name:
-        print(f'{name}, x{amt}: {url}')
+        links = sliced_soup.find_all('a')
+
+        materials_forge = []
+        materials_upgrade = []
+
+        for link in links:
+            if link.parent.parent.find('td').get_text(strip=True).encode('utf-8').decode('utf-8') == "Forge Equipment":
+                url = link.get('href')
+                name = link.get_text(strip=True).encode('utf-8').decode('utf-8')
+                amt = (link.parent.parent.find_all('td')[2].get_text(strip=True).encode('utf-8').decode('utf-8')).replace("x", "")
+                #if url and name:
+                temp = {"name": name, "quantity": amt}
+                materials_forge.append(temp)
+            elif link.parent.parent.find('td').get_text(strip=True).encode('utf-8').decode('utf-8') == "Upgrade Equipment":
+                url = link.get('href')
+                name = link.get_text(strip=True).encode('utf-8').decode('utf-8')
+                amt = (link.parent.parent.find_all('td')[2].get_text(strip=True).encode('utf-8').decode('utf-8')).replace("x", "")
+                #if url and name:
+                temp = {"name": name, "quantity": amt}
+                materials_upgrade.append(temp)
+        
+        equipments.append(
+            {"name": weaponname,
+            "type": "ig",
+            "rarity": raritynum,
+            "materials-forge": materials_forge,
+            "materials-upgrade": materials_upgrade,
+            })
+
+print(equipments)
+
+with open('mhw-tools/drop-list/items-list/equipment.json', 'w') as f:
+    json.dump(equipments, f, indent=4)
+
+
+
+
+
+# materials scraper
+

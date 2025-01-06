@@ -29,6 +29,7 @@ function searchItems() {
             if (materialsResultsContainer.innerHTML.indexOf(match) == -1) {
                 const clone = template.content.cloneNode(true);
                 const materialsTable = clone.querySelector('.crafting-materials');
+                const upgradesTable = clone.querySelector('.crafting-materials-upgrade');
                 
                 equipmentName = clone.querySelector('.item-name');
 
@@ -50,7 +51,7 @@ function searchItems() {
                                 img.style.height = '1.2em';
                                 equipmentName.appendChild(img);
 
-                                item.materials.forEach(material => {
+                                item['materials-forge'].forEach(material => {
                                     const materialRow = document.createElement('tr');
                                     const materialName = document.createElement('th');
                                     const materialSources = document.createElement('th');
@@ -77,6 +78,35 @@ function searchItems() {
                                     materialRow.appendChild(materialLocales);
                                     materialRow.appendChild(materialQuantity);
                                     materialsTable.appendChild(materialRow);
+                                })
+
+                                item['materials-upgrade'].forEach(material => {
+                                    const materialRow = document.createElement('tr');
+                                    const materialName = document.createElement('th');
+                                    const materialSources = document.createElement('th');
+                                    const materialLocales = document.createElement('th');
+                                    const materialQuantity = document.createElement('th');
+
+                                    materialName.textContent = material.name;
+                                    materialQuantity.textContent = material.quantity;
+
+                                    fetch('items-list/materials.json')
+                                        .then(response => response.json())
+                                        .then(material => {
+                                            material.forEach(material => {
+                                                if (material.name == materialName.textContent) {
+                                                    materialSources.textContent = material.source.join(', ');
+                                                    materialLocales.textContent = material.locales.length == 0 ? "N/A" : material.locales.join(', ');
+                                                }
+                                            })
+                                        })
+                                        .catch(error => console.error('Error loading items:', error));
+
+                                    materialRow.appendChild(materialName);
+                                    materialRow.appendChild(materialSources);
+                                    materialRow.appendChild(materialLocales);
+                                    materialRow.appendChild(materialQuantity);
+                                    upgradesTable.appendChild(materialRow);
                                 })
                             }
                         })

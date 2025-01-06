@@ -94,12 +94,14 @@ body {
 }
 
 .item-info {
-    border: 1px solid #808080;
+    border: 3px solid #808080;
     border-radius: 4px;
+    background-color: rgb(240, 240, 240);
     padding: 1em;
     padding-top: 0;
     width: 100%;
     box-sizing: border-box;
+    margin-bottom: 2em;
 }
 
 table, th, tr {
@@ -113,5 +115,10 @@ th, tr {
 }
 
 .crafting-materials {
+    width: 100%;
+    margin-bottom: 2em;
+}
+
+.crafting-materials-upgrade {
     width: 100%;
 }

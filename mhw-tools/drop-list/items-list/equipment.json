@@ -1,25 +1,4554 @@
 [
     {
+        "name": "Iron Blade I",
+        "type": "ig",
+        "rarity": "1",
+        "materials-forge": [
+            {
+                "name": "Iron Ore",
+                "quantity": "1"
+            }
+        ],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Iron Blade II",
+        "type": "ig",
+        "rarity": "1",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Iron Ore",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Iron Blade III",
+        "type": "ig",
+        "rarity": "2",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Iron Ore",
+                "quantity": "5"
+            },
+            {
+                "name": "Machalite Ore",
+                "quantity": "2"
+            },
+            {
+                "name": "Earth Crystal",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Steel Blade I",
+        "type": "ig",
+        "rarity": "3",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Machalite Ore",
+                "quantity": "5"
+            },
+            {
+                "name": "Dragonite Ore",
+                "quantity": "2"
+            },
+            {
+                "name": "Monster Bone M",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Steel Blade II",
+        "type": "ig",
+        "rarity": "4",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Machalite Ore",
+                "quantity": "10"
+            },
+            {
+                "name": "Dragonite Ore",
+                "quantity": "5"
+            },
+            {
+                "name": "Coral Crystal",
+                "quantity": "2"
+            },
+            {
+                "name": "Monster Bone+",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Steel Blade III",
+        "type": "ig",
+        "rarity": "5",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Dragonite Ore",
+                "quantity": "5"
+            },
+            {
+                "name": "Carbalite Ore",
+                "quantity": "8"
+            },
+            {
+                "name": "Dragonvein Crystal",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Chrome Blade I",
+        "type": "ig",
+        "rarity": "6",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Dragonite Ore",
+                "quantity": "10"
+            },
+            {
+                "name": "Carbalite Ore",
+                "quantity": "5"
+            },
+            {
+                "name": "Fucium Ore",
+                "quantity": "8"
+            },
+            {
+                "name": "Dragonvein Crystal",
+                "quantity": "3"
+            }
+        ]
+    },
+    {
+        "name": "Chrome Blade II",
+        "type": "ig",
+        "rarity": "6",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Carbalite Ore",
+                "quantity": "20"
+            },
+            {
+                "name": "Fucium Ore",
+                "quantity": "13"
+            },
+            {
+                "name": "Firecell Stone",
+                "quantity": "1"
+            },
+            {
+                "name": "Elder Dragon Blood",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Chrome Trident I",
+        "type": "ig",
+        "rarity": "9",
+        "materials-forge": [
+            {
+                "name": "Carbalite Ore",
+                "quantity": "10"
+            },
+            {
+                "name": "Eltalite Ore",
+                "quantity": "6"
+            },
+            {
+                "name": "Purecrystal",
+                "quantity": "1"
+            },
+            {
+                "name": "Firecell Stone",
+                "quantity": "2"
+            }
+        ],
+        "materials-upgrade": [
+            {
+                "name": "Carbalite Ore",
+                "quantity": "4"
+            },
+            {
+                "name": "Eltalite Ore",
+                "quantity": "2"
+            },
+            {
+                "name": "Spiritvein Crystal",
+                "quantity": "2"
+            },
+            {
+                "name": "Gracium",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Chrome Trident II",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Eltalite Ore",
+                "quantity": "4"
+            },
+            {
+                "name": "Meldspar Ore",
+                "quantity": "2"
+            },
+            {
+                "name": "Bathycite Ore",
+                "quantity": "2"
+            },
+            {
+                "name": "Monster Slogbone",
+                "quantity": "3"
+            }
+        ]
+    },
+    {
+        "name": "Chrome Trident III",
+        "type": "ig",
+        "rarity": "11",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Eltalite Ore",
+                "quantity": "6"
+            },
+            {
+                "name": "Meldspar Ore",
+                "quantity": "3"
+            },
+            {
+                "name": "Purecrystal",
+                "quantity": "1"
+            },
+            {
+                "name": "Pure Dragon Blood",
+                "quantity": "3"
+            }
+        ]
+    },
+    {
+        "name": "Bone Rod I",
+        "type": "ig",
+        "rarity": "1",
+        "materials-forge": [
+            {
+                "name": "Monster Bone S",
+                "quantity": "1"
+            }
+        ],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Bone Rod II",
+        "type": "ig",
+        "rarity": "1",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Monster Bone S",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Bone Rod III",
+        "type": "ig",
+        "rarity": "2",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Ancient Bone",
+                "quantity": "1"
+            },
+            {
+                "name": "Monster Bone M",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Hard Bone Rod I",
+        "type": "ig",
+        "rarity": "3",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Boulder Bone",
+                "quantity": "2"
+            },
+            {
+                "name": "Monster Bone M",
+                "quantity": "5"
+            },
+            {
+                "name": "Monster Bone L",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Hard Bone Rod II",
+        "type": "ig",
+        "rarity": "4",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Sturdy Bone",
+                "quantity": "4"
+            },
+            {
+                "name": "Monster Bone L",
+                "quantity": "1"
+            },
+            {
+                "name": "Monster Bone+",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Hard Bone Rod III",
+        "type": "ig",
+        "rarity": "5",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Quality Bone",
+                "quantity": "2"
+            },
+            {
+                "name": "Monster Bone+",
+                "quantity": "2"
+            },
+            {
+                "name": "Monster Keenbone",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Aerial Rod I",
+        "type": "ig",
+        "rarity": "6",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Quality Bone",
+                "quantity": "10"
+            },
+            {
+                "name": "Monster Keenbone",
+                "quantity": "6"
+            },
+            {
+                "name": "Monster Hardbone",
+                "quantity": "4"
+            }
+        ]
+    },
+    {
+        "name": "Aerial Rod II",
+        "type": "ig",
+        "rarity": "6",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Quality Bone",
+                "quantity": "20"
+            },
+            {
+                "name": "Dragonbone Relic",
+                "quantity": "1"
+            },
+            {
+                "name": "Monster Hardbone",
+                "quantity": "6"
+            },
+            {
+                "name": "Elder Dragon Bone",
+                "quantity": "4"
+            }
+        ]
+    },
+    {
+        "name": "Aerial Magus I",
+        "type": "ig",
+        "rarity": "9",
+        "materials-forge": [
+            {
+                "name": "Quality Bone",
+                "quantity": "8"
+            },
+            {
+                "name": "Thick Bone",
+                "quantity": "6"
+            },
+            {
+                "name": "Dragonbone Artifact",
+                "quantity": "1"
+            },
+            {
+                "name": "Monster Toughbone",
+                "quantity": "4"
+            }
+        ],
+        "materials-upgrade": [
+            {
+                "name": "Quality Bone",
+                "quantity": "4"
+            },
+            {
+                "name": "Thick Bone",
+                "quantity": "2"
+            },
+            {
+                "name": "Frozen Bone",
+                "quantity": "1"
+            },
+            {
+                "name": "Monster Hardbone",
+                "quantity": "4"
+            }
+        ]
+    },
+    {
+        "name": "Aerial Magus II",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Thick Bone",
+                "quantity": "4"
+            },
+            {
+                "name": "Monster Slogbone",
+                "quantity": "3"
+            },
+            {
+                "name": "Monster Solidbone",
+                "quantity": "2"
+            },
+            {
+                "name": "Monster Essence",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Aerial Magus III",
+        "type": "ig",
+        "rarity": "11",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Thick Bone",
+                "quantity": "6"
+            },
+            {
+                "name": "Dragonbone Artifact",
+                "quantity": "1"
+            },
+            {
+                "name": "Monster Solidbone",
+                "quantity": "4"
+            },
+            {
+                "name": "Large Elder Dragon Bone",
+                "quantity": "3"
+            }
+        ]
+    },
+    {
+        "name": "Kulu Blade I",
+        "type": "ig",
+        "rarity": "2",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Kulu-Ya-Ku Scale",
+                "quantity": "3"
+            },
+            {
+                "name": "Kulu-Ya-Ku Hide",
+                "quantity": "2"
+            },
+            {
+                "name": "Kulu-Ya-Ku Beak",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Kulu Blade II",
+        "type": "ig",
+        "rarity": "3",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Boulder Bone",
+                "quantity": "3"
+            },
+            {
+                "name": "Kulu-Ya-Ku Plume",
+                "quantity": "2"
+            },
+            {
+                "name": "Kulu-Ya-Ku Beak",
+                "quantity": "2"
+            },
+            {
+                "name": "Radobaan Scale",
+                "quantity": "3"
+            }
+        ]
+    },
+    {
+        "name": "Kulu Blade III",
+        "type": "ig",
+        "rarity": "4",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Warped Bone",
+                "quantity": "3"
+            },
+            {
+                "name": "Kulu-Ya-Ku Plume",
+                "quantity": "4"
+            },
+            {
+                "name": "Kulu-Ya-Ku Beak",
+                "quantity": "2"
+            },
+            {
+                "name": "Odogaron Claw",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Ya-Ku Wrath I",
+        "type": "ig",
+        "rarity": "5",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Kulu-Ya-Ku Scale+",
+                "quantity": "6"
+            },
+            {
+                "name": "Kulu-Ya-Ku Hide+",
+                "quantity": "4"
+            },
+            {
+                "name": "Kulu-Ya-Ku Beak+",
+                "quantity": "3"
+            }
+        ]
+    },
+    {
+        "name": "Ya-Ku Wrath II",
+        "type": "ig",
+        "rarity": "6",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Brutal Bone",
+                "quantity": "3"
+            },
+            {
+                "name": "Kulu-Ya-Ku Plume+",
+                "quantity": "3"
+            },
+            {
+                "name": "Kulu-Ya-Ku Beak+",
+                "quantity": "4"
+            },
+            {
+                "name": "Odogaron Claw+",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Ya-Ku Wrath III",
+        "type": "ig",
+        "rarity": "6",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Bird Wyvern Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Kulu-Ya-Ku Plume+",
+                "quantity": "4"
+            },
+            {
+                "name": "Kulu-Ya-Ku Beak+",
+                "quantity": "5"
+            },
+            {
+                "name": "Nergigante Talon",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Yatir al-Nasr I",
+        "type": "ig",
+        "rarity": "9",
+        "materials-forge": [
+            {
+                "name": "Fey Wyvern Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Kulu-Ya-Ku Shard",
+                "quantity": "5"
+            },
+            {
+                "name": "Kulu-Ya-Ku Thickhide",
+                "quantity": "4"
+            },
+            {
+                "name": "Large Kulu-Ya-Ku Beak",
+                "quantity": "2"
+            }
+        ],
+        "materials-upgrade": [
+            {
+                "name": "Thick Bone",
+                "quantity": "2"
+            },
+            {
+                "name": "Kulu-Ya-Ku Shard",
+                "quantity": "3"
+            },
+            {
+                "name": "Kulu-Ya-Ku Thickhide",
+                "quantity": "2"
+            },
+            {
+                "name": "Large Kulu-Ya-Ku Beak",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Yatir al-Nasr II",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Monster Slogbone",
+                "quantity": "3"
+            },
+            {
+                "name": "Large Kulu-Ya-Ku Plume",
+                "quantity": "3"
+            },
+            {
+                "name": "Large Kulu-Ya-Ku Beak",
+                "quantity": "2"
+            },
+            {
+                "name": "Nargacuga Hardfang",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Blooming Glaive I",
+        "type": "ig",
+        "rarity": "2",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Poison Sac",
+                "quantity": "1"
+            },
+            {
+                "name": "Pukei-Pukei Scale",
+                "quantity": "3"
+            },
+            {
+                "name": "Pukei-Pukei Quill",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Blooming Glaive II",
+        "type": "ig",
+        "rarity": "3",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Coral Crystal",
+                "quantity": "3"
+            },
+            {
+                "name": "Pukei-Pukei Shell",
+                "quantity": "3"
+            },
+            {
+                "name": "Pukei-Pukei Sac",
+                "quantity": "2"
+            },
+            {
+                "name": "Pukei-Pukei Tail",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Blooming Glaive III",
+        "type": "ig",
+        "rarity": "4",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Monster Bone+",
+                "quantity": "2"
+            },
+            {
+                "name": "Poison Sac",
+                "quantity": "2"
+            },
+            {
+                "name": "Pukei-Pukei Quill",
+                "quantity": "4"
+            },
+            {
+                "name": "Pukei-Pukei Sac",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Datura Blade I",
+        "type": "ig",
+        "rarity": "5",
+        "materials-forge": [
+            {
+                "name": "Carbalite Ore",
+                "quantity": "8"
+            },
+            {
+                "name": "Toxin Sac",
+                "quantity": "2"
+            },
+            {
+                "name": "Pukei-Pukei Wing",
+                "quantity": "4"
+            },
+            {
+                "name": "Pukei-Pukei Sac+",
+                "quantity": "3"
+            }
+        ],
+        "materials-upgrade": [
+            {
+                "name": "Quality Bone",
+                "quantity": "3"
+            },
+            {
+                "name": "Toxin Sac",
+                "quantity": "2"
+            },
+            {
+                "name": "Pukei-Pukei Scale+",
+                "quantity": "3"
+            },
+            {
+                "name": "Pukei-Pukei Wing",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Datura Blade II",
+        "type": "ig",
+        "rarity": "6",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Monster Hardbone",
+                "quantity": "3"
+            },
+            {
+                "name": "Toxin Sac",
+                "quantity": "2"
+            },
+            {
+                "name": "Pukei-Pukei Carapace",
+                "quantity": "5"
+            },
+            {
+                "name": "Pukei-Pukei Wing",
+                "quantity": "3"
+            }
+        ]
+    },
+    {
+        "name": "Datura Blade III",
+        "type": "ig",
+        "rarity": "6",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Bird Wyvern Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Pukei-Pukei Wing",
+                "quantity": "6"
+            },
+            {
+                "name": "Pukei-Pukei Sac+",
+                "quantity": "4"
+            },
+            {
+                "name": "Vaal Hazak Wing",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Datura Storm I",
+        "type": "ig",
+        "rarity": "9",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Monster Toughbone",
+                "quantity": "2"
+            },
+            {
+                "name": "Deadly Poison Sac",
+                "quantity": "2"
+            },
+            {
+                "name": "Pukei-Pukei Shard",
+                "quantity": "3"
+            },
+            {
+                "name": "Pukei-Pukei Fellwing",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Datura Storm II",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Monster Slogbone",
+                "quantity": "3"
+            },
+            {
+                "name": "Large Pukei-Pukei Sac",
+                "quantity": "1"
+            },
+            {
+                "name": "Pukei-Pukei Lash",
+                "quantity": "1"
+            },
+            {
+                "name": "Rathian Surspike",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Pulsar Rod I",
+        "type": "ig",
+        "rarity": "2",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Tobi-Kadachi Scale",
+                "quantity": "3"
+            },
+            {
+                "name": "Tobi-Kadachi Pelt",
+                "quantity": "2"
+            },
+            {
+                "name": "Tobi-Kadachi Claw",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Pulsar Rod II",
+        "type": "ig",
+        "rarity": "3",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Coral Crystal",
+                "quantity": "3"
+            },
+            {
+                "name": "Electro Sac",
+                "quantity": "2"
+            },
+            {
+                "name": "Tobi-Kadachi Claw",
+                "quantity": "3"
+            },
+            {
+                "name": "Tobi-Kadachi Electrode",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Pulsar Rod III",
+        "type": "ig",
+        "rarity": "4",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Warped Bone",
+                "quantity": "2"
+            },
+            {
+                "name": "Monster Bone+",
+                "quantity": "2"
+            },
+            {
+                "name": "Tobi-Kadachi Membrane",
+                "quantity": "2"
+            },
+            {
+                "name": "Tobi-Kadachi Electrode",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Kadachi Pillar I",
+        "type": "ig",
+        "rarity": "5",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Dragonvein Crystal",
+                "quantity": "3"
+            },
+            {
+                "name": "Tobi-Kadachi Scale+",
+                "quantity": "4"
+            },
+            {
+                "name": "Tobi-Kadachi Pelt+",
+                "quantity": "3"
+            },
+            {
+                "name": "Tobi-Kadachi Claw+",
+                "quantity": "3"
+            }
+        ]
+    },
+    {
+        "name": "Kadachi Pillar II",
+        "type": "ig",
+        "rarity": "6",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Thunder Sac",
+                "quantity": "3"
+            },
+            {
+                "name": "Tobi-Kadachi Claw+",
+                "quantity": "4"
+            },
+            {
+                "name": "Tobi-Kadachi Electrode+",
+                "quantity": "2"
+            },
+            {
+                "name": "Majestic Horn",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Kadachi Pillar III",
+        "type": "ig",
+        "rarity": "6",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Wyvern Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Tobi-Kadachi Claw+",
+                "quantity": "6"
+            },
+            {
+                "name": "Tobi-Kadachi Electrode+",
+                "quantity": "4"
+            },
+            {
+                "name": "Nergigante Talon",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Kadachi Fury I",
+        "type": "ig",
+        "rarity": "9",
+        "materials-forge": [
+            {
+                "name": "Large Wyvern Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Tobi-Kadachi Shard",
+                "quantity": "6"
+            },
+            {
+                "name": "Tobi-Kadachi Hardclaw",
+                "quantity": "2"
+            },
+            {
+                "name": "Tobi-Kadachi Cathode",
+                "quantity": "2"
+            }
+        ],
+        "materials-upgrade": [
+            {
+                "name": "Lightning Sac",
+                "quantity": "1"
+            },
+            {
+                "name": "Tobi-Kadachi Shard",
+                "quantity": "2"
+            },
+            {
+                "name": "Tobi-Kadachi Thickfur",
+                "quantity": "2"
+            },
+            {
+                "name": "Tobi-Kadachi Hardclaw",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Kadachi Fury II",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Tobi-Kadachi Membrane+",
+                "quantity": "2"
+            },
+            {
+                "name": "Tobi-Kadachi Hardclaw",
+                "quantity": "2"
+            },
+            {
+                "name": "Tobi-Kadachi Cathode",
+                "quantity": "2"
+            },
+            {
+                "name": "Hard Odogaron Sinew",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Flammenkaefer",
+        "type": "ig",
+        "rarity": "3",
+        "materials-forge": [
+            {
+                "name": "Anjanath Pelt",
+                "quantity": "4"
+            },
+            {
+                "name": "Anjanath Fang",
+                "quantity": "5"
+            },
+            {
+                "name": "Anjanath Tail",
+                "quantity": "2"
+            },
+            {
+                "name": "Anjanath Plate",
+                "quantity": "1"
+            }
+        ],
+        "materials-upgrade": [
+            {
+                "name": "Flame Sac",
+                "quantity": "2"
+            },
+            {
+                "name": "Anjanath Scale",
+                "quantity": "3"
+            },
+            {
+                "name": "Anjanath Pelt",
+                "quantity": "2"
+            },
+            {
+                "name": "Anjanath Fang",
+                "quantity": "3"
+            }
+        ]
+    },
+    {
+        "name": "Flammenkaefer+",
+        "type": "ig",
+        "rarity": "5",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Inferno Sac",
+                "quantity": "3"
+            },
+            {
+                "name": "Anjanath Scale+",
+                "quantity": "5"
+            },
+            {
+                "name": "Anjanath Fang+",
+                "quantity": "4"
+            },
+            {
+                "name": "Anjanath Plate",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Gnashing Flammenkaefer",
+        "type": "ig",
+        "rarity": "7",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Anjanath Pelt+",
+                "quantity": "4"
+            },
+            {
+                "name": "Anjanath Nosebone+",
+                "quantity": "2"
+            },
+            {
+                "name": "Anjanath Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Vaal Hazak Fang+",
+                "quantity": "5"
+            }
+        ]
+    },
+    {
+        "name": "Gnashing Flammenkaefer+",
+        "type": "ig",
+        "rarity": "9",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Eltalite Ore",
+                "quantity": "3"
+            },
+            {
+                "name": "Conflagrant Sac",
+                "quantity": "1"
+            },
+            {
+                "name": "Anjanath Shard",
+                "quantity": "2"
+            },
+            {
+                "name": "Anjanath Hardfang",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Lohenspire",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Anjanath Fur",
+                "quantity": "3"
+            },
+            {
+                "name": "Heavy Anjanath Nosebone",
+                "quantity": "2"
+            },
+            {
+                "name": "Anjanath Lash",
+                "quantity": "1"
+            },
+            {
+                "name": "Azure Rathalos Cortex",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Nergal Reaper",
+        "type": "ig",
+        "rarity": "7",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Nergigante Carapace",
+                "quantity": "2"
+            },
+            {
+                "name": "Nergigante Tail",
+                "quantity": "2"
+            },
+            {
+                "name": "Nergigante Talon",
+                "quantity": "3"
+            },
+            {
+                "name": "Nergigante Regrowth Plate",
+                "quantity": "4"
+            }
+        ]
+    },
+    {
+        "name": "Catastrophe's Light",
+        "type": "ig",
+        "rarity": "8",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Nergigante Horn+",
+                "quantity": "5"
+            },
+            {
+                "name": "Nergigante Talon",
+                "quantity": "5"
+            },
+            {
+                "name": "Nergigante Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Xeno'jiiva Horn",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Ruinous Catastrophe",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Large Elder Dragon Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Annihilating Greathorn",
+                "quantity": "3"
+            },
+            {
+                "name": "Nergigante Hardclaw",
+                "quantity": "4"
+            },
+            {
+                "name": "Eternal Regrowth Plate",
+                "quantity": "5"
+            }
+        ]
+    },
+    {
+        "name": "Luminous Blade I",
+        "type": "ig",
+        "rarity": "3",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Tzitzi-Ya-Ku Scale",
+                "quantity": "3"
+            },
+            {
+                "name": "Tzitzi-Ya-Ku Claw",
+                "quantity": "2"
+            },
+            {
+                "name": "Tzitzi-Ya-Ku Photophore",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Luminous Blade II",
+        "type": "ig",
+        "rarity": "4",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Sharp Claw",
+                "quantity": "3"
+            },
+            {
+                "name": "Tzitzi-Ya-Ku Claw",
+                "quantity": "3"
+            },
+            {
+                "name": "Tzitzi-Ya-Ku Photophore",
+                "quantity": "2"
+            },
+            {
+                "name": "Legiana Tail Webbing",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Destroyer Bo I",
+        "type": "ig",
+        "rarity": "5",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Lightcrystal",
+                "quantity": "1"
+            },
+            {
+                "name": "Tzitzi-Ya-Ku Scale+",
+                "quantity": "5"
+            },
+            {
+                "name": "Tzitzi-Ya-Ku Claw+",
+                "quantity": "3"
+            },
+            {
+                "name": "Tzitzi-Ya-Ku Photophore+",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Destroyer Bo II",
+        "type": "ig",
+        "rarity": "6",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Piercing Claw",
+                "quantity": "5"
+            },
+            {
+                "name": "Tzitzi-Ya-Ku Claw+",
+                "quantity": "4"
+            },
+            {
+                "name": "Tzitzi-Ya-Ku Photophore+",
+                "quantity": "2"
+            },
+            {
+                "name": "Legiana Wing",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Destroyer Bo III",
+        "type": "ig",
+        "rarity": "6",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Bird Wyvern Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Tzitzi-Ya-Ku Claw+",
+                "quantity": "5"
+            },
+            {
+                "name": "Tzitzi-Ya-Ku Photophore+",
+                "quantity": "3"
+            },
+            {
+                "name": "Daora Webbing",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Diving Destroyer I",
+        "type": "ig",
+        "rarity": "9",
+        "materials-forge": [
+            {
+                "name": "Fey Wyvern Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Tzitzi-Ya-Ku Shard",
+                "quantity": "4"
+            },
+            {
+                "name": "Tzitzi-Ya-Ku Hardclaw",
+                "quantity": "3"
+            },
+            {
+                "name": "Tzitzi-Ya-Ku Photomembrane",
+                "quantity": "2"
+            }
+        ],
+        "materials-upgrade": [
+            {
+                "name": "Tough Claw",
+                "quantity": "2"
+            },
+            {
+                "name": "Tzitzi-Ya-Ku Shard",
+                "quantity": "2"
+            },
+            {
+                "name": "Tzitzi-Ya-Ku Hardclaw",
+                "quantity": "1"
+            },
+            {
+                "name": "Tzitzi-Ya-Ku Photomembrane",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Diving Destroyer II",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Purecrystal",
+                "quantity": "1"
+            },
+            {
+                "name": "Tzitzi-Ya-Ku Hardclaw",
+                "quantity": "2"
+            },
+            {
+                "name": "Tzitzi-Ya-Ku Photomembrane",
+                "quantity": "1"
+            },
+            {
+                "name": "Legiana Hardclaw",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Garon Rod I",
+        "type": "ig",
+        "rarity": "4",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Odogaron Scale",
+                "quantity": "4"
+            },
+            {
+                "name": "Odogaron Claw",
+                "quantity": "2"
+            },
+            {
+                "name": "Odogaron Fang",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Garon Rod II",
+        "type": "ig",
+        "rarity": "5",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Quality Bone",
+                "quantity": "5"
+            },
+            {
+                "name": "Odogaron Claw",
+                "quantity": "2"
+            },
+            {
+                "name": "Odogaron Tail",
+                "quantity": "2"
+            },
+            {
+                "name": "Odogaron Plate",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Temptation's Trident",
+        "type": "ig",
+        "rarity": "6",
+        "materials-forge": [
+            {
+                "name": "Dragonbone Artifact",
+                "quantity": "1"
+            },
+            {
+                "name": "Wyvern Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Odogaron Scale+",
+                "quantity": "8"
+            },
+            {
+                "name": "Odogaron Shard",
+                "quantity": "3"
+            }
+        ],
+        "materials-upgrade": [
+            {
+                "name": "Dragonbone Relic",
+                "quantity": "1"
+            },
+            {
+                "name": "Odogaron Scale+",
+                "quantity": "8"
+            },
+            {
+                "name": "Odogaron Claw+",
+                "quantity": "4"
+            },
+            {
+                "name": "Odogaron Fang+",
+                "quantity": "3"
+            }
+        ]
+    },
+    {
+        "name": "Vice",
+        "type": "ig",
+        "rarity": "8",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Odogaron Claw+",
+                "quantity": "6"
+            },
+            {
+                "name": "Odogaron Fang+",
+                "quantity": "5"
+            },
+            {
+                "name": "Odogaron Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Teostra Claw+",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Vice+",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Monster Slogbone",
+                "quantity": "3"
+            },
+            {
+                "name": "Odogaron Shard",
+                "quantity": "3"
+            },
+            {
+                "name": "Odogaron Hardclaw",
+                "quantity": "2"
+            },
+            {
+                "name": "Odogaron Hardfang",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Cruelty",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Odogaron Hardclaw",
+                "quantity": "4"
+            },
+            {
+                "name": "Odogaron Lash",
+                "quantity": "2"
+            },
+            {
+                "name": "Odogaron Mantle",
+                "quantity": "1"
+            },
+            {
+                "name": "Acidic Glavenus Tailedge",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Hazak Entoma I",
+        "type": "ig",
+        "rarity": "7",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Deceased Scale",
+                "quantity": "6"
+            },
+            {
+                "name": "Vaal Hazak Membrane",
+                "quantity": "4"
+            },
+            {
+                "name": "Vaal Hazak Fang+",
+                "quantity": "5"
+            },
+            {
+                "name": "Vaal Hazak Talon",
+                "quantity": "4"
+            }
+        ]
+    },
+    {
+        "name": "Hazak Entoma II",
+        "type": "ig",
+        "rarity": "7",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Vaal Hazak Tail",
+                "quantity": "2"
+            },
+            {
+                "name": "Vaal Hazak Talon",
+                "quantity": "6"
+            },
+            {
+                "name": "Vaal Hazak Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Xeno'jiiva Veil",
+                "quantity": "3"
+            }
+        ]
+    },
+    {
+        "name": "Deathstaff Vaal Entoma",
+        "type": "ig",
+        "rarity": "11",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Deceased Shard",
+                "quantity": "5"
+            },
+            {
+                "name": "Deathweaver Membrane",
+                "quantity": "3"
+            },
+            {
+                "name": "Shadowpierce Fang",
+                "quantity": "2"
+            },
+            {
+                "name": "Vaal Hazak Hardclaw",
+                "quantity": "3"
+            }
+        ]
+    },
+    {
+        "name": "Flame Glaive I",
+        "type": "ig",
+        "rarity": "4",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Flame Sac",
+                "quantity": "2"
+            },
+            {
+                "name": "Rathalos Scale",
+                "quantity": "1"
+            },
+            {
+                "name": "Rathalos Webbing",
+                "quantity": "2"
+            },
+            {
+                "name": "Rathalos Marrow",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Flame Glaive II",
+        "type": "ig",
+        "rarity": "5",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Inferno Sac",
+                "quantity": "3"
+            },
+            {
+                "name": "Rathalos Scale",
+                "quantity": "6"
+            },
+            {
+                "name": "Rathalos Tail",
+                "quantity": "2"
+            },
+            {
+                "name": "Rathalos Plate",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Rathmaul",
+        "type": "ig",
+        "rarity": "6",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Rathalos Scale+",
+                "quantity": "6"
+            },
+            {
+                "name": "Rathalos Carapace",
+                "quantity": "4"
+            },
+            {
+                "name": "Rathalos Wing",
+                "quantity": "2"
+            },
+            {
+                "name": "Rathalos Medulla",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Firedance Rathmaul",
+        "type": "ig",
+        "rarity": "7",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Rathalos Ruby",
+                "quantity": "1"
+            },
+            {
+                "name": "Azure Rathalos Scale+",
+                "quantity": "6"
+            },
+            {
+                "name": "Azure Rathalos Carapace",
+                "quantity": "4"
+            },
+            {
+                "name": "Azure Rathalos Wing",
+                "quantity": "3"
+            }
+        ]
+    },
+    {
+        "name": "Firedance Rathmaul+",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Rathalos Shard",
+                "quantity": "6"
+            },
+            {
+                "name": "Rathalos Cortex",
+                "quantity": "4"
+            },
+            {
+                "name": "Rathalos Fellwing",
+                "quantity": "2"
+            },
+            {
+                "name": "Rath Wingtalon+",
+                "quantity": "4"
+            }
+        ]
+    },
+    {
+        "name": "Azure Flightmaster",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Rathalos Mantle",
+                "quantity": "1"
+            },
+            {
+                "name": "Azure Rathalos Shard",
+                "quantity": "6"
+            },
+            {
+                "name": "Azure Rathalos Cortex",
+                "quantity": "4"
+            },
+            {
+                "name": "Azure Rathalos Fellwing",
+                "quantity": "3"
+            }
+        ]
+    },
+    {
+        "name": "Blossomajesty",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Silver Rathalos Shard",
+                "quantity": "8"
+            },
+            {
+                "name": "Silver Rathalos Cortex",
+                "quantity": "4"
+            },
+            {
+                "name": "Silver Rathalos Lash",
+                "quantity": "3"
+            },
+            {
+                "name": "Rath Gleam",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Diablos Rod I",
+        "type": "ig",
+        "rarity": "4",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Monster Bone+",
+                "quantity": "3"
+            },
+            {
+                "name": "Diablos Shell",
+                "quantity": "4"
+            },
+            {
+                "name": "Diablos Fang",
+                "quantity": "2"
+            },
+            {
+                "name": "Twisted Horn",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Diablos Rod II",
+        "type": "ig",
+        "rarity": "5",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Monster Keenbone",
+                "quantity": "4"
+            },
+            {
+                "name": "Diablos Ridge",
+                "quantity": "4"
+            },
+            {
+                "name": "Diablos Tailcase",
+                "quantity": "2"
+            },
+            {
+                "name": "Diablos Marrow",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Tyrannis Glaive I",
+        "type": "ig",
+        "rarity": "6",
+        "materials-forge": [
+            {
+                "name": "Dragonbone Artifact",
+                "quantity": "1"
+            },
+            {
+                "name": "Wyvern Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Diablos Cortex",
+                "quantity": "3"
+            },
+            {
+                "name": "Majestic Horn",
+                "quantity": "3"
+            }
+        ],
+        "materials-upgrade": [
+            {
+                "name": "Diablos Carapace",
+                "quantity": "6"
+            },
+            {
+                "name": "Diablos Ridge+",
+                "quantity": "5"
+            },
+            {
+                "name": "Majestic Horn",
+                "quantity": "3"
+            },
+            {
+                "name": "Blos Medulla",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Tyrannis Glaive II",
+        "type": "ig",
+        "rarity": "7",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Wyvern Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Black Diablos Carapace",
+                "quantity": "4"
+            },
+            {
+                "name": "Black Spiral Horn+",
+                "quantity": "3"
+            },
+            {
+                "name": "Nergigante Horn+",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Tyrannis Glaive III",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Monster Slogbone",
+                "quantity": "3"
+            },
+            {
+                "name": "Diablos Cortex",
+                "quantity": "6"
+            },
+            {
+                "name": "Diablos Chine",
+                "quantity": "5"
+            },
+            {
+                "name": "Twisted Stouthorn",
+                "quantity": "3"
+            }
+        ]
+    },
+    {
+        "name": "Thanatos Glaive",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Monster Solidbone",
+                "quantity": "3"
+            },
+            {
+                "name": "Large Wyvern Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Black Diablos Cortex",
+                "quantity": "3"
+            },
+            {
+                "name": "Blackcurl Stouthorn",
+                "quantity": "3"
+            }
+        ]
+    },
+    {
+        "name": "Indigo Flash",
+        "type": "ig",
+        "rarity": "4",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Lightcrystal",
+                "quantity": "1"
+            },
+            {
+                "name": "Kirin Hide",
+                "quantity": "3"
+            },
+            {
+                "name": "Kirin Tail",
+                "quantity": "1"
+            },
+            {
+                "name": "Kirin Thunderhorn",
+                "quantity": "3"
+            }
+        ]
+    },
+    {
+        "name": "Azure Bolt",
+        "type": "ig",
+        "rarity": "7",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Dragonvein Crystal",
+                "quantity": "5"
+            },
+            {
+                "name": "Kirin Hide+",
+                "quantity": "5"
+            },
+            {
+                "name": "Kirin Mane",
+                "quantity": "4"
+            },
+            {
+                "name": "Kirin Azure Horn",
+                "quantity": "4"
+            }
+        ]
+    },
+    {
+        "name": "Verdant Levin",
+        "type": "ig",
+        "rarity": "8",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Novacrystal",
+                "quantity": "2"
+            },
+            {
+                "name": "Kirin Thundertail",
+                "quantity": "3"
+            },
+            {
+                "name": "Kirin Azure Horn",
+                "quantity": "6"
+            },
+            {
+                "name": "Xeno'jiiva Shell",
+                "quantity": "4"
+            }
+        ]
+    },
+    {
+        "name": "Celestial Spire",
+        "type": "ig",
+        "rarity": "11",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Purecrystal",
+                "quantity": "1"
+            },
+            {
+                "name": "Kirin Finehide",
+                "quantity": "4"
+            },
+            {
+                "name": "Kirin Silvermane",
+                "quantity": "3"
+            },
+            {
+                "name": "Kirin Azure Horn+",
+                "quantity": "3"
+            }
+        ]
+    },
+    {
+        "name": "Gama Cane I",
+        "type": "ig",
+        "rarity": "6",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Dodogama Scale+",
+                "quantity": "6"
+            },
+            {
+                "name": "Dodogama Hide+",
+                "quantity": "4"
+            },
+            {
+                "name": "Dodogama Talon",
+                "quantity": "4"
+            }
+        ]
+    },
+    {
+        "name": "Gama Cane II",
+        "type": "ig",
+        "rarity": "7",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Wyvern Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Dodogama Jaw",
+                "quantity": "4"
+            },
+            {
+                "name": "Dodogama Tail",
+                "quantity": "3"
+            },
+            {
+                "name": "Fire Dragon Scale+",
+                "quantity": "4"
+            }
+        ]
+    },
+    {
+        "name": "Gama Magus I",
+        "type": "ig",
+        "rarity": "9",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Gastodon Husk",
+                "quantity": "2"
+            },
+            {
+                "name": "Dodogama Shard",
+                "quantity": "3"
+            },
+            {
+                "name": "Dodogama Thickhide",
+                "quantity": "2"
+            },
+            {
+                "name": "Dodogama Hardclaw",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Gama Magus II",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Monster Slogbone",
+                "quantity": "5"
+            },
+            {
+                "name": "Dodogama Mandible",
+                "quantity": "2"
+            },
+            {
+                "name": "Dodogama Lash",
+                "quantity": "1"
+            },
+            {
+                "name": "Fine Brachydios Ebonshell",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Daora's Entom",
+        "type": "ig",
+        "rarity": "7",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Nergigante Carapace",
+                "quantity": "5"
+            },
+            {
+                "name": "Daora Webbing",
+                "quantity": "4"
+            },
+            {
+                "name": "Daora Tail",
+                "quantity": "2"
+            },
+            {
+                "name": "Daora Claw+",
+                "quantity": "3"
+            }
+        ]
+    },
+    {
+        "name": "Daora's Tethidine",
+        "type": "ig",
+        "rarity": "8",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Daora Horn+",
+                "quantity": "5"
+            },
+            {
+                "name": "Daora Claw+",
+                "quantity": "4"
+            },
+            {
+                "name": "Daora Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Xeno'jiiva Wing",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Daora's Samudra",
+        "type": "ig",
+        "rarity": "11",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Large Elder Dragon Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Daora Shard",
+                "quantity": "5"
+            },
+            {
+                "name": "Daora Hardhorn",
+                "quantity": "5"
+            },
+            {
+                "name": "Daora Hardclaw",
+                "quantity": "4"
+            }
+        ]
+    },
+    {
+        "name": "Xeno Shmaena",
+        "type": "ig",
+        "rarity": "8",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Xeno'jiiva Shell",
+                "quantity": "6"
+            },
+            {
+                "name": "Xeno'jiiva Tail",
+                "quantity": "2"
+            },
+            {
+                "name": "Xeno'jiiva Claw",
+                "quantity": "4"
+            },
+            {
+                "name": "Xeno'jiiva Gem",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Xeno Shmaena+",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Safi'jiiva Cortex",
+                "quantity": "8"
+            },
+            {
+                "name": "Pulsing Dragonshell",
+                "quantity": "7"
+            },
+            {
+                "name": "Safi'jiiva Hardhorn",
+                "quantity": "4"
+            },
+            {
+                "name": "Safi'jiiva Hardclaw",
+                "quantity": "6"
+            }
+        ]
+    },
+    {
+        "name": "Dragonbone Glaive I",
+        "type": "ig",
+        "rarity": "3",
+        "materials-forge": [
+            {
+                "name": "Ancient Bone",
+                "quantity": "5"
+            },
+            {
+                "name": "Boulder Bone",
+                "quantity": "5"
+            },
+            {
+                "name": "Coral Bone",
+                "quantity": "5"
+            },
+            {
+                "name": "Warped Bone",
+                "quantity": "5"
+            }
+        ],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Dragonbone Glaive II",
+        "type": "ig",
+        "rarity": "4",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Sturdy Bone",
+                "quantity": "8"
+            },
+            {
+                "name": "Monster Bone L",
+                "quantity": "8"
+            },
+            {
+                "name": "Monster Bone+",
+                "quantity": "6"
+            }
+        ]
+    },
+    {
+        "name": "Dragonbone Glaive III",
+        "type": "ig",
+        "rarity": "6",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Brutal Bone",
+                "quantity": "4"
+            },
+            {
+                "name": "Dragonbone Relic",
+                "quantity": "2"
+            },
+            {
+                "name": "Elder Dragon Bone",
+                "quantity": "10"
+            },
+            {
+                "name": "Wyvern Gem",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Dragonseal Aldstaff I",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Thick Bone",
+                "quantity": "6"
+            },
+            {
+                "name": "Dragonbone Artifact",
+                "quantity": "1"
+            },
+            {
+                "name": "Monster Slogbone",
+                "quantity": "4"
+            },
+            {
+                "name": "Monster Solidbone",
+                "quantity": "3"
+            }
+        ]
+    },
+    {
+        "name": "Dragonseal Aldstaff II",
+        "type": "ig",
+        "rarity": "11",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Monster Solidbone",
+                "quantity": "4"
+            },
+            {
+                "name": "Large Elder Dragon Bone",
+                "quantity": "6"
+            },
+            {
+                "name": "Large Wyvern Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Lavasioth Grandfin",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Blacksteel Glaive I",
+        "type": "ig",
+        "rarity": "5",
+        "materials-forge": [
+            {
+                "name": "Earth Crystal",
+                "quantity": "10"
+            },
+            {
+                "name": "Coral Crystal",
+                "quantity": "10"
+            },
+            {
+                "name": "Dragonvein Crystal",
+                "quantity": "10"
+            },
+            {
+                "name": "Lightcrystal",
+                "quantity": "1"
+            }
+        ],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Blacksteel Glaive II",
+        "type": "ig",
+        "rarity": "6",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Carbalite Ore",
+                "quantity": "10"
+            },
+            {
+                "name": "Fucium Ore",
+                "quantity": "5"
+            },
+            {
+                "name": "Firecell Stone",
+                "quantity": "1"
+            },
+            {
+                "name": "Wyvern Gem",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Frost Blade I",
+        "type": "ig",
+        "rarity": "4",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Coral Crystal",
+                "quantity": "3"
+            },
+            {
+                "name": "Frost Sac",
+                "quantity": "2"
+            },
+            {
+                "name": "Legiana Scale",
+                "quantity": "4"
+            },
+            {
+                "name": "Legiana Claw",
+                "quantity": "3"
+            }
+        ]
+    },
+    {
+        "name": "Frost Blade II",
+        "type": "ig",
+        "rarity": "5",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Carbalite Ore",
+                "quantity": "5"
+            },
+            {
+                "name": "Shamos Scale+",
+                "quantity": "5"
+            },
+            {
+                "name": "Legiana Webbing",
+                "quantity": "3"
+            },
+            {
+                "name": "Legiana Tail Webbing",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Freeze Gale I",
+        "type": "ig",
+        "rarity": "6",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Fucium Ore",
+                "quantity": "5"
+            },
+            {
+                "name": "Freezer Sac",
+                "quantity": "3"
+            },
+            {
+                "name": "Legiana Scale+",
+                "quantity": "5"
+            },
+            {
+                "name": "Legiana Wing",
+                "quantity": "3"
+            }
+        ]
+    },
+    {
+        "name": "Freeze Gale II",
+        "type": "ig",
+        "rarity": "6",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Wyvern Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Elder Dragon Blood",
+                "quantity": "3"
+            },
+            {
+                "name": "Legiana Hide+",
+                "quantity": "3"
+            },
+            {
+                "name": "Legiana Claw+",
+                "quantity": "5"
+            }
+        ]
+    },
+    {
+        "name": "Freeze Gale III",
+        "type": "ig",
+        "rarity": "9",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Eltalite Ore",
+                "quantity": "4"
+            },
+            {
+                "name": "Gracium",
+                "quantity": "2"
+            },
+            {
+                "name": "Cryo Sac",
+                "quantity": "1"
+            },
+            {
+                "name": "Wulg Thickfur",
+                "quantity": "3"
+            }
+        ]
+    },
+    {
+        "name": "Amber Piton",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Frozen Bone",
+                "quantity": "3"
+            },
+            {
+                "name": "Cryo Sac",
+                "quantity": "4"
+            },
+            {
+                "name": "Barioth Cortex",
+                "quantity": "4"
+            },
+            {
+                "name": "Barioth Hardclaw",
+                "quantity": "3"
+            }
+        ]
+    },
+    {
+        "name": "Amber Piton+",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Large Wyvern Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Obsidian Icetalon",
+                "quantity": "2"
+            },
+            {
+                "name": "Barioth Greatspike",
+                "quantity": "3"
+            },
+            {
+                "name": "Amber Hardfang",
+                "quantity": "3"
+            }
+        ]
+    },
+    {
+        "name": "Fenrir Storm",
+        "type": "ig",
+        "rarity": "11",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Large Elder Dragon Bone",
+                "quantity": "5"
+            },
+            {
+                "name": "Barioth Hardclaw",
+                "quantity": "4"
+            },
+            {
+                "name": "Amber Hardfang",
+                "quantity": "2"
+            },
+            {
+                "name": "Velkhana Hardclaw",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Aqua Rod I",
+        "type": "ig",
+        "rarity": "2",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Boulder Bone",
+                "quantity": "2"
+            },
+            {
+                "name": "Aqua Sac",
+                "quantity": "1"
+            },
+            {
+                "name": "Jyuratodus Scale",
+                "quantity": "3"
+            },
+            {
+                "name": "Jyuratodus Shell",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Aqua Rod II",
+        "type": "ig",
+        "rarity": "3",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Sturdy Bone",
+                "quantity": "5"
+            },
+            {
+                "name": "Gajau Skin",
+                "quantity": "3"
+            },
+            {
+                "name": "Jyuratodus Fang",
+                "quantity": "2"
+            },
+            {
+                "name": "Jyuratodus Fin",
+                "quantity": "3"
+            }
+        ]
+    },
+    {
+        "name": "Aqua Rod III",
+        "type": "ig",
+        "rarity": "4",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Coral Bone",
+                "quantity": "2"
+            },
+            {
+                "name": "Monster Bone+",
+                "quantity": "2"
+            },
+            {
+                "name": "Gajau Whisker",
+                "quantity": "3"
+            },
+            {
+                "name": "Jyuratodus Fang",
+                "quantity": "4"
+            }
+        ]
+    },
+    {
+        "name": "Water Glaive I",
+        "type": "ig",
+        "rarity": "5",
+        "materials-forge": [
+            {
+                "name": "Monster Keenbone",
+                "quantity": "5"
+            },
+            {
+                "name": "Torrent Sac",
+                "quantity": "2"
+            },
+            {
+                "name": "Wyvern Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Jyuratodus Fin+",
+                "quantity": "3"
+            }
+        ],
+        "materials-upgrade": [
+            {
+                "name": "Quality Bone",
+                "quantity": "5"
+            },
+            {
+                "name": "Gajau Scale",
+                "quantity": "5"
+            },
+            {
+                "name": "Jyuratodus Scale+",
+                "quantity": "3"
+            },
+            {
+                "name": "Jyuratodus Carapace",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Water Glaive II",
+        "type": "ig",
+        "rarity": "6",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Monster Hardbone",
+                "quantity": "3"
+            },
+            {
+                "name": "Torrent Sac",
+                "quantity": "3"
+            },
+            {
+                "name": "Grand Gajau Whisker",
+                "quantity": "3"
+            },
+            {
+                "name": "Jyuratodus Fin+",
+                "quantity": "4"
+            }
+        ]
+    },
+    {
+        "name": "Water Glaive III",
+        "type": "ig",
+        "rarity": "6",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Elder Dragon Bone",
+                "quantity": "4"
+            },
+            {
+                "name": "Wyvern Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Jyuratodus Fang+",
+                "quantity": "5"
+            },
+            {
+                "name": "Jyuratodus Fin+",
+                "quantity": "6"
+            }
+        ]
+    },
+    {
+        "name": "Water Glaive IV",
+        "type": "ig",
+        "rarity": "9",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Gajau Thickhide",
+                "quantity": "2"
+            },
+            {
+                "name": "Jyuratodus Shard",
+                "quantity": "3"
+            },
+            {
+                "name": "Jyuratodus Hardfang",
+                "quantity": "1"
+            },
+            {
+                "name": "Jyuratodus Grandfin",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Laguna Glaive I",
+        "type": "ig",
+        "rarity": "9",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Bathycite Ore",
+                "quantity": "2"
+            },
+            {
+                "name": "Flood Sac",
+                "quantity": "2"
+            },
+            {
+                "name": "Coral Pukei-Pukei Shard",
+                "quantity": "3"
+            },
+            {
+                "name": "Coral Pukei-Pukei Fellwing",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Laguna Glaive II",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Monster Solidbone",
+                "quantity": "3"
+            },
+            {
+                "name": "Large Coral Pukei-Pukei Sac",
+                "quantity": "1"
+            },
+            {
+                "name": "Coral Pukei-Pukei Lash",
+                "quantity": "1"
+            },
+            {
+                "name": "Acidic Glavenus Hardfang",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Bad Wing",
+        "type": "ig",
+        "rarity": "6",
+        "materials-forge": [
+            {
+                "name": "Deviljho Scale",
+                "quantity": "6"
+            },
+            {
+                "name": "Deviljho Tallfang",
+                "quantity": "3"
+            },
+            {
+                "name": "Deviljho Talon",
+                "quantity": "2"
+            },
+            {
+                "name": "Deviljho Saliva",
+                "quantity": "2"
+            }
+        ],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Grunge Storm",
+        "type": "ig",
+        "rarity": "7",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Elder Dragon Blood",
+                "quantity": "5"
+            },
+            {
+                "name": "Deviljho Tallfang",
+                "quantity": "5"
+            },
+            {
+                "name": "Deviljho Scalp",
+                "quantity": "2"
+            },
+            {
+                "name": "Deviljho Gem",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Fate's Wing",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Vile Fang",
+                "quantity": "3"
+            },
+            {
+                "name": "Deviljho Ripper",
+                "quantity": "2"
+            },
+            {
+                "name": "Black Blood",
+                "quantity": "3"
+            },
+            {
+                "name": "Deviljho Crook",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Empress Cane",
+        "type": "ig",
+        "rarity": "7",
+        "materials-forge": [
+            {
+                "name": "Lunastra Mane",
+                "quantity": "3"
+            },
+            {
+                "name": "Lunastra Horn",
+                "quantity": "3"
+            },
+            {
+                "name": "Lunastra Scale+",
+                "quantity": "4"
+            },
+            {
+                "name": "Lunastra Gem",
+                "quantity": "1"
+            }
+        ],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Empress Cane \"Blaze\"",
+        "type": "ig",
+        "rarity": "8",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Bazelgeuse Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Teostra Horn+",
+                "quantity": "3"
+            },
+            {
+                "name": "Lunastra Horn",
+                "quantity": "2"
+            },
+            {
+                "name": "Research Commission Ticket",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Soulfire Reach \"Blaze\"",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Large Elder Dragon Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Lunastra Mane+",
+                "quantity": "4"
+            },
+            {
+                "name": "Lunastra Hardhorn",
+                "quantity": "4"
+            },
+            {
+                "name": "Lunastra Shard",
+                "quantity": "4"
+            }
+        ]
+    },
+    {
+        "name": "Empress Cane \"Ruin\"",
+        "type": "ig",
+        "rarity": "8",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Nergigante Horn+",
+                "quantity": "3"
+            },
+            {
+                "name": "Nergigante Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Lunastra Wing",
+                "quantity": "3"
+            },
+            {
+                "name": "Research Commission Ticket",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Soulfire Reach \"Ruin\"",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Large Elder Dragon Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Annihilating Greathorn",
+                "quantity": "3"
+            },
+            {
+                "name": "Eternal Regrowth Plate",
+                "quantity": "3"
+            },
+            {
+                "name": "Lunastra Shard",
+                "quantity": "4"
+            }
+        ]
+    },
+    {
+        "name": "Empress Cane \"Styx\"",
+        "type": "ig",
+        "rarity": "8",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Lunastra Tail",
+                "quantity": "2"
+            },
+            {
+                "name": "Xeno'jiiva Horn",
+                "quantity": "3"
+            },
+            {
+                "name": "Xeno'jiiva Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Research Commission Ticket",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Soulfire Reach \"Styx\"",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Large Elder Dragon Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Lunastra Lash",
+                "quantity": "2"
+            },
+            {
+                "name": "Lunastra Shard",
+                "quantity": "4"
+            },
+            {
+                "name": "Elder Spiritvein Bone",
+                "quantity": "5"
+            }
+        ]
+    },
+    {
+        "name": "Defender Glaive I",
+        "type": "ig",
+        "rarity": "1",
+        "materials-forge": [
+            {
+                "name": "Iron Ore",
+                "quantity": "1"
+            }
+        ],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Defender Glaive II",
+        "type": "ig",
+        "rarity": "3",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Anjanath Scale",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Defender Glaive III",
+        "type": "ig",
+        "rarity": "5",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Commendation",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Defender Glaive IV",
+        "type": "ig",
+        "rarity": "6",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Pink Rathian Scale+",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Defender Glaive V",
+        "type": "ig",
+        "rarity": "7",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Immortal Dragonscale",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Brimstren Drakerod",
+        "type": "ig",
+        "rarity": "11",
+        "materials-forge": [
+            {
+                "name": "Stygian Zinogre Dragonlocks",
+                "quantity": "2"
+            },
+            {
+                "name": "Stygian Zinogre Hardhorn",
+                "quantity": "1"
+            },
+            {
+                "name": "Stygian Zinogre Hardclaw",
+                "quantity": "1"
+            },
+            {
+                "name": "Stygian Zinogre Dragonhold",
+                "quantity": "2"
+            }
+        ],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Stygian Oblivia",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Stygian Zinogre Hardhorn",
+                "quantity": "2"
+            },
+            {
+                "name": "Stygian Zinogre Hardclaw",
+                "quantity": "5"
+            },
+            {
+                "name": "Stygian Zinogre Skymerald",
+                "quantity": "1"
+            },
+            {
+                "name": "Tempered Dragonhold",
+                "quantity": "3"
+            }
+        ]
+    },
+    {
+        "name": "Hidden Cane I",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Meldspar Ore",
+                "quantity": "1"
+            },
+            {
+                "name": "Nargacuga Shard",
+                "quantity": "3"
+            },
+            {
+                "name": "Nargacuga Tailspear",
+                "quantity": "2"
+            },
+            {
+                "name": "Nargacuga Hardfang",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Hidden Cane II",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Fulgur Anjanath Hardfang",
+                "quantity": "2"
+            },
+            {
+                "name": "Nargacuga Lash",
+                "quantity": "2"
+            },
+            {
+                "name": "Nargacuga Cutwing+",
+                "quantity": "3"
+            },
+            {
+                "name": "Nargacuga Mantle",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Flaming Teuza",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Eltalite Ore",
+                "quantity": "6"
+            },
+            {
+                "name": "Glavenus Shard",
+                "quantity": "4"
+            },
+            {
+                "name": "Glavenus Hardfang",
+                "quantity": "2"
+            },
+            {
+                "name": "Molten Bursa",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Flaming Teuza+",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Ebony Odogaron Hardfang",
+                "quantity": "2"
+            },
+            {
+                "name": "Glavenus Hellshell",
+                "quantity": "3"
+            },
+            {
+                "name": "Glavenus Tailedge",
+                "quantity": "2"
+            },
+            {
+                "name": "Glavenus Mantle",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Glavenus Helldait",
+        "type": "ig",
+        "rarity": "11",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Pure Dragon Blood",
+                "quantity": "3"
+            },
+            {
+                "name": "Glavenus Hardfang",
+                "quantity": "5"
+            },
+            {
+                "name": "Glavenus Hellshell",
+                "quantity": "4"
+            },
+            {
+                "name": "Fire Dragon Hardclaw",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Icescepter",
+        "type": "ig",
+        "rarity": "11",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Purecrystal",
+                "quantity": "1"
+            },
+            {
+                "name": "Crystal Shard",
+                "quantity": "4"
+            },
+            {
+                "name": "Velkhana Lash",
+                "quantity": "2"
+            },
+            {
+                "name": "Velkhana Hardclaw",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Wise Fylos",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Velkhana Crownhorn",
+                "quantity": "4"
+            },
+            {
+                "name": "Velkhana Hardclaw",
+                "quantity": "4"
+            },
+            {
+                "name": "Velkhana Crystal",
+                "quantity": "1"
+            },
+            {
+                "name": "Shara Ishvalda Tenderclaw",
+                "quantity": "3"
+            }
+        ]
+    },
+    {
+        "name": "Rex Rod I",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Thick Bone",
+                "quantity": "5"
+            },
+            {
+                "name": "Monster Slogbone",
+                "quantity": "3"
+            },
+            {
+                "name": "Tigrex Shard",
+                "quantity": "4"
+            },
+            {
+                "name": "Tigrex Hardclaw",
+                "quantity": "3"
+            }
+        ]
+    },
+    {
+        "name": "Rex Rod II",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Blackcurl Stouthorn",
+                "quantity": "1"
+            },
+            {
+                "name": "Tigrex Lash",
+                "quantity": "2"
+            },
+            {
+                "name": "Tigrex Hardfang",
+                "quantity": "3"
+            },
+            {
+                "name": "Tigrex Mantle",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Donnerspitze",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Meldspar Ore",
+                "quantity": "2"
+            },
+            {
+                "name": "Monster Solidbone",
+                "quantity": "3"
+            },
+            {
+                "name": "Fulgur Anjanath Shard",
+                "quantity": "2"
+            },
+            {
+                "name": "Fulgur Anjanath Hardfang",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Donnerspitze+",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Lightning Sac",
+                "quantity": "3"
+            },
+            {
+                "name": "Fulgur Anjanath Thickfur",
+                "quantity": "3"
+            },
+            {
+                "name": "Heavy Fulgur Anjanath Nosebone",
+                "quantity": "2"
+            },
+            {
+                "name": "Fulgur Anjanath Lash",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Fulguration's Tower",
+        "type": "ig",
+        "rarity": "11",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Fulgur Anjanath Thickfur",
+                "quantity": "5"
+            },
+            {
+                "name": "Fulgur Anjanath Hardfang",
+                "quantity": "3"
+            },
+            {
+                "name": "Fulgur Anjanath Mantle",
+                "quantity": "1"
+            },
+            {
+                "name": "Kirin Silvermane",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Nyx Blade I",
+        "type": "ig",
+        "rarity": "9",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Torpor Sac",
+                "quantity": "1"
+            },
+            {
+                "name": "Paolumu Cortex",
+                "quantity": "2"
+            },
+            {
+                "name": "Nightshade Paolumu Thickfur",
+                "quantity": "3"
+            },
+            {
+                "name": "Nightshade Paolumu Fellwing",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Nyx Blade II",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Large Wyvern Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Nightshade Paolumu Shard",
+                "quantity": "5"
+            },
+            {
+                "name": "Nightshade Paolumu Fellwing",
+                "quantity": "3"
+            },
+            {
+                "name": "Black Diablos Chine",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Dios Rod",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Meldspar Ore",
+                "quantity": "3"
+            },
+            {
+                "name": "Brachydios Cortex",
+                "quantity": "4"
+            },
+            {
+                "name": "Brachydios Crown",
+                "quantity": "2"
+            },
+            {
+                "name": "Glowing Slime",
+                "quantity": "3"
+            }
+        ]
+    },
+    {
+        "name": "Electrorod",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Azure Rathalos Fellwing",
+                "quantity": "2"
+            },
+            {
+                "name": "Glowing Slime",
+                "quantity": "5"
+            },
+            {
+                "name": "Brachydios Pounder+",
+                "quantity": "3"
+            },
+            {
+                "name": "Brachydios Lash",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Infinite Wisdom",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Shara Ishvalda Tenderscale",
+                "quantity": "6"
+            },
+            {
+                "name": "Shara Ishvalda Tenderplate",
+                "quantity": "2"
+            },
+            {
+                "name": "Shara Ishvalda Tenderclaw",
+                "quantity": "4"
+            },
+            {
+                "name": "Shara Ishvalda Gem",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Metal Mauler",
+        "type": "ig",
+        "rarity": "11",
+        "materials-forge": [
+            {
+                "name": "Rajang Hardhorn",
+                "quantity": "1"
+            },
+            {
+                "name": "Rajang Hardfang",
+                "quantity": "2"
+            },
+            {
+                "name": "Rajang Wildpelt",
+                "quantity": "2"
+            },
+            {
+                "name": "Rajang Hardclaw",
+                "quantity": "1"
+            }
+        ],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Metalmangler",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Rajang Hardhorn",
+                "quantity": "3"
+            },
+            {
+                "name": "Rajang Hardfang",
+                "quantity": "7"
+            },
+            {
+                "name": "Gold Rajang Pelt+",
+                "quantity": "3"
+            },
+            {
+                "name": "Tempered Glimmerpelt",
+                "quantity": "3"
+            }
+        ]
+    },
+    {
+        "name": "Alatreon Dragonspire",
+        "type": "ig",
+        "rarity": "11",
+        "materials-forge": [
+            {
+                "name": "Large Elder Dragon Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Alatreon Mantle",
+                "quantity": "3"
+            },
+            {
+                "name": "Alatreon Riptalon",
+                "quantity": "3"
+            },
+            {
+                "name": "Skyswayer",
+                "quantity": "1"
+            }
+        ],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Alatreon Embrace",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Alatreon Riptalon",
+                "quantity": "2"
+            },
+            {
+                "name": "Alatreon Direwing",
+                "quantity": "1"
+            },
+            {
+                "name": "Skyswayer",
+                "quantity": "2"
+            },
+            {
+                "name": "Azure Dragonsphire",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Royal Bolt Scepter",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Lightning Sac",
+                "quantity": "3"
+            },
+            {
+                "name": "Zinogre Cortex",
+                "quantity": "5"
+            },
+            {
+                "name": "Zinogre Hardclaw",
+                "quantity": "3"
+            },
+            {
+                "name": "Zinogre Deathly Shocker",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Royal Bolt Scepter+",
+        "type": "ig",
+        "rarity": "11",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Zinogre Electrofur+",
+                "quantity": "4"
+            },
+            {
+                "name": "Zinogre Hardhorn",
+                "quantity": "3"
+            },
+            {
+                "name": "Fulgurbug",
+                "quantity": "5"
+            },
+            {
+                "name": "Zinogre Skymerald",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Despot's Twinbolt",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Large Elder Dragon Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Zinogre Hardhorn",
+                "quantity": "2"
+            },
+            {
+                "name": "Zinogre Deathly Shocker",
+                "quantity": "5"
+            },
+            {
+                "name": "Spiritvein Solidbone",
+                "quantity": "5"
+            }
+        ]
+    },
+    {
+        "name": "Sulfurteinn Spiran",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Acidic Glavenus Hardfang",
+                "quantity": "2"
+            },
+            {
+                "name": "Acidic Glavenus Spineshell",
+                "quantity": "2"
+            },
+            {
+                "name": "Acidic Glavenus Tailedge",
+                "quantity": "2"
+            },
+            {
+                "name": "Honed Acidcryst",
+                "quantity": "4"
+            }
+        ]
+    },
+    {
+        "name": "The Trickling Spiral",
+        "type": "ig",
+        "rarity": "11",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Glavenus Mantle",
+                "quantity": "1"
+            },
+            {
+                "name": "Acidic Glavenus Hardfang",
+                "quantity": "4"
+            },
+            {
+                "name": "Acidic Glavenus Spineshell",
+                "quantity": "3"
+            },
+            {
+                "name": "Vaal Hazak Hardclaw",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Kadachi Vipertail I",
+        "type": "ig",
+        "rarity": "9",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Ultraplegia Sac",
+                "quantity": "1"
+            },
+            {
+                "name": "Viper Tobi-Kadachi Shard",
+                "quantity": "2"
+            },
+            {
+                "name": "Viper Tobi-Kadachi Thickfur",
+                "quantity": "2"
+            },
+            {
+                "name": "Viper Tobi-Kadachi Hardclaw",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Kadachi Vipertail II",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Viper Tobi-Kadachi Membrane+",
+                "quantity": "2"
+            },
+            {
+                "name": "Viper Tobi-Kadachi Hardclaw",
+                "quantity": "2"
+            },
+            {
+                "name": "Viper Tobi-Kadachi Thorn",
+                "quantity": "2"
+            },
+            {
+                "name": "Acidic Glavenus Spineshell",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Hydros Arcana",
+        "type": "ig",
+        "rarity": "11",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Purecrystal",
+                "quantity": "1"
+            },
+            {
+                "name": "Namielle Finehide",
+                "quantity": "5"
+            },
+            {
+                "name": "Namielle Whisker",
+                "quantity": "2"
+            },
+            {
+                "name": "Namielle Hardclaw",
+                "quantity": "4"
+            }
+        ]
+    },
+    {
+        "name": "Beo Glaive I",
+        "type": "ig",
+        "rarity": "9",
+        "materials-forge": [
+            {
+                "name": "Frozen Bone",
+                "quantity": "3"
+            },
+            {
+                "name": "Beotodus Shard",
+                "quantity": "6"
+            },
+            {
+                "name": "Beotodus Hardhorn",
+                "quantity": "2"
+            },
+            {
+                "name": "Beotodus Grandfin",
+                "quantity": "2"
+            }
+        ],
+        "materials-upgrade": [
+            {
+                "name": "Frozen Bone",
+                "quantity": "1"
+            },
+            {
+                "name": "Beotodus Shard",
+                "quantity": "3"
+            },
+            {
+                "name": "Beotodus Hardhorn",
+                "quantity": "1"
+            },
+            {
+                "name": "Beotodus Grandfin",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Beo Glaive II",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Cryo Sac",
+                "quantity": "2"
+            },
+            {
+                "name": "Large Wyvern Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Beotodus Grandfin",
+                "quantity": "2"
+            },
+            {
+                "name": "Rimed Hide",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Nether Vajra",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Dragonbone Artifact",
+                "quantity": "1"
+            },
+            {
+                "name": "Ebony Odogaron Shard",
+                "quantity": "5"
+            },
+            {
+                "name": "Ebony Odogaron Hardclaw",
+                "quantity": "3"
+            },
+            {
+                "name": "Ebony Odogaron Hardfang",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Deadline",
+        "type": "ig",
+        "rarity": "11",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Ebony Odogaron Hardclaw",
+                "quantity": "4"
+            },
+            {
+                "name": "Ebony Odogaron Lash",
+                "quantity": "2"
+            },
+            {
+                "name": "Ebony Odogaron Mantle",
+                "quantity": "1"
+            },
+            {
+                "name": "Namielle Hardclaw",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Accursed Rod",
+        "type": "ig",
+        "rarity": "11",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Large Wyvern Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Brute Tigrex Shard",
+                "quantity": "5"
+            },
+            {
+                "name": "Brute Tigrex Hardclaw",
+                "quantity": "3"
+            },
+            {
+                "name": "Brute Tigrex Hardfang",
+                "quantity": "2"
+            }
+        ]
+    },
+    {
+        "name": "Guild Palace Rod",
+        "type": "ig",
+        "rarity": "10",
+        "materials-forge": [
+            {
+                "name": "Purecrystal",
+                "quantity": "1"
+            },
+            {
+                "name": "Gracium",
+                "quantity": "5"
+            },
+            {
+                "name": "Amber Hardfang",
+                "quantity": "2"
+            },
+            {
+                "name": "Fest Ticket",
+                "quantity": "2"
+            }
+        ],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Royal March Banner",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Large Elder Dragon Bone",
+                "quantity": "5"
+            },
+            {
+                "name": "Pure Dragon Blood",
+                "quantity": "3"
+            },
+            {
+                "name": "Namielle Hardclaw",
+                "quantity": "3"
+            },
+            {
+                "name": "Hero King Coin",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Demonlord Cudgel",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [
+            {
+                "name": "Gold Rajang Pelt+",
+                "quantity": "5"
+            },
+            {
+                "name": "Rajang Apoplexy",
+                "quantity": "2"
+            },
+            {
+                "name": "Ghoulish Gold Gorer",
+                "quantity": "3"
+            },
+            {
+                "name": "Rajang Heart",
+                "quantity": "1"
+            }
+        ],
+        "materials-upgrade": []
+    },
+    {
         "name": "Lightbreak Press",
         "type": "ig",
-        "rarity": 12,
-        "materials": [
+        "rarity": "12",
+        "materials-forge": [
             {
-                "name": "Brach Obliterator",
-                "quantity": 3
+                "name": "Indestructible Ebonshell",
+                "quantity": "4"
             },
             {
                 "name": "Brach Warhead",
-                "quantity": 1
+                "quantity": "1"
             },
             {
-                "name": "Indestructible Ebonshell",
-                "quantity": 4
+                "name": "Brach Obliterator",
+                "quantity": "3"
             },
             {
                 "name": "Immortal Reactor",
-                "quantity": 1
+                "quantity": "1"
+            }
+        ],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Safi's Venomspear",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Safi's Drakspear",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Safi's Boltspear",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Safi's Frostspear",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Safi's Aquaspear",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Safi's Hellspear",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Safi's Shatterspear",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Safi's Dreamspear",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Safi's Bindspear",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Safi's Venomspear",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Safi's Drakspear",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Safi's Boltspear",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Safi's Frostspear",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Safi's Aquaspear",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Safi's Hellspear",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Safi's Bindspear",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Safi's Shatterspear",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Safi's Dreamspear",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Fenrir Rose",
+        "type": "ig",
+        "rarity": "11",
+        "materials-forge": [
+            {
+                "name": "Large Wyvern Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Bergcrusher Claw",
+                "quantity": "2"
+            },
+            {
+                "name": "Silverwhite Frostfang",
+                "quantity": "3"
+            },
+            {
+                "name": "Frostfang Ticket",
+                "quantity": "3"
+            }
+        ],
+        "materials-upgrade": [
+            {
+                "name": "Gracium",
+                "quantity": "5"
+            },
+            {
+                "name": "Bergcrusher Claw",
+                "quantity": "1"
+            },
+            {
+                "name": "Silverwhite Frostfang",
+                "quantity": "3"
+            },
+            {
+                "name": "Frostfang Ticket",
+                "quantity": "2"
             }
         ]
+    },
+    {
+        "name": "Fatalis Glaive",
+        "type": "ig",
+        "rarity": "11",
+        "materials-forge": [
+            {
+                "name": "Fatalis Shard",
+                "quantity": "3"
+            },
+            {
+                "name": "Fatalis Pectus",
+                "quantity": "1"
+            },
+            {
+                "name": "Fatalis Hardhorn",
+                "quantity": "1"
+            },
+            {
+                "name": "Fatalis Evil Eye",
+                "quantity": "1"
+            }
+        ],
+        "materials-upgrade": []
+    },
+    {
+        "name": "True Fatalis Dyaus",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": [
+            {
+                "name": "Large Elder Dragon Gem",
+                "quantity": "1"
+            },
+            {
+                "name": "Fatalis Pectus",
+                "quantity": "2"
+            },
+            {
+                "name": "Fatalis Hardhorn",
+                "quantity": "2"
+            },
+            {
+                "name": "Fatalis Evil Eye",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "name": "Taroth Glaive \"Sleep\"",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Taroth Glaive \"Flash\"",
+        "type": "ig",
+        "rarity": "11",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Taroth Glaive \"Claw\"",
+        "type": "ig",
+        "rarity": "11",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Taroth Glaive \"Decay\"",
+        "type": "ig",
+        "rarity": "11",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Taroth Glaive \"King\"",
+        "type": "ig",
+        "rarity": "11",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Taroth Glaive \"Horn\"",
+        "type": "ig",
+        "rarity": "11",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Taroth Glaive \"Crusher\"",
+        "type": "ig",
+        "rarity": "11",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Taroth Glaive \"Water\"",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Taroth Glaive \"Ice\"",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Taroth Glaive \"Paralysis\"",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Taroth Glaive \"Spark\"",
+        "type": "ig",
+        "rarity": "11",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Kj\u00e1rr Glaive \"Spark\"",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Kj\u00e1rr Glaive \"Decay\"",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Kj\u00e1rr Glaive \"King\"",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Kj\u00e1rr Glaive \"Crusher\"",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Kj\u00e1rr Glaive \"Water\"",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Kj\u00e1rr Glaive \"Ice\"",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": []
+    },
+    {
+        "name": "Kj\u00e1rr Glaive \"Paralysis\"",
+        "type": "ig",
+        "rarity": "12",
+        "materials-forge": [],
+        "materials-upgrade": []
     }
 ]
