@@ -6,7 +6,8 @@
         "materials-forge": [
             {
                 "name": "Iron Ore",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/radQo/iron-ore"
             }
         ],
         "materials-upgrade": []
@@ -19,7 +20,8 @@
         "materials-upgrade": [
             {
                 "name": "Iron Ore",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/radQo/iron-ore"
             }
         ]
     },
@@ -31,15 +33,18 @@
         "materials-upgrade": [
             {
                 "name": "Iron Ore",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/radQo/iron-ore"
             },
             {
                 "name": "Machalite Ore",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oG9Ml/machalite-ore"
             },
             {
                 "name": "Earth Crystal",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/e680r/earth-crystal"
             }
         ]
     },
@@ -51,15 +56,18 @@
         "materials-upgrade": [
             {
                 "name": "Machalite Ore",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/oG9Ml/machalite-ore"
             },
             {
                 "name": "Dragonite Ore",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oJ9Ae/dragonite-ore"
             },
             {
                 "name": "Monster Bone M",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oLkKe/monster-bone-m"
             }
         ]
     },
@@ -71,19 +79,23 @@
         "materials-upgrade": [
             {
                 "name": "Machalite Ore",
-                "quantity": "10"
+                "quantity": "10",
+                "url": "https://mhworld.kiranico.com/en/items/oG9Ml/machalite-ore"
             },
             {
                 "name": "Dragonite Ore",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/oJ9Ae/dragonite-ore"
             },
             {
                 "name": "Coral Crystal",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oVYEe/coral-crystal"
             },
             {
                 "name": "Monster Bone+",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/eAkZr/monster-bone"
             }
         ]
     },
@@ -95,15 +107,18 @@
         "materials-upgrade": [
             {
                 "name": "Dragonite Ore",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/oJ9Ae/dragonite-ore"
             },
             {
                 "name": "Carbalite Ore",
-                "quantity": "8"
+                "quantity": "8",
+                "url": "https://mhworld.kiranico.com/en/items/r2bRr/carbalite-ore"
             },
             {
                 "name": "Dragonvein Crystal",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/om60r/dragonvein-crystal"
             }
         ]
     },
@@ -115,19 +130,23 @@
         "materials-upgrade": [
             {
                 "name": "Dragonite Ore",
-                "quantity": "10"
+                "quantity": "10",
+                "url": "https://mhworld.kiranico.com/en/items/oJ9Ae/dragonite-ore"
             },
             {
                 "name": "Carbalite Ore",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/r2bRr/carbalite-ore"
             },
             {
                 "name": "Fucium Ore",
-                "quantity": "8"
+                "quantity": "8",
+                "url": "https://mhworld.kiranico.com/en/items/rYm5r/fucium-ore"
             },
             {
                 "name": "Dragonvein Crystal",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/om60r/dragonvein-crystal"
             }
         ]
     },
@@ -139,19 +158,23 @@
         "materials-upgrade": [
             {
                 "name": "Carbalite Ore",
-                "quantity": "20"
+                "quantity": "20",
+                "url": "https://mhworld.kiranico.com/en/items/r2bRr/carbalite-ore"
             },
             {
                 "name": "Fucium Ore",
-                "quantity": "13"
+                "quantity": "13",
+                "url": "https://mhworld.kiranico.com/en/items/rYm5r/fucium-ore"
             },
             {
                 "name": "Firecell Stone",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/r3bGo/firecell-stone"
             },
             {
                 "name": "Elder Dragon Blood",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/onBao/elder-dragon-blood"
             }
         ]
     },
@@ -162,37 +185,45 @@
         "materials-forge": [
             {
                 "name": "Carbalite Ore",
-                "quantity": "10"
+                "quantity": "10",
+                "url": "https://mhworld.kiranico.com/en/items/r2bRr/carbalite-ore"
             },
             {
                 "name": "Eltalite Ore",
-                "quantity": "6"
+                "quantity": "6",
+                "url": "https://mhworld.kiranico.com/en/items/oOkwo/eltalite-ore"
             },
             {
                 "name": "Purecrystal",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/l97xo/purecrystal"
             },
             {
                 "name": "Firecell Stone",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/r3bGo/firecell-stone"
             }
         ],
         "materials-upgrade": [
             {
                 "name": "Carbalite Ore",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/r2bRr/carbalite-ore"
             },
             {
                 "name": "Eltalite Ore",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oOkwo/eltalite-ore"
             },
             {
                 "name": "Spiritvein Crystal",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oydge/spiritvein-crystal"
             },
             {
                 "name": "Gracium",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/oLRVl/gracium"
             }
         ]
     },
@@ -204,19 +235,23 @@
         "materials-upgrade": [
             {
                 "name": "Eltalite Ore",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/oOkwo/eltalite-ore"
             },
             {
                 "name": "Meldspar Ore",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/l0WVr/meldspar-ore"
             },
             {
                 "name": "Bathycite Ore",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lkGml/bathycite-ore"
             },
             {
                 "name": "Monster Slogbone",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oGW5o/monster-slogbone"
             }
         ]
     },
@@ -228,19 +263,23 @@
         "materials-upgrade": [
             {
                 "name": "Eltalite Ore",
-                "quantity": "6"
+                "quantity": "6",
+                "url": "https://mhworld.kiranico.com/en/items/oOkwo/eltalite-ore"
             },
             {
                 "name": "Meldspar Ore",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/l0WVr/meldspar-ore"
             },
             {
                 "name": "Purecrystal",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/l97xo/purecrystal"
             },
             {
                 "name": "Pure Dragon Blood",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/lRvxl/pure-dragon-blood"
             }
         ]
     },
@@ -251,7 +290,8 @@
         "materials-forge": [
             {
                 "name": "Monster Bone S",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/lkwYl/monster-bone-s"
             }
         ],
         "materials-upgrade": []
@@ -264,7 +304,8 @@
         "materials-upgrade": [
             {
                 "name": "Monster Bone S",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lkwYl/monster-bone-s"
             }
         ]
     },
@@ -276,11 +317,13 @@
         "materials-upgrade": [
             {
                 "name": "Ancient Bone",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/rKzbo/ancient-bone"
             },
             {
                 "name": "Monster Bone M",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oLkKe/monster-bone-m"
             }
         ]
     },
@@ -292,15 +335,18 @@
         "materials-upgrade": [
             {
                 "name": "Boulder Bone",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/o1zXr/boulder-bone"
             },
             {
                 "name": "Monster Bone M",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/oLkKe/monster-bone-m"
             },
             {
                 "name": "Monster Bone L",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/r4ZWe/monster-bone-l"
             }
         ]
     },
@@ -312,15 +358,18 @@
         "materials-upgrade": [
             {
                 "name": "Sturdy Bone",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/lb44o/sturdy-bone"
             },
             {
                 "name": "Monster Bone L",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/r4ZWe/monster-bone-l"
             },
             {
                 "name": "Monster Bone+",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/eAkZr/monster-bone"
             }
         ]
     },
@@ -332,15 +381,18 @@
         "materials-upgrade": [
             {
                 "name": "Quality Bone",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/evynl/quality-bone"
             },
             {
                 "name": "Monster Bone+",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/eAkZr/monster-bone"
             },
             {
                 "name": "Monster Keenbone",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oQ5go/monster-keenbone"
             }
         ]
     },
@@ -352,15 +404,18 @@
         "materials-upgrade": [
             {
                 "name": "Quality Bone",
-                "quantity": "10"
+                "quantity": "10",
+                "url": "https://mhworld.kiranico.com/en/items/evynl/quality-bone"
             },
             {
                 "name": "Monster Keenbone",
-                "quantity": "6"
+                "quantity": "6",
+                "url": "https://mhworld.kiranico.com/en/items/oQ5go/monster-keenbone"
             },
             {
                 "name": "Monster Hardbone",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/rMnNl/monster-hardbone"
             }
         ]
     },
@@ -372,19 +427,23 @@
         "materials-upgrade": [
             {
                 "name": "Quality Bone",
-                "quantity": "20"
+                "quantity": "20",
+                "url": "https://mhworld.kiranico.com/en/items/evynl/quality-bone"
             },
             {
                 "name": "Dragonbone Relic",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/oyQ9o/dragonbone-relic"
             },
             {
                 "name": "Monster Hardbone",
-                "quantity": "6"
+                "quantity": "6",
+                "url": "https://mhworld.kiranico.com/en/items/rMnNl/monster-hardbone"
             },
             {
                 "name": "Elder Dragon Bone",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/lqDKr/elder-dragon-bone"
             }
         ]
     },
@@ -395,37 +454,45 @@
         "materials-forge": [
             {
                 "name": "Quality Bone",
-                "quantity": "8"
+                "quantity": "8",
+                "url": "https://mhworld.kiranico.com/en/items/evynl/quality-bone"
             },
             {
                 "name": "Thick Bone",
-                "quantity": "6"
+                "quantity": "6",
+                "url": "https://mhworld.kiranico.com/en/items/lqmYl/thick-bone"
             },
             {
                 "name": "Dragonbone Artifact",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/rBVar/dragonbone-artifact"
             },
             {
                 "name": "Monster Toughbone",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/rakYe/monster-toughbone"
             }
         ],
         "materials-upgrade": [
             {
                 "name": "Quality Bone",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/evynl/quality-bone"
             },
             {
                 "name": "Thick Bone",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lqmYl/thick-bone"
             },
             {
                 "name": "Frozen Bone",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/ojaOe/frozen-bone"
             },
             {
                 "name": "Monster Hardbone",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/rMnNl/monster-hardbone"
             }
         ]
     },
@@ -437,19 +504,23 @@
         "materials-upgrade": [
             {
                 "name": "Thick Bone",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/lqmYl/thick-bone"
             },
             {
                 "name": "Monster Slogbone",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oGW5o/monster-slogbone"
             },
             {
                 "name": "Monster Solidbone",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oJjzo/monster-solidbone"
             },
             {
                 "name": "Monster Essence",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oVkBr/monster-essence"
             }
         ]
     },
@@ -461,19 +532,23 @@
         "materials-upgrade": [
             {
                 "name": "Thick Bone",
-                "quantity": "6"
+                "quantity": "6",
+                "url": "https://mhworld.kiranico.com/en/items/lqmYl/thick-bone"
             },
             {
                 "name": "Dragonbone Artifact",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/rBVar/dragonbone-artifact"
             },
             {
                 "name": "Monster Solidbone",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/oJjzo/monster-solidbone"
             },
             {
                 "name": "Large Elder Dragon Bone",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/rYkEe/large-elder-dragon-bone"
             }
         ]
     },
@@ -485,15 +560,18 @@
         "materials-upgrade": [
             {
                 "name": "Kulu-Ya-Ku Scale",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/rYjDl/kulu-ya-ku-scale"
             },
             {
                 "name": "Kulu-Ya-Ku Hide",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/e6kvo/kulu-ya-ku-hide"
             },
             {
                 "name": "Kulu-Ya-Ku Beak",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/omL6e/kulu-ya-ku-beak"
             }
         ]
     },
@@ -505,19 +583,23 @@
         "materials-upgrade": [
             {
                 "name": "Boulder Bone",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/o1zXr/boulder-bone"
             },
             {
                 "name": "Kulu-Ya-Ku Plume",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oVDjl/kulu-ya-ku-plume"
             },
             {
                 "name": "Kulu-Ya-Ku Beak",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/omL6e/kulu-ya-ku-beak"
             },
             {
                 "name": "Radobaan Scale",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oVaje/radobaan-scale"
             }
         ]
     },
@@ -529,19 +611,23 @@
         "materials-upgrade": [
             {
                 "name": "Warped Bone",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oOnBe/warped-bone"
             },
             {
                 "name": "Kulu-Ya-Ku Plume",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/oVDjl/kulu-ya-ku-plume"
             },
             {
                 "name": "Kulu-Ya-Ku Beak",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/omL6e/kulu-ya-ku-beak"
             },
             {
                 "name": "Odogaron Claw",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lRx5o/odogaron-claw"
             }
         ]
     },
@@ -553,15 +639,18 @@
         "materials-upgrade": [
             {
                 "name": "Kulu-Ya-Ku Scale+",
-                "quantity": "6"
+                "quantity": "6",
+                "url": "https://mhworld.kiranico.com/en/items/egvZl/kulu-ya-ku-scale"
             },
             {
                 "name": "Kulu-Ya-Ku Hide+",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/rXaZl/kulu-ya-ku-hide"
             },
             {
                 "name": "Kulu-Ya-Ku Beak+",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/lWERo/kulu-ya-ku-beak"
             }
         ]
     },
@@ -573,19 +662,23 @@
         "materials-upgrade": [
             {
                 "name": "Brutal Bone",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/l0RJo/brutal-bone"
             },
             {
                 "name": "Kulu-Ya-Ku Plume+",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/r322o/kulu-ya-ku-plume"
             },
             {
                 "name": "Kulu-Ya-Ku Beak+",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/lWERo/kulu-ya-ku-beak"
             },
             {
                 "name": "Odogaron Claw+",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/rKyAe/odogaron-claw"
             }
         ]
     },
@@ -597,19 +690,23 @@
         "materials-upgrade": [
             {
                 "name": "Bird Wyvern Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/r5ZYl/bird-wyvern-gem"
             },
             {
                 "name": "Kulu-Ya-Ku Plume+",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/r322o/kulu-ya-ku-plume"
             },
             {
                 "name": "Kulu-Ya-Ku Beak+",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/lWERo/kulu-ya-ku-beak"
             },
             {
                 "name": "Nergigante Talon",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/o7D4r/nergigante-talon"
             }
         ]
     },
@@ -620,37 +717,45 @@
         "materials-forge": [
             {
                 "name": "Fey Wyvern Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/on3Qr/fey-wyvern-gem"
             },
             {
                 "name": "Kulu-Ya-Ku Shard",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/rYqEr/kulu-ya-ku-shard"
             },
             {
                 "name": "Kulu-Ya-Ku Thickhide",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/e61wl/kulu-ya-ku-thickhide"
             },
             {
                 "name": "Large Kulu-Ya-Ku Beak",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/rBx9e/large-kulu-ya-ku-beak"
             }
         ],
         "materials-upgrade": [
             {
                 "name": "Thick Bone",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lqmYl/thick-bone"
             },
             {
                 "name": "Kulu-Ya-Ku Shard",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/rYqEr/kulu-ya-ku-shard"
             },
             {
                 "name": "Kulu-Ya-Ku Thickhide",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/e61wl/kulu-ya-ku-thickhide"
             },
             {
                 "name": "Large Kulu-Ya-Ku Beak",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/rBx9e/large-kulu-ya-ku-beak"
             }
         ]
     },
@@ -662,19 +767,23 @@
         "materials-upgrade": [
             {
                 "name": "Monster Slogbone",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oGW5o/monster-slogbone"
             },
             {
                 "name": "Large Kulu-Ya-Ku Plume",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oVvBo/large-kulu-ya-ku-plume"
             },
             {
                 "name": "Large Kulu-Ya-Ku Beak",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/rBx9e/large-kulu-ya-ku-beak"
             },
             {
                 "name": "Nargacuga Hardfang",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/rYXYo/nargacuga-hardfang"
             }
         ]
     },
@@ -686,15 +795,18 @@
         "materials-upgrade": [
             {
                 "name": "Poison Sac",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/lDyZe/poison-sac"
             },
             {
                 "name": "Pukei-Pukei Scale",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/r5Pvo/pukei-pukei-scale"
             },
             {
                 "name": "Pukei-Pukei Quill",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/onQke/pukei-pukei-quill"
             }
         ]
     },
@@ -706,19 +818,23 @@
         "materials-upgrade": [
             {
                 "name": "Coral Crystal",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oVYEe/coral-crystal"
             },
             {
                 "name": "Pukei-Pukei Shell",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/eNXYr/pukei-pukei-shell"
             },
             {
                 "name": "Pukei-Pukei Sac",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/edOnl/pukei-pukei-sac"
             },
             {
                 "name": "Pukei-Pukei Tail",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/lRQNr/pukei-pukei-tail"
             }
         ]
     },
@@ -730,19 +846,23 @@
         "materials-upgrade": [
             {
                 "name": "Monster Bone+",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/eAkZr/monster-bone"
             },
             {
                 "name": "Poison Sac",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lDyZe/poison-sac"
             },
             {
                 "name": "Pukei-Pukei Quill",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/onQke/pukei-pukei-quill"
             },
             {
                 "name": "Pukei-Pukei Sac",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/edOnl/pukei-pukei-sac"
             }
         ]
     },
@@ -753,37 +873,45 @@
         "materials-forge": [
             {
                 "name": "Carbalite Ore",
-                "quantity": "8"
+                "quantity": "8",
+                "url": "https://mhworld.kiranico.com/en/items/r2bRr/carbalite-ore"
             },
             {
                 "name": "Toxin Sac",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oEjpr/toxin-sac"
             },
             {
                 "name": "Pukei-Pukei Wing",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/e8PGe/pukei-pukei-wing"
             },
             {
                 "name": "Pukei-Pukei Sac+",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/lbwRe/pukei-pukei-sac"
             }
         ],
         "materials-upgrade": [
             {
                 "name": "Quality Bone",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/evynl/quality-bone"
             },
             {
                 "name": "Toxin Sac",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oEjpr/toxin-sac"
             },
             {
                 "name": "Pukei-Pukei Scale+",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/eZYql/pukei-pukei-scale"
             },
             {
                 "name": "Pukei-Pukei Wing",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/e8PGe/pukei-pukei-wing"
             }
         ]
     },
@@ -795,19 +923,23 @@
         "materials-upgrade": [
             {
                 "name": "Monster Hardbone",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/rMnNl/monster-hardbone"
             },
             {
                 "name": "Toxin Sac",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oEjpr/toxin-sac"
             },
             {
                 "name": "Pukei-Pukei Carapace",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/lPWOr/pukei-pukei-carapace"
             },
             {
                 "name": "Pukei-Pukei Wing",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/e8PGe/pukei-pukei-wing"
             }
         ]
     },
@@ -819,19 +951,23 @@
         "materials-upgrade": [
             {
                 "name": "Bird Wyvern Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/r5ZYl/bird-wyvern-gem"
             },
             {
                 "name": "Pukei-Pukei Wing",
-                "quantity": "6"
+                "quantity": "6",
+                "url": "https://mhworld.kiranico.com/en/items/e8PGe/pukei-pukei-wing"
             },
             {
                 "name": "Pukei-Pukei Sac+",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/lbwRe/pukei-pukei-sac"
             },
             {
                 "name": "Vaal Hazak Wing",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oV5ge/vaal-hazak-wing"
             }
         ]
     },
@@ -843,19 +979,23 @@
         "materials-upgrade": [
             {
                 "name": "Monster Toughbone",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/rakYe/monster-toughbone"
             },
             {
                 "name": "Deadly Poison Sac",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/omXve/deadly-poison-sac"
             },
             {
                 "name": "Pukei-Pukei Shard",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oxaRr/pukei-pukei-shard"
             },
             {
                 "name": "Pukei-Pukei Fellwing",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lDDdl/pukei-pukei-fellwing"
             }
         ]
     },
@@ -867,19 +1007,23 @@
         "materials-upgrade": [
             {
                 "name": "Monster Slogbone",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oGW5o/monster-slogbone"
             },
             {
                 "name": "Large Pukei-Pukei Sac",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/oEEko/large-pukei-pukei-sac"
             },
             {
                 "name": "Pukei-Pukei Lash",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/raJql/pukei-pukei-lash"
             },
             {
                 "name": "Rathian Surspike",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/e69al/rathian-surspike"
             }
         ]
     },
@@ -891,15 +1035,18 @@
         "materials-upgrade": [
             {
                 "name": "Tobi-Kadachi Scale",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/ojy8e/tobi-kadachi-scale"
             },
             {
                 "name": "Tobi-Kadachi Pelt",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/rBX8e/tobi-kadachi-pelt"
             },
             {
                 "name": "Tobi-Kadachi Claw",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/o7Pxr/tobi-kadachi-claw"
             }
         ]
     },
@@ -911,19 +1058,23 @@
         "materials-upgrade": [
             {
                 "name": "Coral Crystal",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oVYEe/coral-crystal"
             },
             {
                 "name": "Electro Sac",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/r3jGo/electro-sac"
             },
             {
                 "name": "Tobi-Kadachi Claw",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/o7Pxr/tobi-kadachi-claw"
             },
             {
                 "name": "Tobi-Kadachi Electrode",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lDNPo/tobi-kadachi-electrode"
             }
         ]
     },
@@ -935,19 +1086,23 @@
         "materials-upgrade": [
             {
                 "name": "Warped Bone",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oOnBe/warped-bone"
             },
             {
                 "name": "Monster Bone+",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/eAkZr/monster-bone"
             },
             {
                 "name": "Tobi-Kadachi Membrane",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oxVyl/tobi-kadachi-membrane"
             },
             {
                 "name": "Tobi-Kadachi Electrode",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lDNPo/tobi-kadachi-electrode"
             }
         ]
     },
@@ -959,19 +1114,23 @@
         "materials-upgrade": [
             {
                 "name": "Dragonvein Crystal",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/om60r/dragonvein-crystal"
             },
             {
                 "name": "Tobi-Kadachi Scale+",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/oE5Jo/tobi-kadachi-scale"
             },
             {
                 "name": "Tobi-Kadachi Pelt+",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/ravml/tobi-kadachi-pelt"
             },
             {
                 "name": "Tobi-Kadachi Claw+",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oGw2o/tobi-kadachi-claw"
             }
         ]
     },
@@ -983,19 +1142,23 @@
         "materials-upgrade": [
             {
                 "name": "Thunder Sac",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/lW5bo/thunder-sac"
             },
             {
                 "name": "Tobi-Kadachi Claw+",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/oGw2o/tobi-kadachi-claw"
             },
             {
                 "name": "Tobi-Kadachi Electrode+",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oJ6no/tobi-kadachi-electrode"
             },
             {
                 "name": "Majestic Horn",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/e6aPl/majestic-horn"
             }
         ]
     },
@@ -1007,19 +1170,23 @@
         "materials-upgrade": [
             {
                 "name": "Wyvern Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/eNM3l/wyvern-gem"
             },
             {
                 "name": "Tobi-Kadachi Claw+",
-                "quantity": "6"
+                "quantity": "6",
+                "url": "https://mhworld.kiranico.com/en/items/oGw2o/tobi-kadachi-claw"
             },
             {
                 "name": "Tobi-Kadachi Electrode+",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/oJ6no/tobi-kadachi-electrode"
             },
             {
                 "name": "Nergigante Talon",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/o7D4r/nergigante-talon"
             }
         ]
     },
@@ -1030,37 +1197,45 @@
         "materials-forge": [
             {
                 "name": "Large Wyvern Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/edaMo/large-wyvern-gem"
             },
             {
                 "name": "Tobi-Kadachi Shard",
-                "quantity": "6"
+                "quantity": "6",
+                "url": "https://mhworld.kiranico.com/en/items/lb22l/tobi-kadachi-shard"
             },
             {
                 "name": "Tobi-Kadachi Hardclaw",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/o1YLo/tobi-kadachi-hardclaw"
             },
             {
                 "name": "Tobi-Kadachi Cathode",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lzJVl/tobi-kadachi-cathode"
             }
         ],
         "materials-upgrade": [
             {
                 "name": "Lightning Sac",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/eNvxe/lightning-sac"
             },
             {
                 "name": "Tobi-Kadachi Shard",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lb22l/tobi-kadachi-shard"
             },
             {
                 "name": "Tobi-Kadachi Thickfur",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/evDjr/tobi-kadachi-thickfur"
             },
             {
                 "name": "Tobi-Kadachi Hardclaw",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/o1YLo/tobi-kadachi-hardclaw"
             }
         ]
     },
@@ -1072,19 +1247,23 @@
         "materials-upgrade": [
             {
                 "name": "Tobi-Kadachi Membrane+",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/rK67o/tobi-kadachi-membrane"
             },
             {
                 "name": "Tobi-Kadachi Hardclaw",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/o1YLo/tobi-kadachi-hardclaw"
             },
             {
                 "name": "Tobi-Kadachi Cathode",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lzJVl/tobi-kadachi-cathode"
             },
             {
                 "name": "Hard Odogaron Sinew",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oGb1e/hard-odogaron-sinew"
             }
         ]
     },
@@ -1095,37 +1274,45 @@
         "materials-forge": [
             {
                 "name": "Anjanath Pelt",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/rYdDo/anjanath-pelt"
             },
             {
                 "name": "Anjanath Fang",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/e6Qvl/anjanath-fang"
             },
             {
                 "name": "Anjanath Tail",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/omM6o/anjanath-tail"
             },
             {
                 "name": "Anjanath Plate",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/eg4Zo/anjanath-plate"
             }
         ],
         "materials-upgrade": [
             {
                 "name": "Flame Sac",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/rYZ5l/flame-sac"
             },
             {
                 "name": "Anjanath Scale",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/r2Pye/anjanath-scale"
             },
             {
                 "name": "Anjanath Pelt",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/rYdDo/anjanath-pelt"
             },
             {
                 "name": "Anjanath Fang",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/e6Qvl/anjanath-fang"
             }
         ]
     },
@@ -1137,19 +1324,23 @@
         "materials-upgrade": [
             {
                 "name": "Inferno Sac",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/e6R0e/inferno-sac"
             },
             {
                 "name": "Anjanath Scale+",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/rXdZr/anjanath-scale"
             },
             {
                 "name": "Anjanath Fang+",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/lWRRr/anjanath-fang"
             },
             {
                 "name": "Anjanath Plate",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/eg4Zo/anjanath-plate"
             }
         ]
     },
@@ -1161,19 +1352,23 @@
         "materials-upgrade": [
             {
                 "name": "Anjanath Pelt+",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/r3P2l/anjanath-pelt"
             },
             {
                 "name": "Anjanath Nosebone+",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/r5Nvl/anjanath-nosebone"
             },
             {
                 "name": "Anjanath Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/eNdYr/anjanath-gem"
             },
             {
                 "name": "Vaal Hazak Fang+",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/rYn8l/vaal-hazak-fang"
             }
         ]
     },
@@ -1185,19 +1380,23 @@
         "materials-upgrade": [
             {
                 "name": "Eltalite Ore",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oOkwo/eltalite-ore"
             },
             {
                 "name": "Conflagrant Sac",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/r39ye/conflagrant-sac"
             },
             {
                 "name": "Anjanath Shard",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/eABdo/anjanath-shard"
             },
             {
                 "name": "Anjanath Hardfang",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/rMmwr/anjanath-hardfang"
             }
         ]
     },
@@ -1209,19 +1408,23 @@
         "materials-upgrade": [
             {
                 "name": "Anjanath Fur",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oQWnl/anjanath-fur"
             },
             {
                 "name": "Heavy Anjanath Nosebone",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lqP2r/heavy-anjanath-nosebone"
             },
             {
                 "name": "Anjanath Lash",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/ojWQr/anjanath-lash"
             },
             {
                 "name": "Azure Rathalos Cortex",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/omYXo/azure-rathalos-cortex"
             }
         ]
     },
@@ -1233,19 +1436,23 @@
         "materials-upgrade": [
             {
                 "name": "Nergigante Carapace",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/e67Po/nergigante-carapace"
             },
             {
                 "name": "Nergigante Tail",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/rBqBo/nergigante-tail"
             },
             {
                 "name": "Nergigante Talon",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/o7D4r/nergigante-talon"
             },
             {
                 "name": "Nergigante Regrowth Plate",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/lDqKe/nergigante-regrowth-plate"
             }
         ]
     },
@@ -1257,19 +1464,23 @@
         "materials-upgrade": [
             {
                 "name": "Nergigante Horn+",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/oxQ0r/nergigante-horn"
             },
             {
                 "name": "Nergigante Talon",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/o7D4r/nergigante-talon"
             },
             {
                 "name": "Nergigante Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/oEqxo/nergigante-gem"
             },
             {
                 "name": "Xeno'jiiva Horn",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/l9qzl/xeno-jiiva-horn"
             }
         ]
     },
@@ -1281,19 +1492,23 @@
         "materials-upgrade": [
             {
                 "name": "Large Elder Dragon Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/eZv8e/large-elder-dragon-gem"
             },
             {
                 "name": "Annihilating Greathorn",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/rBM1o/annihilating-greathorn"
             },
             {
                 "name": "Nergigante Hardclaw",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/oxWae/nergigante-hardclaw"
             },
             {
                 "name": "Eternal Regrowth Plate",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/o7M0l/eternal-regrowth-plate"
             }
         ]
     },
@@ -1305,15 +1520,18 @@
         "materials-upgrade": [
             {
                 "name": "Tzitzi-Ya-Ku Scale",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oOmPl/tzitzi-ya-ku-scale"
             },
             {
                 "name": "Tzitzi-Ya-Ku Claw",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oyx7e/tzitzi-ya-ku-claw"
             },
             {
                 "name": "Tzitzi-Ya-Ku Photophore",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/ewJEl/tzitzi-ya-ku-photophore"
             }
         ]
     },
@@ -1325,19 +1543,23 @@
         "materials-upgrade": [
             {
                 "name": "Sharp Claw",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/ojwar/sharp-claw"
             },
             {
                 "name": "Tzitzi-Ya-Ku Claw",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oyx7e/tzitzi-ya-ku-claw"
             },
             {
                 "name": "Tzitzi-Ya-Ku Photophore",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/ewJEl/tzitzi-ya-ku-photophore"
             },
             {
                 "name": "Legiana Tail Webbing",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/om9Vo/legiana-tail-webbing"
             }
         ]
     },
@@ -1349,19 +1571,23 @@
         "materials-upgrade": [
             {
                 "name": "Lightcrystal",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/eg83o/lightcrystal"
             },
             {
                 "name": "Tzitzi-Ya-Ku Scale+",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/l9b0e/tzitzi-ya-ku-scale"
             },
             {
                 "name": "Tzitzi-Ya-Ku Claw+",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/lkyEo/tzitzi-ya-ku-claw"
             },
             {
                 "name": "Tzitzi-Ya-Ku Photophore+",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/oLYjr/tzitzi-ya-ku-photophore"
             }
         ]
     },
@@ -1373,19 +1599,23 @@
         "materials-upgrade": [
             {
                 "name": "Piercing Claw",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/rBG1l/piercing-claw"
             },
             {
                 "name": "Tzitzi-Ya-Ku Claw+",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/lkyEo/tzitzi-ya-ku-claw"
             },
             {
                 "name": "Tzitzi-Ya-Ku Photophore+",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oLYjr/tzitzi-ya-ku-photophore"
             },
             {
                 "name": "Legiana Wing",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/r5v3l/legiana-wing"
             }
         ]
     },
@@ -1397,19 +1627,23 @@
         "materials-upgrade": [
             {
                 "name": "Bird Wyvern Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/r5ZYl/bird-wyvern-gem"
             },
             {
                 "name": "Tzitzi-Ya-Ku Claw+",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/lkyEo/tzitzi-ya-ku-claw"
             },
             {
                 "name": "Tzitzi-Ya-Ku Photophore+",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oLYjr/tzitzi-ya-ku-photophore"
             },
             {
                 "name": "Daora Webbing",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lb7ge/daora-webbing"
             }
         ]
     },
@@ -1420,37 +1654,45 @@
         "materials-forge": [
             {
                 "name": "Fey Wyvern Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/on3Qr/fey-wyvern-gem"
             },
             {
                 "name": "Tzitzi-Ya-Ku Shard",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/r5Qwr/tzitzi-ya-ku-shard"
             },
             {
                 "name": "Tzitzi-Ya-Ku Hardclaw",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/ongWr/tzitzi-ya-ku-hardclaw"
             },
             {
                 "name": "Tzitzi-Ya-Ku Photomembrane",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/edDqe/tzitzi-ya-ku-photomembrane"
             }
         ],
         "materials-upgrade": [
             {
                 "name": "Tough Claw",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/e6jwe/tough-claw"
             },
             {
                 "name": "Tzitzi-Ya-Ku Shard",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/r5Qwr/tzitzi-ya-ku-shard"
             },
             {
                 "name": "Tzitzi-Ya-Ku Hardclaw",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/ongWr/tzitzi-ya-ku-hardclaw"
             },
             {
                 "name": "Tzitzi-Ya-Ku Photomembrane",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/edDqe/tzitzi-ya-ku-photomembrane"
             }
         ]
     },
@@ -1462,19 +1704,23 @@
         "materials-upgrade": [
             {
                 "name": "Purecrystal",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/l97xo/purecrystal"
             },
             {
                 "name": "Tzitzi-Ya-Ku Hardclaw",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/ongWr/tzitzi-ya-ku-hardclaw"
             },
             {
                 "name": "Tzitzi-Ya-Ku Photomembrane",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/edDqe/tzitzi-ya-ku-photomembrane"
             },
             {
                 "name": "Legiana Hardclaw",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/eA0dl/legiana-hardclaw"
             }
         ]
     },
@@ -1486,15 +1732,18 @@
         "materials-upgrade": [
             {
                 "name": "Odogaron Scale",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/on4Yl/odogaron-scale"
             },
             {
                 "name": "Odogaron Claw",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lRx5o/odogaron-claw"
             },
             {
                 "name": "Odogaron Fang",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/eZ0nr/odogaron-fang"
             }
         ]
     },
@@ -1506,19 +1755,23 @@
         "materials-upgrade": [
             {
                 "name": "Quality Bone",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/evynl/quality-bone"
             },
             {
                 "name": "Odogaron Claw",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lRx5o/odogaron-claw"
             },
             {
                 "name": "Odogaron Tail",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lPgJr/odogaron-tail"
             },
             {
                 "name": "Odogaron Plate",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/e8Rqr/odogaron-plate"
             }
         ]
     },
@@ -1529,37 +1782,45 @@
         "materials-forge": [
             {
                 "name": "Dragonbone Artifact",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/rBVar/dragonbone-artifact"
             },
             {
                 "name": "Wyvern Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/eNM3l/wyvern-gem"
             },
             {
                 "name": "Odogaron Scale+",
-                "quantity": "8"
+                "quantity": "8",
+                "url": "https://mhworld.kiranico.com/en/items/lbAqr/odogaron-scale"
             },
             {
                 "name": "Odogaron Shard",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/ra8qo/odogaron-shard"
             }
         ],
         "materials-upgrade": [
             {
                 "name": "Dragonbone Relic",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/oyQ9o/dragonbone-relic"
             },
             {
                 "name": "Odogaron Scale+",
-                "quantity": "8"
+                "quantity": "8",
+                "url": "https://mhworld.kiranico.com/en/items/lbAqr/odogaron-scale"
             },
             {
                 "name": "Odogaron Claw+",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/rKyAe/odogaron-claw"
             },
             {
                 "name": "Odogaron Fang+",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/o19do/odogaron-fang"
             }
         ]
     },
@@ -1571,19 +1832,23 @@
         "materials-upgrade": [
             {
                 "name": "Odogaron Claw+",
-                "quantity": "6"
+                "quantity": "6",
+                "url": "https://mhworld.kiranico.com/en/items/rKyAe/odogaron-claw"
             },
             {
                 "name": "Odogaron Fang+",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/o19do/odogaron-fang"
             },
             {
                 "name": "Odogaron Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/lzpqo/odogaron-gem"
             },
             {
                 "name": "Teostra Claw+",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/onk1r/teostra-claw"
             }
         ]
     },
@@ -1595,19 +1860,23 @@
         "materials-upgrade": [
             {
                 "name": "Monster Slogbone",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oGW5o/monster-slogbone"
             },
             {
                 "name": "Odogaron Shard",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/ra8qo/odogaron-shard"
             },
             {
                 "name": "Odogaron Hardclaw",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oJx6l/odogaron-hardclaw"
             },
             {
                 "name": "Odogaron Hardfang",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/r2EPo/odogaron-hardfang"
             }
         ]
     },
@@ -1619,19 +1888,23 @@
         "materials-upgrade": [
             {
                 "name": "Odogaron Hardclaw",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/oJx6l/odogaron-hardclaw"
             },
             {
                 "name": "Odogaron Lash",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/rYW2e/odogaron-lash"
             },
             {
                 "name": "Odogaron Mantle",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/e62ae/odogaron-mantle"
             },
             {
                 "name": "Acidic Glavenus Tailedge",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oy6Ar/acidic-glavenus-tailedge"
             }
         ]
     },
@@ -1643,19 +1916,23 @@
         "materials-upgrade": [
             {
                 "name": "Deceased Scale",
-                "quantity": "6"
+                "quantity": "6",
+                "url": "https://mhworld.kiranico.com/en/items/rax5o/deceased-scale"
             },
             {
                 "name": "Vaal Hazak Membrane",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/oJ0jl/vaal-hazak-membrane"
             },
             {
                 "name": "Vaal Hazak Fang+",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/rYn8l/vaal-hazak-fang"
             },
             {
                 "name": "Vaal Hazak Talon",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/e679o/vaal-hazak-talon"
             }
         ]
     },
@@ -1667,19 +1944,23 @@
         "materials-upgrade": [
             {
                 "name": "Vaal Hazak Tail",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/r2YQo/vaal-hazak-tail"
             },
             {
                 "name": "Vaal Hazak Talon",
-                "quantity": "6"
+                "quantity": "6",
+                "url": "https://mhworld.kiranico.com/en/items/e679o/vaal-hazak-talon"
             },
             {
                 "name": "Vaal Hazak Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/egJpl/vaal-hazak-gem"
             },
             {
                 "name": "Xeno'jiiva Veil",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oy9Bo/xeno-jiiva-veil"
             }
         ]
     },
@@ -1691,19 +1972,23 @@
         "materials-upgrade": [
             {
                 "name": "Deceased Shard",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/lz3pe/deceased-shard"
             },
             {
                 "name": "Deathweaver Membrane",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/l0AJe/deathweaver-membrane"
             },
             {
                 "name": "Shadowpierce Fang",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/ewmzr/shadowpierce-fang"
             },
             {
                 "name": "Vaal Hazak Hardclaw",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/l9Adl/vaal-hazak-hardclaw"
             }
         ]
     },
@@ -1715,19 +2000,23 @@
         "materials-upgrade": [
             {
                 "name": "Flame Sac",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/rYZ5l/flame-sac"
             },
             {
                 "name": "Rathalos Scale",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/oOqZl/rathalos-scale"
             },
             {
                 "name": "Rathalos Webbing",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oypJe/rathalos-webbing"
             },
             {
                 "name": "Rathalos Marrow",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/lpy1e/rathalos-marrow"
             }
         ]
     },
@@ -1739,19 +2028,23 @@
         "materials-upgrade": [
             {
                 "name": "Inferno Sac",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/e6R0e/inferno-sac"
             },
             {
                 "name": "Rathalos Scale",
-                "quantity": "6"
+                "quantity": "6",
+                "url": "https://mhworld.kiranico.com/en/items/oOqZl/rathalos-scale"
             },
             {
                 "name": "Rathalos Tail",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/ewA0r/rathalos-tail"
             },
             {
                 "name": "Rathalos Plate",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/lkvar/rathalos-plate"
             }
         ]
     },
@@ -1763,19 +2056,23 @@
         "materials-upgrade": [
             {
                 "name": "Rathalos Scale+",
-                "quantity": "6"
+                "quantity": "6",
+                "url": "https://mhworld.kiranico.com/en/items/oLqyr/rathalos-scale"
             },
             {
                 "name": "Rathalos Carapace",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/r4v0e/rathalos-carapace"
             },
             {
                 "name": "Rathalos Wing",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/eA8xl/rathalos-wing"
             },
             {
                 "name": "Rathalos Medulla",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/oQ7pl/rathalos-medulla"
             }
         ]
     },
@@ -1787,19 +2084,23 @@
         "materials-upgrade": [
             {
                 "name": "Rathalos Ruby",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/rM2Al/rathalos-ruby"
             },
             {
                 "name": "Azure Rathalos Scale+",
-                "quantity": "6"
+                "quantity": "6",
+                "url": "https://mhworld.kiranico.com/en/items/lqEwl/azure-rathalos-scale"
             },
             {
                 "name": "Azure Rathalos Carapace",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/ojJvo/azure-rathalos-carapace"
             },
             {
                 "name": "Azure Rathalos Wing",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oxw2e/azure-rathalos-wing"
             }
         ]
     },
@@ -1811,19 +2112,23 @@
         "materials-upgrade": [
             {
                 "name": "Rathalos Shard",
-                "quantity": "6"
+                "quantity": "6",
+                "url": "https://mhworld.kiranico.com/en/items/ra8No/rathalos-shard"
             },
             {
                 "name": "Rathalos Cortex",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/oGb4e/rathalos-cortex"
             },
             {
                 "name": "Rathalos Fellwing",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oJxZl/rathalos-fellwing"
             },
             {
                 "name": "Rath Wingtalon+",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/rYWYe/rath-wingtalon"
             }
         ]
     },
@@ -1835,19 +2140,23 @@
         "materials-upgrade": [
             {
                 "name": "Rathalos Mantle",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/e62de/rathalos-mantle"
             },
             {
                 "name": "Azure Rathalos Shard",
-                "quantity": "6"
+                "quantity": "6",
+                "url": "https://mhworld.kiranico.com/en/items/oVgkr/azure-rathalos-shard"
             },
             {
                 "name": "Azure Rathalos Cortex",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/omYXo/azure-rathalos-cortex"
             },
             {
                 "name": "Azure Rathalos Fellwing",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/rX35o/azure-rathalos-fellwing"
             }
         ]
     },
@@ -1859,19 +2168,23 @@
         "materials-upgrade": [
             {
                 "name": "Silver Rathalos Shard",
-                "quantity": "8"
+                "quantity": "8",
+                "url": "https://mhworld.kiranico.com/en/items/r3aae/silver-rathalos-shard"
             },
             {
                 "name": "Silver Rathalos Cortex",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/lWXme/silver-rathalos-cortex"
             },
             {
                 "name": "Silver Rathalos Lash",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/eNaEl/silver-rathalos-lash"
             },
             {
                 "name": "Rath Gleam",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/on6Do/rath-gleam"
             }
         ]
     },
@@ -1883,19 +2196,23 @@
         "materials-upgrade": [
             {
                 "name": "Monster Bone+",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/eAkZr/monster-bone"
             },
             {
                 "name": "Diablos Shell",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/o7Gzo/diablos-shell"
             },
             {
                 "name": "Diablos Fang",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/raWXe/diablos-fang"
             },
             {
                 "name": "Twisted Horn",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/oG77o/twisted-horn"
             }
         ]
     },
@@ -1907,19 +2224,23 @@
         "materials-upgrade": [
             {
                 "name": "Monster Keenbone",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/oQ5go/monster-keenbone"
             },
             {
                 "name": "Diablos Ridge",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/lDkNr/diablos-ridge"
             },
             {
                 "name": "Diablos Tailcase",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oEBar/diablos-tailcase"
             },
             {
                 "name": "Diablos Marrow",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/oJa0e/diablos-marrow"
             }
         ]
     },
@@ -1930,37 +2251,45 @@
         "materials-forge": [
             {
                 "name": "Dragonbone Artifact",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/rBVar/dragonbone-artifact"
             },
             {
                 "name": "Wyvern Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/eNM3l/wyvern-gem"
             },
             {
                 "name": "Diablos Cortex",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/edBJr/diablos-cortex"
             },
             {
                 "name": "Majestic Horn",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/e6aPl/majestic-horn"
             }
         ],
         "materials-upgrade": [
             {
                 "name": "Diablos Carapace",
-                "quantity": "6"
+                "quantity": "6",
+                "url": "https://mhworld.kiranico.com/en/items/r2xne/diablos-carapace"
             },
             {
                 "name": "Diablos Ridge+",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/rYOMe/diablos-ridge"
             },
             {
                 "name": "Majestic Horn",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/e6aPl/majestic-horn"
             },
             {
                 "name": "Blos Medulla",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/oVJOo/blos-medulla"
             }
         ]
     },
@@ -1972,19 +2301,23 @@
         "materials-upgrade": [
             {
                 "name": "Wyvern Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/eNM3l/wyvern-gem"
             },
             {
                 "name": "Black Diablos Carapace",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/omBVr/black-diablos-carapace"
             },
             {
                 "name": "Black Spiral Horn+",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/rXYwl/black-spiral-horn"
             },
             {
                 "name": "Nergigante Horn+",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oxQ0r/nergigante-horn"
             }
         ]
     },
@@ -1996,19 +2329,23 @@
         "materials-upgrade": [
             {
                 "name": "Monster Slogbone",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oGW5o/monster-slogbone"
             },
             {
                 "name": "Diablos Cortex",
-                "quantity": "6"
+                "quantity": "6",
+                "url": "https://mhworld.kiranico.com/en/items/edBJr/diablos-cortex"
             },
             {
                 "name": "Diablos Chine",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/lRY6r/diablos-chine"
             },
             {
                 "name": "Twisted Stouthorn",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/lPJwo/twisted-stouthorn"
             }
         ]
     },
@@ -2020,19 +2357,23 @@
         "materials-upgrade": [
             {
                 "name": "Monster Solidbone",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oJjzo/monster-solidbone"
             },
             {
                 "name": "Large Wyvern Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/edaMo/large-wyvern-gem"
             },
             {
                 "name": "Black Diablos Cortex",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/lbb6l/black-diablos-cortex"
             },
             {
                 "name": "Blackcurl Stouthorn",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/rK7Or/blackcurl-stouthorn"
             }
         ]
     },
@@ -2044,19 +2385,23 @@
         "materials-upgrade": [
             {
                 "name": "Lightcrystal",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/eg83o/lightcrystal"
             },
             {
                 "name": "Kirin Hide",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/r37Xr/kirin-hide"
             },
             {
                 "name": "Kirin Tail",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/lW2nr/kirin-tail"
             },
             {
                 "name": "Kirin Thunderhorn",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/eNYPl/kirin-thunderhorn"
             }
         ]
     },
@@ -2068,19 +2413,23 @@
         "materials-upgrade": [
             {
                 "name": "Dragonvein Crystal",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/om60r/dragonvein-crystal"
             },
             {
                 "name": "Kirin Hide+",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/onxYl/kirin-hide"
             },
             {
                 "name": "Kirin Mane",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/r5E3r/kirin-mane"
             },
             {
                 "name": "Kirin Azure Horn",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/lRD5o/kirin-azure-horn"
             }
         ]
     },
@@ -2092,19 +2441,23 @@
         "materials-upgrade": [
             {
                 "name": "Novacrystal",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/rX89r/novacrystal"
             },
             {
                 "name": "Kirin Thundertail",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/edxae/kirin-thundertail"
             },
             {
                 "name": "Kirin Azure Horn",
-                "quantity": "6"
+                "quantity": "6",
+                "url": "https://mhworld.kiranico.com/en/items/lRD5o/kirin-azure-horn"
             },
             {
                 "name": "Xeno'jiiva Shell",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/l0gkr/xeno-jiiva-shell"
             }
         ]
     },
@@ -2116,19 +2469,23 @@
         "materials-upgrade": [
             {
                 "name": "Purecrystal",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/l97xo/purecrystal"
             },
             {
                 "name": "Kirin Finehide",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/oL7Ke/kirin-finehide"
             },
             {
                 "name": "Kirin Silvermane",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/eAMZe/kirin-silvermane"
             },
             {
                 "name": "Kirin Azure Horn+",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oQJgr/kirin-azure-horn"
             }
         ]
     },
@@ -2140,15 +2497,18 @@
         "materials-upgrade": [
             {
                 "name": "Dodogama Scale+",
-                "quantity": "6"
+                "quantity": "6",
+                "url": "https://mhworld.kiranico.com/en/items/oOBZe/dodogama-scale"
             },
             {
                 "name": "Dodogama Hide+",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/l05xe/dodogama-hide"
             },
             {
                 "name": "Dodogama Talon",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/ewO0e/dodogama-talon"
             }
         ]
     },
@@ -2160,19 +2520,23 @@
         "materials-upgrade": [
             {
                 "name": "Wyvern Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/eNM3l/wyvern-gem"
             },
             {
                 "name": "Dodogama Jaw",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/oy3Jl/dodogama-jaw"
             },
             {
                 "name": "Dodogama Tail",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/l92De/dodogama-tail"
             },
             {
                 "name": "Fire Dragon Scale+",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/eNqRl/fire-dragon-scale"
             }
         ]
     },
@@ -2184,19 +2548,23 @@
         "materials-upgrade": [
             {
                 "name": "Gastodon Husk",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/eA1ne/gastodon-husk"
             },
             {
                 "name": "Dodogama Shard",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/o1DKe/dodogama-shard"
             },
             {
                 "name": "Dodogama Thickhide",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lzZLl/dodogama-thickhide"
             },
             {
                 "name": "Dodogama Hardclaw",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/l076r/dodogama-hardclaw"
             }
         ]
     },
@@ -2208,19 +2576,23 @@
         "materials-upgrade": [
             {
                 "name": "Monster Slogbone",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/oGW5o/monster-slogbone"
             },
             {
                 "name": "Dodogama Mandible",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oOGWo/dodogama-mandible"
             },
             {
                 "name": "Dodogama Lash",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/oyNAr/dodogama-lash"
             },
             {
                 "name": "Fine Brachydios Ebonshell",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lkpQe/fine-brachydios-ebonshell"
             }
         ]
     },
@@ -2232,19 +2604,23 @@
         "materials-upgrade": [
             {
                 "name": "Nergigante Carapace",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/e67Po/nergigante-carapace"
             },
             {
                 "name": "Daora Webbing",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/lb7ge/daora-webbing"
             },
             {
                 "name": "Daora Tail",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/rK3Rr/daora-tail"
             },
             {
                 "name": "Daora Claw+",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/o1Nnr/daora-claw"
             }
         ]
     },
@@ -2256,19 +2632,23 @@
         "materials-upgrade": [
             {
                 "name": "Daora Horn+",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/evmgl/daora-horn"
             },
             {
                 "name": "Daora Claw+",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/o1Nnr/daora-claw"
             },
             {
                 "name": "Daora Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/lzA1r/daora-gem"
             },
             {
                 "name": "Xeno'jiiva Wing",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lkxye/xeno-jiiva-wing"
             }
         ]
     },
@@ -2280,19 +2660,23 @@
         "materials-upgrade": [
             {
                 "name": "Large Elder Dragon Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/eZv8e/large-elder-dragon-gem"
             },
             {
                 "name": "Daora Shard",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/e8Abo/daora-shard"
             },
             {
                 "name": "Daora Hardhorn",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/evVne/daora-hardhorn"
             },
             {
                 "name": "Daora Hardclaw",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/o1AXo/daora-hardclaw"
             }
         ]
     },
@@ -2304,19 +2688,23 @@
         "materials-upgrade": [
             {
                 "name": "Xeno'jiiva Shell",
-                "quantity": "6"
+                "quantity": "6",
+                "url": "https://mhworld.kiranico.com/en/items/l0gkr/xeno-jiiva-shell"
             },
             {
                 "name": "Xeno'jiiva Tail",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/ewwbe/xeno-jiiva-tail"
             },
             {
                 "name": "Xeno'jiiva Claw",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/lpGgr/xeno-jiiva-claw"
             },
             {
                 "name": "Xeno'jiiva Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/r45Dl/xeno-jiiva-gem"
             }
         ]
     },
@@ -2328,19 +2716,23 @@
         "materials-upgrade": [
             {
                 "name": "Safi'jiiva Cortex",
-                "quantity": "8"
+                "quantity": "8",
+                "url": "https://mhworld.kiranico.com/en/items/rBA1o/safi-jiiva-cortex"
             },
             {
                 "name": "Pulsing Dragonshell",
-                "quantity": "7"
+                "quantity": "7",
+                "url": "https://mhworld.kiranico.com/en/items/oxgae/pulsing-dragonshell"
             },
             {
                 "name": "Safi'jiiva Hardhorn",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/lDAZe/safi-jiiva-hardhorn"
             },
             {
                 "name": "Safi'jiiva Hardclaw",
-                "quantity": "6"
+                "quantity": "6",
+                "url": "https://mhworld.kiranico.com/en/items/oEApo/safi-jiiva-hardclaw"
             }
         ]
     },
@@ -2351,19 +2743,23 @@
         "materials-forge": [
             {
                 "name": "Ancient Bone",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/rKzbo/ancient-bone"
             },
             {
                 "name": "Boulder Bone",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/o1zXr/boulder-bone"
             },
             {
                 "name": "Coral Bone",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/lzWpe/coral-bone"
             },
             {
                 "name": "Warped Bone",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/oOnBe/warped-bone"
             }
         ],
         "materials-upgrade": []
@@ -2376,15 +2772,18 @@
         "materials-upgrade": [
             {
                 "name": "Sturdy Bone",
-                "quantity": "8"
+                "quantity": "8",
+                "url": "https://mhworld.kiranico.com/en/items/lb44o/sturdy-bone"
             },
             {
                 "name": "Monster Bone L",
-                "quantity": "8"
+                "quantity": "8",
+                "url": "https://mhworld.kiranico.com/en/items/r4ZWe/monster-bone-l"
             },
             {
                 "name": "Monster Bone+",
-                "quantity": "6"
+                "quantity": "6",
+                "url": "https://mhworld.kiranico.com/en/items/eAkZr/monster-bone"
             }
         ]
     },
@@ -2396,19 +2795,23 @@
         "materials-upgrade": [
             {
                 "name": "Brutal Bone",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/l0RJo/brutal-bone"
             },
             {
                 "name": "Dragonbone Relic",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oyQ9o/dragonbone-relic"
             },
             {
                 "name": "Elder Dragon Bone",
-                "quantity": "10"
+                "quantity": "10",
+                "url": "https://mhworld.kiranico.com/en/items/lqDKr/elder-dragon-bone"
             },
             {
                 "name": "Wyvern Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/eNM3l/wyvern-gem"
             }
         ]
     },
@@ -2420,19 +2823,23 @@
         "materials-upgrade": [
             {
                 "name": "Thick Bone",
-                "quantity": "6"
+                "quantity": "6",
+                "url": "https://mhworld.kiranico.com/en/items/lqmYl/thick-bone"
             },
             {
                 "name": "Dragonbone Artifact",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/rBVar/dragonbone-artifact"
             },
             {
                 "name": "Monster Slogbone",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/oGW5o/monster-slogbone"
             },
             {
                 "name": "Monster Solidbone",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oJjzo/monster-solidbone"
             }
         ]
     },
@@ -2444,19 +2851,23 @@
         "materials-upgrade": [
             {
                 "name": "Monster Solidbone",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/oJjzo/monster-solidbone"
             },
             {
                 "name": "Large Elder Dragon Bone",
-                "quantity": "6"
+                "quantity": "6",
+                "url": "https://mhworld.kiranico.com/en/items/rYkEe/large-elder-dragon-bone"
             },
             {
                 "name": "Large Wyvern Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/edaMo/large-wyvern-gem"
             },
             {
                 "name": "Lavasioth Grandfin",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lkEQo/lavasioth-grandfin"
             }
         ]
     },
@@ -2467,19 +2878,23 @@
         "materials-forge": [
             {
                 "name": "Earth Crystal",
-                "quantity": "10"
+                "quantity": "10",
+                "url": "https://mhworld.kiranico.com/en/items/e680r/earth-crystal"
             },
             {
                 "name": "Coral Crystal",
-                "quantity": "10"
+                "quantity": "10",
+                "url": "https://mhworld.kiranico.com/en/items/oVYEe/coral-crystal"
             },
             {
                 "name": "Dragonvein Crystal",
-                "quantity": "10"
+                "quantity": "10",
+                "url": "https://mhworld.kiranico.com/en/items/om60r/dragonvein-crystal"
             },
             {
                 "name": "Lightcrystal",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/eg83o/lightcrystal"
             }
         ],
         "materials-upgrade": []
@@ -2492,19 +2907,23 @@
         "materials-upgrade": [
             {
                 "name": "Carbalite Ore",
-                "quantity": "10"
+                "quantity": "10",
+                "url": "https://mhworld.kiranico.com/en/items/r2bRr/carbalite-ore"
             },
             {
                 "name": "Fucium Ore",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/rYm5r/fucium-ore"
             },
             {
                 "name": "Firecell Stone",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/r3bGo/firecell-stone"
             },
             {
                 "name": "Wyvern Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/eNM3l/wyvern-gem"
             }
         ]
     },
@@ -2516,19 +2935,23 @@
         "materials-upgrade": [
             {
                 "name": "Coral Crystal",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oVYEe/coral-crystal"
             },
             {
                 "name": "Frost Sac",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/egZ3l/frost-sac"
             },
             {
                 "name": "Legiana Scale",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/r2qno/legiana-scale"
             },
             {
                 "name": "Legiana Claw",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/e6NPe/legiana-claw"
             }
         ]
     },
@@ -2540,19 +2963,23 @@
         "materials-upgrade": [
             {
                 "name": "Carbalite Ore",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/r2bRr/carbalite-ore"
             },
             {
                 "name": "Shamos Scale+",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/oJ8Al/shamos-scale"
             },
             {
                 "name": "Legiana Webbing",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oVaOe/legiana-webbing"
             },
             {
                 "name": "Legiana Tail Webbing",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/om9Vo/legiana-tail-webbing"
             }
         ]
     },
@@ -2564,19 +2991,23 @@
         "materials-upgrade": [
             {
                 "name": "Fucium Ore",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/rYm5r/fucium-ore"
             },
             {
                 "name": "Freezer Sac",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/rXV9e/freezer-sac"
             },
             {
                 "name": "Legiana Scale+",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/rXJwe/legiana-scale"
             },
             {
                 "name": "Legiana Wing",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/r5v3l/legiana-wing"
             }
         ]
     },
@@ -2588,19 +3019,23 @@
         "materials-upgrade": [
             {
                 "name": "Wyvern Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/eNM3l/wyvern-gem"
             },
             {
                 "name": "Elder Dragon Blood",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/onBao/elder-dragon-blood"
             },
             {
                 "name": "Legiana Hide+",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/r3vXo/legiana-hide"
             },
             {
                 "name": "Legiana Claw+",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/lWGnl/legiana-claw"
             }
         ]
     },
@@ -2612,19 +3047,23 @@
         "materials-upgrade": [
             {
                 "name": "Eltalite Ore",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/oOkwo/eltalite-ore"
             },
             {
                 "name": "Gracium",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oLRVl/gracium"
             },
             {
                 "name": "Cryo Sac",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/r51Zr/cryo-sac"
             },
             {
                 "name": "Wulg Thickfur",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/lD1Re/wulg-thickfur"
             }
         ]
     },
@@ -2636,19 +3075,23 @@
         "materials-upgrade": [
             {
                 "name": "Frozen Bone",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/ojaOe/frozen-bone"
             },
             {
                 "name": "Cryo Sac",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/r51Zr/cryo-sac"
             },
             {
                 "name": "Barioth Cortex",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/lq6Ee/barioth-cortex"
             },
             {
                 "name": "Barioth Hardclaw",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/rBp2e/barioth-hardclaw"
             }
         ]
     },
@@ -2660,19 +3103,23 @@
         "materials-upgrade": [
             {
                 "name": "Large Wyvern Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/edaMo/large-wyvern-gem"
             },
             {
                 "name": "Obsidian Icetalon",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oxdRo/obsidian-icetalon"
             },
             {
                 "name": "Barioth Greatspike",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/ox59r/barioth-greatspike"
             },
             {
                 "name": "Amber Hardfang",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/lDpOl/amber-hardfang"
             }
         ]
     },
@@ -2684,19 +3131,23 @@
         "materials-upgrade": [
             {
                 "name": "Large Elder Dragon Bone",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/rYkEe/large-elder-dragon-bone"
             },
             {
                 "name": "Barioth Hardclaw",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/rBp2e/barioth-hardclaw"
             },
             {
                 "name": "Amber Hardfang",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lDpOl/amber-hardfang"
             },
             {
                 "name": "Velkhana Hardclaw",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/r2MRo/velkhana-hardclaw"
             }
         ]
     },
@@ -2708,19 +3159,23 @@
         "materials-upgrade": [
             {
                 "name": "Boulder Bone",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/o1zXr/boulder-bone"
             },
             {
                 "name": "Aqua Sac",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/oVnEo/aqua-sac"
             },
             {
                 "name": "Jyuratodus Scale",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/lpgmr/jyuratodus-scale"
             },
             {
                 "name": "Jyuratodus Shell",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/lkdEe/jyuratodus-shell"
             }
         ]
     },
@@ -2732,19 +3187,23 @@
         "materials-upgrade": [
             {
                 "name": "Sturdy Bone",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/lb44o/sturdy-bone"
             },
             {
                 "name": "Gajau Skin",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oyy9o/gajau-skin"
             },
             {
                 "name": "Jyuratodus Fang",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oLQjr/jyuratodus-fang"
             },
             {
                 "name": "Jyuratodus Fin",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/r4nMe/jyuratodus-fin"
             }
         ]
     },
@@ -2756,19 +3215,23 @@
         "materials-upgrade": [
             {
                 "name": "Coral Bone",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lzWpe/coral-bone"
             },
             {
                 "name": "Monster Bone+",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/eAkZr/monster-bone"
             },
             {
                 "name": "Gajau Whisker",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/ew6zl/gajau-whisker"
             },
             {
                 "name": "Jyuratodus Fang",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/oLQjr/jyuratodus-fang"
             }
         ]
     },
@@ -2779,37 +3242,45 @@
         "materials-forge": [
             {
                 "name": "Monster Keenbone",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/oQ5go/monster-keenbone"
             },
             {
                 "name": "Torrent Sac",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/omw0l/torrent-sac"
             },
             {
                 "name": "Wyvern Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/eNM3l/wyvern-gem"
             },
             {
                 "name": "Jyuratodus Fin+",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/lq9Zl/jyuratodus-fin"
             }
         ],
         "materials-upgrade": [
             {
                 "name": "Quality Bone",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/evynl/quality-bone"
             },
             {
                 "name": "Gajau Scale",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/l9zde/gajau-scale"
             },
             {
                 "name": "Jyuratodus Scale+",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/eALAl/jyuratodus-scale"
             },
             {
                 "name": "Jyuratodus Carapace",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oQXde/jyuratodus-carapace"
             }
         ]
     },
@@ -2821,19 +3292,23 @@
         "materials-upgrade": [
             {
                 "name": "Monster Hardbone",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/rMnNl/monster-hardbone"
             },
             {
                 "name": "Torrent Sac",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/omw0l/torrent-sac"
             },
             {
                 "name": "Grand Gajau Whisker",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/lpkpr/grand-gajau-whisker"
             },
             {
                 "name": "Jyuratodus Fin+",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/lq9Zl/jyuratodus-fin"
             }
         ]
     },
@@ -2845,19 +3320,23 @@
         "materials-upgrade": [
             {
                 "name": "Elder Dragon Bone",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/lqDKr/elder-dragon-bone"
             },
             {
                 "name": "Wyvern Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/eNM3l/wyvern-gem"
             },
             {
                 "name": "Jyuratodus Fang+",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/rMqar/jyuratodus-fang"
             },
             {
                 "name": "Jyuratodus Fin+",
-                "quantity": "6"
+                "quantity": "6",
+                "url": "https://mhworld.kiranico.com/en/items/lq9Zl/jyuratodus-fin"
             }
         ]
     },
@@ -2869,19 +3348,23 @@
         "materials-upgrade": [
             {
                 "name": "Gajau Thickhide",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/l01Ve/gajau-thickhide"
             },
             {
                 "name": "Jyuratodus Shard",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/r5gwe/jyuratodus-shard"
             },
             {
                 "name": "Jyuratodus Hardfang",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/ondWl/jyuratodus-hardfang"
             },
             {
                 "name": "Jyuratodus Grandfin",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/ed6qr/jyuratodus-grandfin"
             }
         ]
     },
@@ -2893,19 +3376,23 @@
         "materials-upgrade": [
             {
                 "name": "Bathycite Ore",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lkGml/bathycite-ore"
             },
             {
                 "name": "Flood Sac",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lWydo/flood-sac"
             },
             {
                 "name": "Coral Pukei-Pukei Shard",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oGG1o/coral-pukei-pukei-shard"
             },
             {
                 "name": "Coral Pukei-Pukei Fellwing",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/r26Pr/coral-pukei-pukei-fellwing"
             }
         ]
     },
@@ -2917,19 +3404,23 @@
         "materials-upgrade": [
             {
                 "name": "Monster Solidbone",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oJjzo/monster-solidbone"
             },
             {
                 "name": "Large Coral Pukei-Pukei Sac",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/rY82o/large-coral-pukei-pukei-sac"
             },
             {
                 "name": "Coral Pukei-Pukei Lash",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/e6Xar/coral-pukei-pukei-lash"
             },
             {
                 "name": "Acidic Glavenus Hardfang",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oOEWl/acidic-glavenus-hardfang"
             }
         ]
     },
@@ -2940,19 +3431,23 @@
         "materials-forge": [
             {
                 "name": "Deviljho Scale",
-                "quantity": "6"
+                "quantity": "6",
+                "url": "https://mhworld.kiranico.com/en/items/lpNYo/deviljho-scale"
             },
             {
                 "name": "Deviljho Tallfang",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oL24l/deviljho-tallfang"
             },
             {
                 "name": "Deviljho Talon",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/r4EVl/deviljho-talon"
             },
             {
                 "name": "Deviljho Saliva",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/rMYnr/deviljho-saliva"
             }
         ],
         "materials-upgrade": []
@@ -2965,19 +3460,23 @@
         "materials-upgrade": [
             {
                 "name": "Elder Dragon Blood",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/onBao/elder-dragon-blood"
             },
             {
                 "name": "Deviljho Tallfang",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/oL24l/deviljho-tallfang"
             },
             {
                 "name": "Deviljho Scalp",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/eA5ye/deviljho-scalp"
             },
             {
                 "name": "Deviljho Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/lqanl/deviljho-gem"
             }
         ]
     },
@@ -2989,19 +3488,23 @@
         "materials-upgrade": [
             {
                 "name": "Vile Fang",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/lPGyr/vile-fang"
             },
             {
                 "name": "Deviljho Ripper",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/e8Mbo/deviljho-ripper"
             },
             {
                 "name": "Black Blood",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/evXnr/black-blood"
             },
             {
                 "name": "Deviljho Crook",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/rKxbl/deviljho-crook"
             }
         ]
     },
@@ -3012,19 +3515,23 @@
         "materials-forge": [
             {
                 "name": "Lunastra Mane",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oVN1o/lunastra-mane"
             },
             {
                 "name": "Lunastra Horn",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oxmvr/lunastra-horn"
             },
             {
                 "name": "Lunastra Scale+",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/oJGMr/lunastra-scale"
             },
             {
                 "name": "Lunastra Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/rYLQo/lunastra-gem"
             }
         ],
         "materials-upgrade": []
@@ -3037,19 +3544,23 @@
         "materials-upgrade": [
             {
                 "name": "Bazelgeuse Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/r2Yno/bazelgeuse-gem"
             },
             {
                 "name": "Teostra Horn+",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/r5xXo/teostra-horn"
             },
             {
                 "name": "Lunastra Horn",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oxmvr/lunastra-horn"
             },
             {
                 "name": "Research Commission Ticket",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/lpzgo/research-commission-ticket"
             }
         ]
     },
@@ -3061,19 +3572,23 @@
         "materials-upgrade": [
             {
                 "name": "Large Elder Dragon Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/eZv8e/large-elder-dragon-gem"
             },
             {
                 "name": "Lunastra Mane+",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/eNE3l/lunastra-mane"
             },
             {
                 "name": "Lunastra Hardhorn",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/ed89e/lunastra-hardhorn"
             },
             {
                 "name": "Lunastra Shard",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/lRGge/lunastra-shard"
             }
         ]
     },
@@ -3085,19 +3600,23 @@
         "materials-upgrade": [
             {
                 "name": "Nergigante Horn+",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oxQ0r/nergigante-horn"
             },
             {
                 "name": "Nergigante Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/oEqxo/nergigante-gem"
             },
             {
                 "name": "Lunastra Wing",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/r27Bl/lunastra-wing"
             },
             {
                 "name": "Research Commission Ticket",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/lpzgo/research-commission-ticket"
             }
         ]
     },
@@ -3109,19 +3628,23 @@
         "materials-upgrade": [
             {
                 "name": "Large Elder Dragon Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/eZv8e/large-elder-dragon-gem"
             },
             {
                 "name": "Annihilating Greathorn",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/rBM1o/annihilating-greathorn"
             },
             {
                 "name": "Eternal Regrowth Plate",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/o7M0l/eternal-regrowth-plate"
             },
             {
                 "name": "Lunastra Shard",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/lRGge/lunastra-shard"
             }
         ]
     },
@@ -3133,19 +3656,23 @@
         "materials-upgrade": [
             {
                 "name": "Lunastra Tail",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/rBNNr/lunastra-tail"
             },
             {
                 "name": "Xeno'jiiva Horn",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/l9qzl/xeno-jiiva-horn"
             },
             {
                 "name": "Xeno'jiiva Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/r45Dl/xeno-jiiva-gem"
             },
             {
                 "name": "Research Commission Ticket",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/lpzgo/research-commission-ticket"
             }
         ]
     },
@@ -3157,19 +3684,23 @@
         "materials-upgrade": [
             {
                 "name": "Large Elder Dragon Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/eZv8e/large-elder-dragon-gem"
             },
             {
                 "name": "Lunastra Lash",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/onGar/lunastra-lash"
             },
             {
                 "name": "Lunastra Shard",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/lRGge/lunastra-shard"
             },
             {
                 "name": "Elder Spiritvein Bone",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/oG2Pe/elder-spiritvein-bone"
             }
         ]
     },
@@ -3180,7 +3711,8 @@
         "materials-forge": [
             {
                 "name": "Iron Ore",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/radQo/iron-ore"
             }
         ],
         "materials-upgrade": []
@@ -3193,7 +3725,8 @@
         "materials-upgrade": [
             {
                 "name": "Anjanath Scale",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/r2Pye/anjanath-scale"
             }
         ]
     },
@@ -3205,7 +3738,8 @@
         "materials-upgrade": [
             {
                 "name": "Commendation",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/ewzbl/commendation"
             }
         ]
     },
@@ -3217,7 +3751,8 @@
         "materials-upgrade": [
             {
                 "name": "Pink Rathian Scale+",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/o1Xxe/pink-rathian-scale"
             }
         ]
     },
@@ -3229,7 +3764,8 @@
         "materials-upgrade": [
             {
                 "name": "Immortal Dragonscale",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/rYnMl/immortal-dragonscale"
             }
         ]
     },
@@ -3240,19 +3776,23 @@
         "materials-forge": [
             {
                 "name": "Stygian Zinogre Dragonlocks",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oGNMe/stygian-zinogre-dragonlocks"
             },
             {
                 "name": "Stygian Zinogre Hardhorn",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/oJRAo/stygian-zinogre-hardhorn"
             },
             {
                 "name": "Stygian Zinogre Hardclaw",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/r2vRr/stygian-zinogre-hardclaw"
             },
             {
                 "name": "Stygian Zinogre Dragonhold",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/e6x0r/stygian-zinogre-dragonhold"
             }
         ],
         "materials-upgrade": []
@@ -3265,19 +3805,23 @@
         "materials-upgrade": [
             {
                 "name": "Stygian Zinogre Hardhorn",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oJRAo/stygian-zinogre-hardhorn"
             },
             {
                 "name": "Stygian Zinogre Hardclaw",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/r2vRr/stygian-zinogre-hardclaw"
             },
             {
                 "name": "Stygian Zinogre Skymerald",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/omp0e/stygian-zinogre-skymerald"
             },
             {
                 "name": "Tempered Dragonhold",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/eg1dP/tempered-dragonhold"
             }
         ]
     },
@@ -3289,19 +3833,23 @@
         "materials-upgrade": [
             {
                 "name": "Meldspar Ore",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/l0WVr/meldspar-ore"
             },
             {
                 "name": "Nargacuga Shard",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oEpDe/nargacuga-shard"
             },
             {
                 "name": "Nargacuga Tailspear",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oJpZl/nargacuga-tailspear"
             },
             {
                 "name": "Nargacuga Hardfang",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/rYXYo/nargacuga-hardfang"
             }
         ]
     },
@@ -3313,19 +3861,23 @@
         "materials-upgrade": [
             {
                 "name": "Fulgur Anjanath Hardfang",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lD0dl/fulgur-anjanath-hardfang"
             },
             {
                 "name": "Nargacuga Lash",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oGp4r/nargacuga-lash"
             },
             {
                 "name": "Nargacuga Cutwing+",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/r2p7e/nargacuga-cutwing"
             },
             {
                 "name": "Nargacuga Mantle",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/e6pdr/nargacuga-mantle"
             }
         ]
     },
@@ -3337,19 +3889,23 @@
         "materials-upgrade": [
             {
                 "name": "Eltalite Ore",
-                "quantity": "6"
+                "quantity": "6",
+                "url": "https://mhworld.kiranico.com/en/items/oOkwo/eltalite-ore"
             },
             {
                 "name": "Glavenus Shard",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/lRJ6l/glavenus-shard"
             },
             {
                 "name": "Glavenus Hardfang",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lPawe/glavenus-hardfang"
             },
             {
                 "name": "Molten Bursa",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/ev3vo/molten-bursa"
             }
         ]
     },
@@ -3361,19 +3917,23 @@
         "materials-upgrade": [
             {
                 "name": "Ebony Odogaron Hardfang",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/o7Ydl/ebony-odogaron-hardfang"
             },
             {
                 "name": "Glavenus Hellshell",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/e8qXo/glavenus-hellshell"
             },
             {
                 "name": "Glavenus Tailedge",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lbP6o/glavenus-tailedge"
             },
             {
                 "name": "Glavenus Mantle",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/rKBOo/glavenus-mantle"
             }
         ]
     },
@@ -3385,19 +3945,23 @@
         "materials-upgrade": [
             {
                 "name": "Pure Dragon Blood",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/lRvxl/pure-dragon-blood"
             },
             {
                 "name": "Glavenus Hardfang",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/lPawe/glavenus-hardfang"
             },
             {
                 "name": "Glavenus Hellshell",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/e8qXo/glavenus-hellshell"
             },
             {
                 "name": "Fire Dragon Hardclaw",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/r3MGe/fire-dragon-hardclaw"
             }
         ]
     },
@@ -3409,19 +3973,23 @@
         "materials-upgrade": [
             {
                 "name": "Purecrystal",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/l97xo/purecrystal"
             },
             {
                 "name": "Crystal Shard",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/lDMZe/crystal-shard"
             },
             {
                 "name": "Velkhana Lash",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oJBAo/velkhana-lash"
             },
             {
                 "name": "Velkhana Hardclaw",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/r2MRo/velkhana-hardclaw"
             }
         ]
     },
@@ -3433,19 +4001,23 @@
         "materials-upgrade": [
             {
                 "name": "Velkhana Crownhorn",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/oGMMl/velkhana-crownhorn"
             },
             {
                 "name": "Velkhana Hardclaw",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/r2MRo/velkhana-hardclaw"
             },
             {
                 "name": "Velkhana Crystal",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/rY35e/velkhana-crystal"
             },
             {
                 "name": "Shara Ishvalda Tenderclaw",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/rBA8o/shara-ishvalda-tenderclaw"
             }
         ]
     },
@@ -3457,19 +4029,23 @@
         "materials-upgrade": [
             {
                 "name": "Thick Bone",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/lqmYl/thick-bone"
             },
             {
                 "name": "Monster Slogbone",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oGW5o/monster-slogbone"
             },
             {
                 "name": "Tigrex Shard",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/oVVko/tigrex-shard"
             },
             {
                 "name": "Tigrex Hardclaw",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/rXg5o/tigrex-hardclaw"
             }
         ]
     },
@@ -3481,19 +4057,23 @@
         "materials-upgrade": [
             {
                 "name": "Blackcurl Stouthorn",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/rK7Or/blackcurl-stouthorn"
             },
             {
                 "name": "Tigrex Lash",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/egBgl/tigrex-lash"
             },
             {
                 "name": "Tigrex Hardfang",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/r34al/tigrex-hardfang"
             },
             {
                 "name": "Tigrex Mantle",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/lWmmo/tigrex-mantle"
             }
         ]
     },
@@ -3505,19 +4085,23 @@
         "materials-upgrade": [
             {
                 "name": "Meldspar Ore",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/l0WVr/meldspar-ore"
             },
             {
                 "name": "Monster Solidbone",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oJjzo/monster-solidbone"
             },
             {
                 "name": "Fulgur Anjanath Shard",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oxPRo/fulgur-anjanath-shard"
             },
             {
                 "name": "Fulgur Anjanath Hardfang",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/lD0dl/fulgur-anjanath-hardfang"
             }
         ]
     },
@@ -3529,19 +4113,23 @@
         "materials-upgrade": [
             {
                 "name": "Lightning Sac",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/eNvxe/lightning-sac"
             },
             {
                 "name": "Fulgur Anjanath Thickfur",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/o70mr/fulgur-anjanath-thickfur"
             },
             {
                 "name": "Heavy Fulgur Anjanath Nosebone",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oE0ke/heavy-fulgur-anjanath-nosebone"
             },
             {
                 "name": "Fulgur Anjanath Lash",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/raBql/fulgur-anjanath-lash"
             }
         ]
     },
@@ -3553,19 +4141,23 @@
         "materials-upgrade": [
             {
                 "name": "Fulgur Anjanath Thickfur",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/o70mr/fulgur-anjanath-thickfur"
             },
             {
                 "name": "Fulgur Anjanath Hardfang",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/lD0dl/fulgur-anjanath-hardfang"
             },
             {
                 "name": "Fulgur Anjanath Mantle",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/oGB1e/fulgur-anjanath-mantle"
             },
             {
                 "name": "Kirin Silvermane",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/eAMZe/kirin-silvermane"
             }
         ]
     },
@@ -3577,19 +4169,23 @@
         "materials-upgrade": [
             {
                 "name": "Torpor Sac",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/rXQRl/torpor-sac"
             },
             {
                 "name": "Paolumu Cortex",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lPYMe/paolumu-cortex"
             },
             {
                 "name": "Nightshade Paolumu Thickfur",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/lbx2o/nightshade-paolumu-thickfur"
             },
             {
                 "name": "Nightshade Paolumu Fellwing",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/rKE7e/nightshade-paolumu-fellwing"
             }
         ]
     },
@@ -3601,19 +4197,23 @@
         "materials-upgrade": [
             {
                 "name": "Large Wyvern Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/edaMo/large-wyvern-gem"
             },
             {
                 "name": "Nightshade Paolumu Shard",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/evjje/nightshade-paolumu-shard"
             },
             {
                 "name": "Nightshade Paolumu Fellwing",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/rKE7e/nightshade-paolumu-fellwing"
             },
             {
                 "name": "Black Diablos Chine",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/evNve/black-diablos-chine"
             }
         ]
     },
@@ -3625,19 +4225,23 @@
         "materials-upgrade": [
             {
                 "name": "Meldspar Ore",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/l0WVr/meldspar-ore"
             },
             {
                 "name": "Brachydios Cortex",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/lpxbl/brachydios-cortex"
             },
             {
                 "name": "Brachydios Crown",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oLjkl/brachydios-crown"
             },
             {
                 "name": "Glowing Slime",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/r418l/glowing-slime"
             }
         ]
     },
@@ -3649,19 +4253,23 @@
         "materials-upgrade": [
             {
                 "name": "Azure Rathalos Fellwing",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/rX35o/azure-rathalos-fellwing"
             },
             {
                 "name": "Glowing Slime",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/r418l/glowing-slime"
             },
             {
                 "name": "Brachydios Pounder+",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/eAmLe/brachydios-pounder"
             },
             {
                 "name": "Brachydios Lash",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oQ1Ro/brachydios-lash"
             }
         ]
     },
@@ -3673,19 +4281,23 @@
         "materials-upgrade": [
             {
                 "name": "Shara Ishvalda Tenderscale",
-                "quantity": "6"
+                "quantity": "6",
+                "url": "https://mhworld.kiranico.com/en/items/oJAAe/shara-ishvalda-tenderscale"
             },
             {
                 "name": "Shara Ishvalda Tenderplate",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/e6A0l/shara-ishvalda-tenderplate"
             },
             {
                 "name": "Shara Ishvalda Tenderclaw",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/rBA8o/shara-ishvalda-tenderclaw"
             },
             {
                 "name": "Shara Ishvalda Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/oxgye/shara-ishvalda-gem"
             }
         ]
     },
@@ -3696,19 +4308,23 @@
         "materials-forge": [
             {
                 "name": "Rajang Hardhorn",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/l9Mdl/rajang-hardhorn"
             },
             {
                 "name": "Rajang Hardfang",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lzNpl/rajang-hardfang"
             },
             {
                 "name": "Rajang Wildpelt",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/o1MXo/rajang-wildpelt"
             },
             {
                 "name": "Rajang Hardclaw",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/oOaBl/rajang-hardclaw"
             }
         ],
         "materials-upgrade": []
@@ -3721,19 +4337,23 @@
         "materials-upgrade": [
             {
                 "name": "Rajang Hardhorn",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/l9Mdl/rajang-hardhorn"
             },
             {
                 "name": "Rajang Hardfang",
-                "quantity": "7"
+                "quantity": "7",
+                "url": "https://mhworld.kiranico.com/en/items/lzNpl/rajang-hardfang"
             },
             {
                 "name": "Gold Rajang Pelt+",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oy59o/gold-rajang-pelt"
             },
             {
                 "name": "Tempered Glimmerpelt",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/r3Lkn/tempered-glimmerpelt"
             }
         ]
     },
@@ -3744,19 +4364,23 @@
         "materials-forge": [
             {
                 "name": "Large Elder Dragon Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/eZv8e/large-elder-dragon-gem"
             },
             {
                 "name": "Alatreon Mantle",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/lDAPe/alatreon-mantle"
             },
             {
                 "name": "Alatreon Riptalon",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oEAJo/alatreon-riptalon"
             },
             {
                 "name": "Skyswayer",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/oJAne/skyswayer"
             }
         ],
         "materials-upgrade": []
@@ -3769,19 +4393,23 @@
         "materials-upgrade": [
             {
                 "name": "Alatreon Riptalon",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oEAJo/alatreon-riptalon"
             },
             {
                 "name": "Alatreon Direwing",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/raRml/alatreon-direwing"
             },
             {
                 "name": "Skyswayer",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oJAne/skyswayer"
             },
             {
                 "name": "Azure Dragonsphire",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/r2Ryr/azure-dragonsphire"
             }
         ]
     },
@@ -3793,19 +4421,23 @@
         "materials-upgrade": [
             {
                 "name": "Lightning Sac",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/eNvxe/lightning-sac"
             },
             {
                 "name": "Zinogre Cortex",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/rY4Yo/zinogre-cortex"
             },
             {
                 "name": "Zinogre Hardclaw",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/rBg1l/zinogre-hardclaw"
             },
             {
                 "name": "Zinogre Deathly Shocker",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/o770o/zinogre-deathly-shocker"
             }
         ]
     },
@@ -3817,19 +4449,23 @@
         "materials-upgrade": [
             {
                 "name": "Zinogre Electrofur+",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/e6xdr/zinogre-electrofur"
             },
             {
                 "name": "Zinogre Hardhorn",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oVLkl/zinogre-hardhorn"
             },
             {
                 "name": "Fulgurbug",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/lD3Zr/fulgurbug"
             },
             {
                 "name": "Zinogre Skymerald",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/oEWpl/zinogre-skymerald"
             }
         ]
     },
@@ -3841,19 +4477,23 @@
         "materials-upgrade": [
             {
                 "name": "Large Elder Dragon Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/eZv8e/large-elder-dragon-gem"
             },
             {
                 "name": "Zinogre Hardhorn",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oVLkl/zinogre-hardhorn"
             },
             {
                 "name": "Zinogre Deathly Shocker",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/o770o/zinogre-deathly-shocker"
             },
             {
                 "name": "Spiritvein Solidbone",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/ra9yr/spiritvein-solidbone"
             }
         ]
     },
@@ -3865,19 +4505,23 @@
         "materials-upgrade": [
             {
                 "name": "Acidic Glavenus Hardfang",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oOEWl/acidic-glavenus-hardfang"
             },
             {
                 "name": "Acidic Glavenus Spineshell",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/l0p6l/acidic-glavenus-spineshell"
             },
             {
                 "name": "Acidic Glavenus Tailedge",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oy6Ar/acidic-glavenus-tailedge"
             },
             {
                 "name": "Honed Acidcryst",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/ew2Dl/honed-acidcryst"
             }
         ]
     },
@@ -3889,19 +4533,23 @@
         "materials-upgrade": [
             {
                 "name": "Glavenus Mantle",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/rKBOo/glavenus-mantle"
             },
             {
                 "name": "Acidic Glavenus Hardfang",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/oOEWl/acidic-glavenus-hardfang"
             },
             {
                 "name": "Acidic Glavenus Spineshell",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/l0p6l/acidic-glavenus-spineshell"
             },
             {
                 "name": "Vaal Hazak Hardclaw",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/l9Adl/vaal-hazak-hardclaw"
             }
         ]
     },
@@ -3913,19 +4561,23 @@
         "materials-upgrade": [
             {
                 "name": "Ultraplegia Sac",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/eg21l/ultraplegia-sac"
             },
             {
                 "name": "Viper Tobi-Kadachi Shard",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oOXar/viper-tobi-kadachi-shard"
             },
             {
                 "name": "Viper Tobi-Kadachi Thickfur",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/l02Ao/viper-tobi-kadachi-thickfur"
             },
             {
                 "name": "Viper Tobi-Kadachi Hardclaw",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/ewEqr/viper-tobi-kadachi-hardclaw"
             }
         ]
     },
@@ -3937,19 +4589,23 @@
         "materials-upgrade": [
             {
                 "name": "Viper Tobi-Kadachi Membrane+",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/oyG1l/viper-tobi-kadachi-membrane"
             },
             {
                 "name": "Viper Tobi-Kadachi Hardclaw",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/ewEqr/viper-tobi-kadachi-hardclaw"
             },
             {
                 "name": "Viper Tobi-Kadachi Thorn",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/l95Bl/viper-tobi-kadachi-thorn"
             },
             {
                 "name": "Acidic Glavenus Spineshell",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/l0p6l/acidic-glavenus-spineshell"
             }
         ]
     },
@@ -3961,19 +4617,23 @@
         "materials-upgrade": [
             {
                 "name": "Purecrystal",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/l97xo/purecrystal"
             },
             {
                 "name": "Namielle Finehide",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/lkBYr/namielle-finehide"
             },
             {
                 "name": "Namielle Whisker",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/eAAZe/namielle-whisker"
             },
             {
                 "name": "Namielle Hardclaw",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/rMxNo/namielle-hardclaw"
             }
         ]
     },
@@ -3984,37 +4644,45 @@
         "materials-forge": [
             {
                 "name": "Frozen Bone",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/ojaOe/frozen-bone"
             },
             {
                 "name": "Beotodus Shard",
-                "quantity": "6"
+                "quantity": "6",
+                "url": "https://mhworld.kiranico.com/en/items/lR57r/beotodus-shard"
             },
             {
                 "name": "Beotodus Hardhorn",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lP3Mr/beotodus-hardhorn"
             },
             {
                 "name": "Beotodus Grandfin",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/e8W1l/beotodus-grandfin"
             }
         ],
         "materials-upgrade": [
             {
                 "name": "Frozen Bone",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/ojaOe/frozen-bone"
             },
             {
                 "name": "Beotodus Shard",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/lR57r/beotodus-shard"
             },
             {
                 "name": "Beotodus Hardhorn",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/lP3Mr/beotodus-hardhorn"
             },
             {
                 "name": "Beotodus Grandfin",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/e8W1l/beotodus-grandfin"
             }
         ]
     },
@@ -4026,19 +4694,23 @@
         "materials-upgrade": [
             {
                 "name": "Cryo Sac",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/r51Zr/cryo-sac"
             },
             {
                 "name": "Large Wyvern Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/edaMo/large-wyvern-gem"
             },
             {
                 "name": "Beotodus Grandfin",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/e8W1l/beotodus-grandfin"
             },
             {
                 "name": "Rimed Hide",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/rBd9e/rimed-hide"
             }
         ]
     },
@@ -4050,19 +4722,23 @@
         "materials-upgrade": [
             {
                 "name": "Dragonbone Artifact",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/rBVar/dragonbone-artifact"
             },
             {
                 "name": "Ebony Odogaron Shard",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/oVg5r/ebony-odogaron-shard"
             },
             {
                 "name": "Ebony Odogaron Hardclaw",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/oxd9o/ebony-odogaron-hardclaw"
             },
             {
                 "name": "Ebony Odogaron Hardfang",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/o7Ydl/ebony-odogaron-hardfang"
             }
         ]
     },
@@ -4074,19 +4750,23 @@
         "materials-upgrade": [
             {
                 "name": "Ebony Odogaron Hardclaw",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/oxd9o/ebony-odogaron-hardclaw"
             },
             {
                 "name": "Ebony Odogaron Lash",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lDZOo/ebony-odogaron-lash"
             },
             {
                 "name": "Ebony Odogaron Mantle",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/oEPDe/ebony-odogaron-mantle"
             },
             {
                 "name": "Namielle Hardclaw",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/rMxNo/namielle-hardclaw"
             }
         ]
     },
@@ -4098,19 +4778,23 @@
         "materials-upgrade": [
             {
                 "name": "Large Wyvern Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/edaMo/large-wyvern-gem"
             },
             {
                 "name": "Brute Tigrex Shard",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/r5pBo/brute-tigrex-shard"
             },
             {
                 "name": "Brute Tigrex Hardclaw",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/onJDo/brute-tigrex-hardclaw"
             },
             {
                 "name": "Brute Tigrex Hardfang",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/edbJr/brute-tigrex-hardfang"
             }
         ]
     },
@@ -4121,19 +4805,23 @@
         "materials-forge": [
             {
                 "name": "Purecrystal",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/l97xo/purecrystal"
             },
             {
                 "name": "Gracium",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/oLRVl/gracium"
             },
             {
                 "name": "Amber Hardfang",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/lDpOl/amber-hardfang"
             },
             {
                 "name": "Fest Ticket",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/r5mwX/fest-ticket"
             }
         ],
         "materials-upgrade": []
@@ -4146,19 +4834,23 @@
         "materials-upgrade": [
             {
                 "name": "Large Elder Dragon Bone",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/rYkEe/large-elder-dragon-bone"
             },
             {
                 "name": "Pure Dragon Blood",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/lRvxl/pure-dragon-blood"
             },
             {
                 "name": "Namielle Hardclaw",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/rMxNo/namielle-hardclaw"
             },
             {
                 "name": "Hero King Coin",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/rMWae/hero-king-coin"
             }
         ]
     },
@@ -4169,19 +4861,23 @@
         "materials-forge": [
             {
                 "name": "Gold Rajang Pelt+",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/oy59o/gold-rajang-pelt"
             },
             {
                 "name": "Rajang Apoplexy",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/ew3ze/rajang-apoplexy"
             },
             {
                 "name": "Ghoulish Gold Gorer",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/lp2po/ghoulish-gold-gorer"
             },
             {
                 "name": "Rajang Heart",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/lkDYe/rajang-heart"
             }
         ],
         "materials-upgrade": []
@@ -4193,19 +4889,23 @@
         "materials-forge": [
             {
                 "name": "Indestructible Ebonshell",
-                "quantity": "4"
+                "quantity": "4",
+                "url": "https://mhworld.kiranico.com/en/items/r3Z2o/indestructible-ebonshell"
             },
             {
                 "name": "Brach Warhead",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/lq7Eo/brach-warhead"
             },
             {
                 "name": "Brach Obliterator",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/rBg2l/brach-obliterator"
             },
             {
                 "name": "Immortal Reactor",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/oxY9r/immortal-reactor"
             }
         ],
         "materials-upgrade": []
@@ -4343,37 +5043,45 @@
         "materials-forge": [
             {
                 "name": "Large Wyvern Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/edaMo/large-wyvern-gem"
             },
             {
                 "name": "Bergcrusher Claw",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/o7ZQ4/bergcrusher-claw"
             },
             {
                 "name": "Silverwhite Frostfang",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/lDWnK/silverwhite-frostfang"
             },
             {
                 "name": "Frostfang Ticket",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/r4Y70/frostfang-ticket"
             }
         ],
         "materials-upgrade": [
             {
                 "name": "Gracium",
-                "quantity": "5"
+                "quantity": "5",
+                "url": "https://mhworld.kiranico.com/en/items/oLRVl/gracium"
             },
             {
                 "name": "Bergcrusher Claw",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/o7ZQ4/bergcrusher-claw"
             },
             {
                 "name": "Silverwhite Frostfang",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/lDWnK/silverwhite-frostfang"
             },
             {
                 "name": "Frostfang Ticket",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/r4Y70/frostfang-ticket"
             }
         ]
     },
@@ -4384,19 +5092,23 @@
         "materials-forge": [
             {
                 "name": "Fatalis Shard",
-                "quantity": "3"
+                "quantity": "3",
+                "url": "https://mhworld.kiranico.com/en/items/omQdG/fatalis-shard"
             },
             {
                 "name": "Fatalis Pectus",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/rXAwX/fatalis-pectus"
             },
             {
                 "name": "Fatalis Hardhorn",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/r3L3A/fatalis-hardhorn"
             },
             {
                 "name": "Fatalis Evil Eye",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/lWB4v/fatalis-evil-eye"
             }
         ],
         "materials-upgrade": []
@@ -4409,19 +5121,23 @@
         "materials-upgrade": [
             {
                 "name": "Large Elder Dragon Gem",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/eZv8e/large-elder-dragon-gem"
             },
             {
                 "name": "Fatalis Pectus",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/rXAwX/fatalis-pectus"
             },
             {
                 "name": "Fatalis Hardhorn",
-                "quantity": "2"
+                "quantity": "2",
+                "url": "https://mhworld.kiranico.com/en/items/r3L3A/fatalis-hardhorn"
             },
             {
                 "name": "Fatalis Evil Eye",
-                "quantity": "1"
+                "quantity": "1",
+                "url": "https://mhworld.kiranico.com/en/items/lWB4v/fatalis-evil-eye"
             }
         ]
     },
