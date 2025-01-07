@@ -302,6 +302,50 @@ def materials_scraper():
                                 })
                 
                 searched_links.append(material["url"])
+        
+            for material in equipment["materials-upgrade"]:
+                if material["url"] not in searched_links:
+                    match determine_type(material, mined):
+                        case "mining-outcrop":
+                            # if mined, ONLY check for mining outcrops, NO quest rewards. IGNORE Seliana Supply Cache
+                            loc, rar = get_mined_materials(material)
+                            materials_json.append({
+                                "name": material["name"],
+                                "type": "mining-outcrop",
+                                "source": "Mining Outcrop",
+                                "locales": loc,
+                                "rarity": rar,
+                            })
+                        case "carve-quest":
+                            mon, que, rar = get_materials_mix(material)
+                            if mon and que: # if material has both monster drops and quest rewards, IGNORE quest rewards
+                                materials_json.append({
+                                    "name": material["name"],
+                                    "type": "monster-drop",
+                                    "source": mon,
+                                    "locales": "N/A",
+                                    "rarity": rar,
+                                })
+
+                            if mon and not que: # if material has only monster drops, use monster drops
+                                materials_json.append({
+                                    "name": material["name"],
+                                    "type": "monster-drop",
+                                    "source": mon,
+                                    "locales": "N/A",
+                                    "rarity": rar,
+                                })
+
+                            if que and not mon: # if material has only quest rewards, use quest rewards
+                                materials_json.append({
+                                    "name": material["name"],
+                                    "type": "quest-reward",
+                                    "source": que,
+                                    "locales": "N/A",
+                                    "rarity": rar,
+                                })
+                
+                searched_links.append(material["url"])
 
     with open('mhw-tools/drop-list/items-list/materials.json', 'w') as g:
         json.dump(materials_json, g, indent=4)

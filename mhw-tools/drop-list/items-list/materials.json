@@ -90,6 +90,303 @@
         "rarity": "4"
     },
     {
+        "name": "Machalite Ore",
+        "type": "mining-outcrop",
+        "source": "Mining Outcrop",
+        "locales": [
+            "High Rank Gajau Mining Outcrop",
+            "High Rank Gajau Mining Outcrop",
+            "High Rank Gajau Mining Outcrop",
+            "Low Rank Gajau Mining Outcrop",
+            "Low Rank Gajau Mining Outcrop",
+            "Low Rank Gajau Mining Outcrop",
+            "\u26051 Up at the Crack of Dawn Quest Rewards Mining Outcrop",
+            "\u26051 Up at the Crack of Dawn Quest Rewards Mining Outcrop",
+            "\u26051 Jagras of the Ancient Forest Quest Rewards Mining Outcrop",
+            "\u26053 Gettin' Yolked in the Waste Quest Rewards Mining Outcrop",
+            "\u26053 Prickly Predicament Quest Rewards Mining Outcrop",
+            "\u26052 Exterminator of the Waste Quest Rewards Mining Outcrop",
+            "\u26052 The Pain from Gains Quest Rewards Mining Outcrop",
+            "\u26054 Gettin' Yolked in the Forest Quest Rewards Mining Outcrop",
+            "\u26055 A Fiery Throne Atop the Forest Quest Rewards Mining Outcrop",
+            "\u26055 When Desire Becomes an Obsession Quest Rewards Mining Outcrop",
+            "\u26051 Fungal Flexin' in the Ancient Forest Quest Rewards Mining Outcrop",
+            "\u26051 A Thicket of Thugs Quest Rewards Mining Outcrop",
+            "\u26051 Butting Heads with Nature Quest Rewards Mining Outcrop",
+            "\u26054 One Helluva Sinus Infection Quest Rewards Mining Outcrop",
+            "\u26054 The Encroaching Anjanath Quest Rewards Mining Outcrop",
+            "\u26054 A Bone to Pick Quest Rewards Mining Outcrop",
+            "\u26054 A Rotten Thing To Do Quest Rewards Mining Outcrop",
+            "\u26054 Radobaan Roadblock Quest Rewards Mining Outcrop",
+            "\u26054 One for the History Books Quest Rewards Mining Outcrop",
+            "\u26052 A Kestodon Kerfuffle Quest Rewards Mining Outcrop",
+            "\u26053 The Current Situation Quest Rewards Mining Outcrop",
+            "\u26053 Scatternut Shortage Quest Rewards Mining Outcrop",
+            "\u26053 Flying Sparks: Tobi-Kadachi Quest Rewards Mining Outcrop",
+            "\u26052 Snatch the Snatcher Quest Rewards Mining Outcrop",
+            "\u26052 Camp Crasher Quest Rewards Mining Outcrop",
+            "\u26052 The Great Glutton Quest Rewards Mining Outcrop",
+            "\u26051 Learning the Clutch Quest Rewards Mining Outcrop",
+            "\u26053 Urgent: Pukei-Pukei Hunt Quest Rewards Mining Outcrop",
+            "\u26052 Bird-Brained Bandit Quest Rewards Mining Outcrop",
+            "\u26052 The Great Jagras Hunt Quest Rewards Mining Outcrop",
+            "\u26056 Midnight Mayhem Quest Rewards Mining Outcrop",
+            "\u26054 Persistent Pests Quest Rewards Mining Outcrop",
+            "\u26054 On Nightmare's Wings Quest Rewards Mining Outcrop",
+            "\u26055 The Meat of the Matter Quest Rewards Mining Outcrop",
+            "High Rank Ancient Forest Mining Outcrop",
+            "Low Rank Ancient Forest Mining Outcrop",
+            "Low Rank Wildspire Waste Mining Outcrop",
+            "Low Rank ??? Mining Outcrop",
+            "Low Rank Great Ravine Mining Outcrop",
+            "Low Rank Everstream Mining Outcrop",
+            "Low Rank Everstream Mining Outcrop",
+            "Low Rank Ancient Forest Mining Outcrop",
+            "Low Rank Great Ravine Mining Outcrop",
+            "Low Rank Great Ravine Mining Outcrop",
+            "Low Rank Special Arena Mining Outcrop",
+            "Low Rank Arena Mining Outcrop",
+            "Low Rank Hoarfrost Reach Mining Outcrop",
+            "Low Rank The Guiding Lands Mining Outcrop",
+            "Low Rank Secluded Valley Mining Outcrop",
+            "Low Rank Secluded Valley Mining Outcrop",
+            "Low Rank Castle Schrade Mining Outcrop",
+            "Low Rank Confluence of Fates Mining Outcrop",
+            "Low Rank Rotten Vale Mining Outcrop",
+            "Low Rank Everstream Mining Outcrop",
+            "Low Rank Ancient Forest Mining Outcrop",
+            "Low Rank Great Ravine Mining Outcrop",
+            "Low Rank Great Ravine Mining Outcrop",
+            "Low Rank Special Arena Mining Outcrop",
+            "Low Rank Arena Mining Outcrop",
+            "Low Rank Hoarfrost Reach Mining Outcrop",
+            "Low Rank The Guiding Lands Mining Outcrop",
+            "Low Rank Secluded Valley Mining Outcrop",
+            "Low Rank Secluded Valley Mining Outcrop",
+            "Low Rank Castle Schrade Mining Outcrop",
+            "Low Rank ??? Mining Outcrop",
+            "Low Rank Wildspire Waste Mining Outcrop",
+            "Low Rank Rotten Vale Mining Outcrop",
+            "Low Rank Everstream Mining Outcrop",
+            "Low Rank Confluence of Fates Mining Outcrop",
+            "Low Rank Wildspire Waste Mining Outcrop",
+            "Low Rank Coral Highlands Mining Outcrop",
+            "Low Rank ??? Mining Outcrop",
+            "Low Rank ??? Mining Outcrop",
+            "High Rank Wildspire Waste Mining Outcrop",
+            "High Rank Ancient Forest Mining Outcrop",
+            "High Rank Wildspire Waste Mining Outcrop",
+            "High Rank Ancient Forest Mining Outcrop"
+        ],
+        "rarity": "4"
+    },
+    {
+        "name": "Earth Crystal",
+        "type": "mining-outcrop",
+        "source": "Mining Outcrop",
+        "locales": [
+            "\u26051 Up at the Crack of Dawn Quest Rewards Mining Outcrop",
+            "\u26053 Down the Dark, Muddy Path Quest Rewards Mining Outcrop",
+            "\u26053 Down the Dark, Muddy Path Quest Rewards Mining Outcrop",
+            "\u26053 The Best Kind of Quest Quest Rewards Mining Outcrop",
+            "\u26053 Sinister Shadows in the Swamp Quest Rewards Mining Outcrop",
+            "\u26053 Mired in the Spire Quest Rewards Mining Outcrop",
+            "\u26053 The Piscine Problem Quest Rewards Mining Outcrop",
+            "\u26053 Landing the Landslide Wyvern Quest Rewards Mining Outcrop",
+            "\u26052 Snatch the Snatcher Quest Rewards Mining Outcrop",
+            "\u26055 Horned Tyrant Below the Sands Quest Rewards Mining Outcrop",
+            "\u26055 Twin Spires Upon the Sands Quest Rewards Mining Outcrop",
+            "\u26054 Royal Relocation Quest Rewards Mining Outcrop",
+            "\u26056 Midnight Mayhem Quest Rewards Mining Outcrop",
+            "\u26053 Gettin' Yolked in the Waste Quest Rewards Mining Outcrop",
+            "\u26053 Prickly Predicament Quest Rewards Mining Outcrop",
+            "\u26052 Exterminator of the Waste Quest Rewards Mining Outcrop",
+            "\u26052 The Pain from Gains Quest Rewards Mining Outcrop",
+            "Master Rank Wildspire Waste Mining Outcrop",
+            "High Rank Wildspire Waste Mining Outcrop",
+            "Low Rank Wildspire Waste Mining Outcrop",
+            "Low Rank Ancient Forest Mining Outcrop",
+            "Low Rank Ancient Forest Mining Outcrop",
+            "Low Rank Wildspire Waste Mining Outcrop",
+            "Low Rank Wildspire Waste Mining Outcrop",
+            "Low Rank Coral Highlands Mining Outcrop",
+            "Low Rank Coral Highlands Mining Outcrop",
+            "Low Rank Rotten Vale Mining Outcrop",
+            "Low Rank Rotten Vale Mining Outcrop",
+            "Low Rank Great Ravine Mining Outcrop",
+            "Low Rank Great Ravine Mining Outcrop",
+            "Low Rank Great Ravine Mining Outcrop",
+            "Low Rank Special Arena Mining Outcrop",
+            "Low Rank Special Arena Mining Outcrop",
+            "Low Rank Arena Mining Outcrop",
+            "Low Rank Arena Mining Outcrop",
+            "Low Rank Hoarfrost Reach Mining Outcrop",
+            "Low Rank Hoarfrost Reach Mining Outcrop",
+            "Low Rank The Guiding Lands Mining Outcrop",
+            "Low Rank The Guiding Lands Mining Outcrop",
+            "Low Rank Secluded Valley Mining Outcrop",
+            "Low Rank Secluded Valley Mining Outcrop",
+            "Low Rank Secluded Valley Mining Outcrop",
+            "Low Rank Secluded Valley Mining Outcrop",
+            "Low Rank Castle Schrade Mining Outcrop",
+            "Low Rank Castle Schrade Mining Outcrop",
+            "Low Rank Wildspire Waste Mining Outcrop",
+            "Low Rank Wildspire Waste Mining Outcrop",
+            "Low Rank Great Ravine Mining Outcrop",
+            "High Rank Wildspire Waste Mining Outcrop",
+            "High Rank Wildspire Waste Mining Outcrop"
+        ],
+        "rarity": "4"
+    },
+    {
+        "name": "Dragonite Ore",
+        "type": "mining-outcrop",
+        "source": "Mining Outcrop",
+        "locales": [
+            "Low Rank Zorah Magdaros Mining Outcrop",
+            "High Rank Zorah Magdaros Mining Outcrop",
+            "Low Rank Zorah Magdaros Mining Outcrop",
+            "High Rank Zorah Magdaros Mining Outcrop",
+            "High Rank Gajau Mining Outcrop",
+            "High Rank Gajau Mining Outcrop",
+            "High Rank Gajau Mining Outcrop",
+            "\u26056 Gaze Upon the Dawn Quest Rewards Mining Outcrop",
+            "\u26055 Every Hunter's Dream Quest Rewards Mining Outcrop",
+            "\u26055 Gone in a Flash Quest Rewards Mining Outcrop",
+            "\u26056 Left Quite the Impression Quest Rewards Mining Outcrop",
+            "\u26056 A Colossal Task Quest Rewards Mining Outcrop",
+            "\u26054 On Nightmare's Wings Quest Rewards Mining Outcrop",
+            "\u26054 Troubled Troupers Quest Rewards Mining Outcrop",
+            "\u26055 The Meat of the Matter Quest Rewards Mining Outcrop",
+            "\u26055 Man's Best Fiend Quest Rewards Mining Outcrop",
+            "\u26055 Scratching the Itch Quest Rewards Mining Outcrop",
+            "\u26055 Into the Bowels of the Vale Quest Rewards Mining Outcrop",
+            "\u26054 Persistent Pests Quest Rewards Mining Outcrop",
+            "\u26054 What a Bunch of Abalone Quest Rewards Mining Outcrop",
+            "\u26054 It's a Crying Shamos Quest Rewards Mining Outcrop",
+            "\u26054 One for the History Books Quest Rewards Mining Outcrop",
+            "\u26054 A Bone to Pick Quest Rewards Mining Outcrop",
+            "\u26054 A Rotten Thing To Do Quest Rewards Mining Outcrop",
+            "\u26054 White Monster for a White Coat Quest Rewards Mining Outcrop",
+            "\u26054 Sorry You're Not Invited Quest Rewards Mining Outcrop",
+            "\u26054 A Tzitzi for Science Quest Rewards Mining Outcrop",
+            "\u26054 Radobaan Roadblock Quest Rewards Mining Outcrop",
+            "\u26056 Midnight Mayhem Quest Rewards Mining Outcrop",
+            "\u26054 Ballooning Problems Quest Rewards Mining Outcrop",
+            "High Rank Wildspire Waste Mining Outcrop",
+            "High Rank Coral Highlands Mining Outcrop",
+            "Low Rank Coral Highlands Mining Outcrop",
+            "High Rank Rotten Vale Mining Outcrop",
+            "Low Rank Rotten Vale Mining Outcrop",
+            "Low Rank Elder's Recess Mining Outcrop",
+            "Low Rank Confluence of Fates Mining Outcrop",
+            "Low Rank Confluence of Fates Mining Outcrop",
+            "Low Rank Elder's Recess Mining Outcrop",
+            "Low Rank Confluence of Fates Mining Outcrop",
+            "Low Rank Rotten Vale Mining Outcrop",
+            "Low Rank Great Ravine Mining Outcrop",
+            "Low Rank Everstream Mining Outcrop",
+            "Low Rank Everstream Mining Outcrop",
+            "Low Rank Everstream Mining Outcrop",
+            "Low Rank Elder's Recess Mining Outcrop",
+            "Low Rank Confluence of Fates Mining Outcrop",
+            "Low Rank Rotten Vale Mining Outcrop",
+            "Low Rank Everstream Mining Outcrop",
+            "Low Rank Coral Highlands Mining Outcrop",
+            "Low Rank Coral Highlands Mining Outcrop",
+            "Low Rank Elder's Recess Mining Outcrop",
+            "High Rank Ancient Forest Mining Outcrop",
+            "High Rank Wildspire Waste Mining Outcrop",
+            "High Rank Coral Highlands Mining Outcrop",
+            "High Rank Rotten Vale Mining Outcrop",
+            "High Rank Rotten Vale Mining Outcrop",
+            "High Rank Ancient Forest Mining Outcrop",
+            "High Rank Wildspire Waste Mining Outcrop",
+            "High Rank Coral Highlands Mining Outcrop",
+            "High Rank Rotten Vale Mining Outcrop",
+            "High Rank Rotten Vale Mining Outcrop",
+            "High Rank Coral Highlands Mining Outcrop",
+            "High Rank Coral Highlands Mining Outcrop",
+            "High Rank Rotten Vale Mining Outcrop",
+            "Master Rank The Guiding Lands Mining Outcrop",
+            "Master Rank The Guiding Lands Mining Outcrop",
+            "Master Rank The Guiding Lands Mining Outcrop",
+            "Master Rank The Guiding Lands Mining Outcrop"
+        ],
+        "rarity": "4"
+    },
+    {
+        "name": "Monster Bone M",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Barroth",
+            "Low Rank Tobi-Kadachi",
+            "Low Rank Pukei-Pukei",
+            "Low Rank Jyuratodus",
+            "Low Rank Coral Highlands",
+            "Low Rank Rotten Vale",
+            "Low Rank Wildspire Waste",
+            "Low Rank Everstream",
+            "Low Rank ???"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Coral Crystal",
+        "type": "mining-outcrop",
+        "source": "Mining Outcrop",
+        "locales": [
+            "Low Rank Shamos Mining Outcrop",
+            "Low Rank Shamos Mining Outcrop",
+            "Low Rank Shamos Mining Outcrop",
+            "High Rank Shamos Mining Outcrop",
+            "High Rank Shamos Mining Outcrop",
+            "High Rank Shamos Mining Outcrop",
+            "\u26056 Wiggle Me This Quest Rewards Mining Outcrop",
+            "\u26055 Gone in a Flash Quest Rewards Mining Outcrop",
+            "\u26054 Ballooning Problems Quest Rewards Mining Outcrop",
+            "\u26055 Legiana: Embodiment of Elegance Quest Rewards Mining Outcrop",
+            "\u26054 A Tzitzi for Science Quest Rewards Mining Outcrop",
+            "\u26054 Sorry You're Not Invited Quest Rewards Mining Outcrop",
+            "\u26054 White Monster for a White Coat Quest Rewards Mining Outcrop",
+            "\u26055 A Humid Headache Quest Rewards Mining Outcrop",
+            "\u26056 Midnight Mayhem Quest Rewards Mining Outcrop",
+            "\u26054 It's a Crying Shamos Quest Rewards Mining Outcrop",
+            "\u26054 What a Bunch of Abalone Quest Rewards Mining Outcrop",
+            "\u26054 Troubled Troupers Quest Rewards Mining Outcrop",
+            "Low Rank Coral Highlands Mining Outcrop",
+            "Low Rank Coral Highlands Mining Outcrop",
+            "Low Rank Coral Highlands Mining Outcrop",
+            "Low Rank Great Ravine Mining Outcrop",
+            "High Rank Coral Highlands Mining Outcrop",
+            "High Rank Coral Highlands Mining Outcrop"
+        ],
+        "rarity": "4"
+    },
+    {
+        "name": "Monster Bone+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Great Jagras",
+            "High Rank Kulu-Ya-Ku",
+            "High Rank Tzitzi-Ya-Ku",
+            "Low Rank Ancient Leshen",
+            "Low Rank Odogaron",
+            "Low Rank Diablos",
+            "Low Rank Legiana",
+            "High Rank Great Girros",
+            "Low Rank Rathalos",
+            "High Rank Ancient Forest",
+            "High Rank Wildspire Waste",
+            "Low Rank Caverns of El Dorado",
+            "Low Rank Confluence of Fates",
+            "Low Rank Elder's Recess"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
         "name": "Carbalite Ore",
         "type": "mining-outcrop",
         "source": "Mining Outcrop",
@@ -149,6 +446,161 @@
             "Master Rank The Guiding Lands Mining Outcrop"
         ],
         "rarity": "6"
+    },
+    {
+        "name": "Dragonvein Crystal",
+        "type": "mining-outcrop",
+        "source": "Mining Outcrop",
+        "locales": [
+            "High Rank Barnos Mining Outcrop",
+            "High Rank Barnos Mining Outcrop",
+            "High Rank Barnos Mining Outcrop",
+            "\u26057 Pretty In Pink Quest Rewards Mining Outcrop",
+            "\u26057 Well, That Diablos! Quest Rewards Mining Outcrop",
+            "\u26057 Two-horned Hostility Quest Rewards Mining Outcrop",
+            "\u26056 A Visitor from Another World Quest Rewards Mining Outcrop",
+            "\u26058 Blue Prominence Quest Rewards Mining Outcrop",
+            "\u26058 Blue Prominence Quest Rewards Mining Outcrop",
+            "\u26059 Land of Convergence Quest Rewards Mining Outcrop",
+            "\u26058 Pandora's Arena Quest Rewards Mining Outcrop",
+            "\u26059 A Light Upon the River's Gloom Quest Rewards Mining Outcrop",
+            "\u26058 Master of the Gale Quest Rewards Mining Outcrop",
+            "\u26056 Midnight Mayhem Quest Rewards Mining Outcrop",
+            "\u26058 The Blazing Sun Quest Rewards Mining Outcrop",
+            "\u26058 The Fires of Hell Bite Deep Quest Rewards Mining Outcrop",
+            "\u26058 The Winds of Wrath Bite Deep Quest Rewards Mining Outcrop",
+            "\u26058 The Eater of Elders Quest Rewards Mining Outcrop",
+            "\u26058 Hellfire's Stronghold Quest Rewards Mining Outcrop",
+            "\u26058 A Wound and a Thirst Quest Rewards Mining Outcrop",
+            "\u26058 The Eater of Elders Quest Rewards Mining Outcrop",
+            "\u26058 Stirrings from the Grave Quest Rewards Mining Outcrop",
+            "\u26058 Lightning Strikes Twice Quest Rewards Mining Outcrop",
+            "\u26058 A Blaze on the Sand Quest Rewards Mining Outcrop",
+            "\u26058 A Portent of Disaster Quest Rewards Mining Outcrop",
+            "\u26058 Hellish Fiend Vaal Hazak Quest Rewards Mining Outcrop",
+            "\u26058 Teostra the Infernal Quest Rewards Mining Outcrop",
+            "\u26058 Kushala Daora, Dragon of Steel Quest Rewards Mining Outcrop",
+            "M\u26051 Desert Desserts Quest Rewards Mining Outcrop",
+            "High Rank Ancient Forest Mining Outcrop",
+            "High Rank Wildspire Waste Mining Outcrop",
+            "High Rank Coral Highlands Mining Outcrop",
+            "High Rank Rotten Vale Mining Outcrop",
+            "High Rank Elder's Recess Mining Outcrop",
+            "High Rank Elder's Recess Mining Outcrop",
+            "Low Rank Caverns of El Dorado Mining Outcrop",
+            "Low Rank Caverns of El Dorado Mining Outcrop",
+            "Low Rank Great Ravine Mining Outcrop",
+            "Low Rank Confluence of Fates Mining Outcrop",
+            "Low Rank Elder's Recess Mining Outcrop",
+            "Low Rank Great Ravine Mining Outcrop",
+            "Low Rank Confluence of Fates Mining Outcrop",
+            "Low Rank Elder's Recess Mining Outcrop",
+            "Low Rank Great Ravine Mining Outcrop",
+            "High Rank Ancient Forest Mining Outcrop",
+            "High Rank Wildspire Waste Mining Outcrop",
+            "High Rank Coral Highlands Mining Outcrop",
+            "High Rank Rotten Vale Mining Outcrop",
+            "High Rank Wildspire Waste Mining Outcrop",
+            "High Rank Coral Highlands Mining Outcrop",
+            "High Rank Rotten Vale Mining Outcrop",
+            "High Rank Ancient Forest Mining Outcrop",
+            "Master Rank The Guiding Lands Mining Outcrop",
+            "Master Rank The Guiding Lands Mining Outcrop"
+        ],
+        "rarity": "6"
+    },
+    {
+        "name": "Fucium Ore",
+        "type": "mining-outcrop",
+        "source": "Mining Outcrop",
+        "locales": [
+            "High Rank Kulve Taroth Mining Outcrop",
+            "\u26059 Tracking the Delivery Quest Rewards Mining Outcrop",
+            "\u26059 Banquet in the Earthen Hall Quest Rewards Mining Outcrop",
+            "\u26059 Tracking the Delivery Quest Rewards Mining Outcrop",
+            "\u26056 A Meow for Help Quest Rewards Mining Outcrop",
+            "\u26056 A Scalding Scoop Quest Rewards Mining Outcrop",
+            "\u26056 Chef Quest! Gajalaka Lockdown Quest Rewards Mining Outcrop",
+            "\u26057 Lavasioth, Monster of Magma Quest Rewards Mining Outcrop",
+            "\u26057 Ore-eating Occupier Quest Rewards Mining Outcrop",
+            "\u26057 Ruler of the Azure Skies Quest Rewards Mining Outcrop",
+            "\u26057 Bazelgeuse in the Field of Fire Quest Rewards Mining Outcrop",
+            "\u26056 Dodogama Drama Quest Rewards Mining Outcrop",
+            "M\u26051 Desert Desserts Quest Rewards Mining Outcrop",
+            "Master Rank Elder's Recess Mining Outcrop",
+            "High Rank Elder's Recess Mining Outcrop",
+            "Low Rank Caverns of El Dorado Mining Outcrop",
+            "Low Rank Elder's Recess Mining Outcrop",
+            "Low Rank Caverns of El Dorado Mining Outcrop",
+            "Low Rank Elder's Recess Mining Outcrop",
+            "Master Rank Elder's Recess Mining Outcrop",
+            "Master Rank Elder's Recess Mining Outcrop",
+            "Master Rank The Guiding Lands Mining Outcrop",
+            "Master Rank The Guiding Lands Mining Outcrop"
+        ],
+        "rarity": "6"
+    },
+    {
+        "name": "Firecell Stone",
+        "type": "mining-outcrop",
+        "source": "Mining Outcrop",
+        "locales": [
+            "High Rank Uragaan Mining Outcrop",
+            "High Rank Uragaan Mining Outcrop",
+            "High Rank Uragaan Mining Outcrop",
+            "High Rank Uragaan Mining Outcrop",
+            "High Rank Uragaan Mining Outcrop",
+            "M\u26052 Looking For That Glimmer Quest Rewards Mining Outcrop",
+            "\u26059 Banquet in the Earthen Hall Quest Rewards Mining Outcrop",
+            "\u26059 The Fury of El Dorado Quest Rewards Mining Outcrop",
+            "M\u26052 Looking For That Glimmer Quest Rewards Mining Outcrop",
+            "M\u26051 Desert Desserts Quest Rewards Mining Outcrop",
+            "\u26059 The Name's Lavasioth! Quest Rewards Mining Outcrop",
+            "\u26059 A Visitor from Eorzea Quest Rewards Mining Outcrop",
+            "\u26059 He Taketh It with His Eyes Quest Rewards Mining Outcrop",
+            "\u26059 The Legendary Beast Quest Rewards Mining Outcrop",
+            "\u26056 A Scalding Scoop Quest Rewards Mining Outcrop",
+            "\u26057 Rock N' Roll Recess Quest Rewards Mining Outcrop",
+            "\u26059 Tracking the Delivery Quest Rewards Mining Outcrop",
+            "\u26056 Chef Quest! Gajalaka Lockdown Quest Rewards Mining Outcrop",
+            "\u26056 A Meow for Help Quest Rewards Mining Outcrop",
+            "\u26057 Bazelgeuse in the Field of Fire Quest Rewards Mining Outcrop",
+            "\u26057 Ruler of the Azure Skies Quest Rewards Mining Outcrop",
+            "\u26057 Ore-eating Occupier Quest Rewards Mining Outcrop",
+            "\u26057 Lavasioth, Monster of Magma Quest Rewards Mining Outcrop",
+            "\u26057 USJ Blazing Azure Stars! Quest Rewards Mining Outcrop",
+            "\u26057 USJ Blazing Azure Stars! Quest Rewards Mining Outcrop",
+            "Master Rank Elder's Recess Mining Outcrop",
+            "Low Rank Caverns of El Dorado Mining Outcrop",
+            "Low Rank Caverns of El Dorado Mining Outcrop",
+            "Low Rank Confluence of Fates Mining Outcrop",
+            "Low Rank Elder's Recess Mining Outcrop",
+            "Low Rank Elder's Recess Mining Outcrop",
+            "Low Rank Confluence of Fates Mining Outcrop",
+            "Master Rank Elder's Recess Mining Outcrop",
+            "Master Rank Elder's Recess Mining Outcrop",
+            "Master Rank The Guiding Lands Mining Outcrop",
+            "Master Rank The Guiding Lands Mining Outcrop"
+        ],
+        "rarity": "7"
+    },
+    {
+        "name": "Elder Dragon Blood",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Kirin",
+            "High Rank Vaal Hazak",
+            "High Rank Lunastra",
+            "High Rank Kushala Daora",
+            "High Rank Xeno'jiiva",
+            "Low Rank Kushala Daora",
+            "High Rank Nergigante",
+            "High Rank Kulve Taroth",
+            "High Rank Teostra",
+            "High Rank Behemoth"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
     },
     {
         "name": "Eltalite Ore",
@@ -282,48 +734,193 @@
         "rarity": "10"
     },
     {
-        "name": "Firecell Stone",
+        "name": "Spiritvein Crystal",
         "type": "mining-outcrop",
         "source": "Mining Outcrop",
         "locales": [
-            "High Rank Uragaan Mining Outcrop",
-            "High Rank Uragaan Mining Outcrop",
-            "High Rank Uragaan Mining Outcrop",
-            "High Rank Uragaan Mining Outcrop",
-            "High Rank Uragaan Mining Outcrop",
             "M\u26052 Looking For That Glimmer Quest Rewards Mining Outcrop",
-            "\u26059 Banquet in the Earthen Hall Quest Rewards Mining Outcrop",
-            "\u26059 The Fury of El Dorado Quest Rewards Mining Outcrop",
-            "M\u26052 Looking For That Glimmer Quest Rewards Mining Outcrop",
+            "M\u26053 A Smashing Cross Counter Quest Rewards Mining Outcrop",
+            "M\u26053 A Tale of Ice and Fire Quest Rewards Mining Outcrop",
+            "M\u26053 Blast Warning In Effect! Quest Rewards Mining Outcrop",
+            "M\u26053 Everyone's a Critic Quest Rewards Mining Outcrop",
+            "M\u26053 Begone Uragaan Quest Rewards Mining Outcrop",
+            "M\u26053 Secret of the Ooze Quest Rewards Mining Outcrop",
             "M\u26051 Desert Desserts Quest Rewards Mining Outcrop",
-            "\u26059 The Name's Lavasioth! Quest Rewards Mining Outcrop",
-            "\u26059 A Visitor from Eorzea Quest Rewards Mining Outcrop",
-            "\u26059 He Taketh It with His Eyes Quest Rewards Mining Outcrop",
-            "\u26059 The Legendary Beast Quest Rewards Mining Outcrop",
-            "\u26056 A Scalding Scoop Quest Rewards Mining Outcrop",
-            "\u26057 Rock N' Roll Recess Quest Rewards Mining Outcrop",
-            "\u26059 Tracking the Delivery Quest Rewards Mining Outcrop",
-            "\u26056 Chef Quest! Gajalaka Lockdown Quest Rewards Mining Outcrop",
-            "\u26056 A Meow for Help Quest Rewards Mining Outcrop",
-            "\u26057 Bazelgeuse in the Field of Fire Quest Rewards Mining Outcrop",
-            "\u26057 Ruler of the Azure Skies Quest Rewards Mining Outcrop",
-            "\u26057 Ore-eating Occupier Quest Rewards Mining Outcrop",
-            "\u26057 Lavasioth, Monster of Magma Quest Rewards Mining Outcrop",
-            "\u26057 USJ Blazing Azure Stars! Quest Rewards Mining Outcrop",
-            "\u26057 USJ Blazing Azure Stars! Quest Rewards Mining Outcrop",
-            "Master Rank Elder's Recess Mining Outcrop",
-            "Low Rank Caverns of El Dorado Mining Outcrop",
-            "Low Rank Caverns of El Dorado Mining Outcrop",
-            "Low Rank Confluence of Fates Mining Outcrop",
-            "Low Rank Elder's Recess Mining Outcrop",
-            "Low Rank Elder's Recess Mining Outcrop",
-            "Low Rank Confluence of Fates Mining Outcrop",
-            "Master Rank Elder's Recess Mining Outcrop",
+            "M\u26051 Can't Bring Yourself To It Quest Rewards Mining Outcrop",
+            "M\u26054 Blue Rathalos Blues Quest Rewards Mining Outcrop",
+            "M\u26054 Trap the Thunder Jaw Quest Rewards Mining Outcrop",
+            "M\u26055 The Second Coming Quest Rewards Mining Outcrop",
+            "M\u26055 Seething with Anger Quest Rewards Mining Outcrop",
+            "M\u26055 The Purr-fect Room: Silver Quest Rewards Mining Outcrop",
+            "Master Rank Ancient Forest Mining Outcrop",
+            "Master Rank Coral Highlands Mining Outcrop",
+            "Master Rank Rotten Vale Mining Outcrop",
             "Master Rank Elder's Recess Mining Outcrop",
             "Master Rank The Guiding Lands Mining Outcrop",
-            "Master Rank The Guiding Lands Mining Outcrop"
+            "Master Rank Origin Isle Mining Outcrop",
+            "Master Rank Origin Isle Mining Outcrop",
+            "Master Rank Hoarfrost Reach Mining Outcrop",
+            "Master Rank Hoarfrost Reach Mining Outcrop",
+            "Master Rank Elder's Recess Mining Outcrop",
+            "Master Rank Elder's Recess Mining Outcrop",
+            "Master Rank Rotten Vale Mining Outcrop",
+            "Master Rank Rotten Vale Mining Outcrop",
+            "Master Rank Coral Highlands Mining Outcrop",
+            "Master Rank Coral Highlands Mining Outcrop",
+            "Master Rank Wildspire Waste Mining Outcrop",
+            "Master Rank Wildspire Waste Mining Outcrop",
+            "Master Rank Ancient Forest Mining Outcrop",
+            "Master Rank Ancient Forest Mining Outcrop"
         ],
-        "rarity": "7"
+        "rarity": "9"
+    },
+    {
+        "name": "Gracium",
+        "type": "mining-outcrop",
+        "source": "Mining Outcrop",
+        "locales": [
+            "M\u26051 Greetings from the Tundra Quest Rewards Mining Outcrop",
+            "M\u26054 Treasure in the Steam Quest Rewards Mining Outcrop",
+            "M\u26053 50 Shades of White Quest Rewards Mining Outcrop",
+            "M\u26051 Flora Frostbite Quest Rewards Mining Outcrop",
+            "M\u26051 Duffel Duty Quest Rewards Mining Outcrop",
+            "M\u26053 Blizzard Blitz Quest Rewards Mining Outcrop",
+            "M\u26053 Remember That One Time? Quest Rewards Mining Outcrop",
+            "M\u26053 The Purr-fect Room: Stone Quest Rewards Mining Outcrop",
+            "M\u26056 The Last White Knight Quest Rewards Mining Outcrop",
+            "M\u26051 Trophy Fishin' Quest Rewards Mining Outcrop",
+            "M\u26054 When the Mist Taketh You Quest Rewards Mining Outcrop",
+            "M\u26051 Flora Frostbite Quest Rewards Mining Outcrop",
+            "M\u26051 Duffel Duty Quest Rewards Mining Outcrop",
+            "M\u26051 Pearl Snatchers Quest Rewards Mining Outcrop",
+            "M\u26054 Tundra Troublemaker Quest Rewards Mining Outcrop",
+            "M\u26054 Noblefrost Hunter Quest Rewards Mining Outcrop",
+            "M\u26054 The Thunderous Troublemaker! Quest Rewards Mining Outcrop",
+            "M\u26051 Baptism by Ice Quest Rewards Mining Outcrop",
+            "M\u26052 Poison and Paralysis Pinch Quest Rewards Mining Outcrop",
+            "M\u26052 Analysis Creates Paralysis Quest Rewards Mining Outcrop",
+            "M\u26052 Ready to Strike Quest Rewards Mining Outcrop",
+            "M\u26051 Call of the Wild Quest Rewards Mining Outcrop",
+            "M\u26051 Ice Catch! Quest Rewards Mining Outcrop",
+            "M\u26051 Taking Charge Quest Rewards Mining Outcrop",
+            "M\u26051 Deep Snow Diver Quest Rewards Mining Outcrop",
+            "M\u26051 Banbaro Blockade Quest Rewards Mining Outcrop",
+            "Master Rank Hoarfrost Reach Mining Outcrop",
+            "Master Rank Hoarfrost Reach Mining Outcrop",
+            "Master Rank Hoarfrost Reach Mining Outcrop"
+        ],
+        "rarity": "9"
+    },
+    {
+        "name": "Meldspar Ore",
+        "type": "mining-outcrop",
+        "source": "Mining Outcrop",
+        "locales": [
+            "M\u26052 Looking For That Glimmer Quest Rewards Mining Outcrop",
+            "M\u26054 Piercing Black Quest Rewards Mining Outcrop",
+            "M\u26054 Treasure in the Steam Quest Rewards Mining Outcrop",
+            "M\u26055 The Assassin Quest Rewards Mining Outcrop",
+            "M\u26053 A Nasty Flesh Wound Quest Rewards Mining Outcrop",
+            "M\u26053 Proud White Knight Quest Rewards Mining Outcrop",
+            "M\u26051 Desert Desserts Quest Rewards Mining Outcrop",
+            "M\u26053 A Roar that Shook the Vale Quest Rewards Mining Outcrop",
+            "M\u26053 Don't be a Jerk with the Jerky Quest Rewards Mining Outcrop",
+            "M\u26053 Absolute Power Quest Rewards Mining Outcrop",
+            "M\u26052 No Laughing Matter Quest Rewards Mining Outcrop",
+            "M\u26054 The Purr-fect Room: Light Iron Quest Rewards Mining Outcrop",
+            "M\u26054 This Corroded Blade Quest Rewards Mining Outcrop",
+            "M\u26054 The Disintegrating Blade Quest Rewards Mining Outcrop",
+            "M\u26051 Grinding my Girros Quest Rewards Mining Outcrop",
+            "M\u26051 Special Arena: MR Pukei-Pukei Quest Rewards Mining Outcrop",
+            "M\u26052 Special Arena: MR Nightshade Paolumu Quest Rewards Mining Outcrop",
+            "M\u26052 Special Arena: MR Paolumu Quest Rewards Mining Outcrop",
+            "M\u26052 Special Arena: MR Pink Rathian Quest Rewards Mining Outcrop",
+            "M\u26052 Special Arena: MR Rathian Quest Rewards Mining Outcrop",
+            "M\u26052 Special Arena: MR Viper Tobi-Kadachi Quest Rewards Mining Outcrop",
+            "M\u26052 Special Arena: MR Coral Pukei-Pukei Quest Rewards Mining Outcrop",
+            "M\u26052 Special Arena: MR Radobaan Quest Rewards Mining Outcrop",
+            "M\u26052 Special Arena: MR Anjanath Quest Rewards Mining Outcrop",
+            "M\u26051 Special Arena: MR Banbaro Quest Rewards Mining Outcrop",
+            "M\u26051 Special Arena: MR Tobi-Kadachi Quest Rewards Mining Outcrop",
+            "M\u26051 Special Arena: MR Barroth Quest Rewards Mining Outcrop",
+            "Master Rank Ancient Forest Mining Outcrop",
+            "Master Rank Wildspire Waste Mining Outcrop",
+            "Master Rank Rotten Vale Mining Outcrop",
+            "Master Rank Hoarfrost Reach Mining Outcrop",
+            "Master Rank Rotten Vale Mining Outcrop",
+            "Master Rank Ancient Forest Mining Outcrop",
+            "Master Rank Rotten Vale Mining Outcrop",
+            "Master Rank Elder's Recess Mining Outcrop",
+            "Master Rank Elder's Recess Mining Outcrop",
+            "Master Rank Wildspire Waste Mining Outcrop",
+            "Master Rank Wildspire Waste Mining Outcrop",
+            "Master Rank Origin Isle Mining Outcrop",
+            "Master Rank Origin Isle Mining Outcrop",
+            "Master Rank Ancient Forest Mining Outcrop",
+            "Master Rank Hoarfrost Reach Mining Outcrop",
+            "Master Rank Hoarfrost Reach Mining Outcrop",
+            "Master Rank Coral Highlands Mining Outcrop",
+            "Master Rank Coral Highlands Mining Outcrop"
+        ],
+        "rarity": "9"
+    },
+    {
+        "name": "Bathycite Ore",
+        "type": "mining-outcrop",
+        "source": "Mining Outcrop",
+        "locales": [
+            "M\u26053 Legiana Left Behind Quest Rewards Mining Outcrop",
+            "M\u26053 The Black Wind Quest Rewards Mining Outcrop",
+            "M\u26051 All the Wrong Signals Quest Rewards Mining Outcrop",
+            "M\u26052 Play Both Ends Quest Rewards Mining Outcrop",
+            "M\u26052 The Plight of Paolumu Quest Rewards Mining Outcrop",
+            "M\u26052 Pink Power Grab Quest Rewards Mining Outcrop",
+            "M\u26052 Protip: Stay Hydrated Quest Rewards Mining Outcrop",
+            "M\u26054 Bad Friends, Great Enemies Quest Rewards Mining Outcrop",
+            "M\u26054 A Shadowy Offender Quest Rewards Mining Outcrop",
+            "M\u26052 Every Hunter's Dream II Quest Rewards Mining Outcrop",
+            "M\u26051 Skyward Snipers Quest Rewards Mining Outcrop",
+            "M\u26051 Desert Desserts Quest Rewards Mining Outcrop",
+            "M\u26051 Fetching Light Pearls Quest Rewards Mining Outcrop",
+            "Master Rank Coral Highlands Mining Outcrop",
+            "Master Rank Coral Highlands Mining Outcrop",
+            "Master Rank Coral Highlands Mining Outcrop"
+        ],
+        "rarity": "9"
+    },
+    {
+        "name": "Monster Slogbone",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Tigrex",
+            "Master Rank Ancient Forest",
+            "Master Rank Wildspire Waste",
+            "Master Rank Coral Highlands",
+            "Master Rank Rotten Vale",
+            "Master Rank Elder's Recess",
+            "Master Rank Hoarfrost Reach",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Pure Dragon Blood",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Kirin",
+            "Master Rank Kushala Daora",
+            "Master Rank Lunastra",
+            "Master Rank Velkhana",
+            "Master Rank Blackveil Vaal Hazak",
+            "Master Rank Safi'jiiva",
+            "Master Rank Teostra",
+            "Master Rank Shara Ishvalda",
+            "Master Rank Ruiner Nergigante",
+            "Master Rank Namielle"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
     },
     {
         "name": "Monster Bone S",
@@ -359,6 +956,98 @@
         "rarity": "4"
     },
     {
+        "name": "Ancient Bone",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Ancient Forest",
+            "High Rank Ancient Forest",
+            "Low Rank Ancient Forest",
+            "Low Rank Great Ravine",
+            "Low Rank Special Arena",
+            "Low Rank Arena",
+            "Low Rank Hoarfrost Reach",
+            "Low Rank The Guiding Lands",
+            "Low Rank Secluded Valley",
+            "Low Rank Castle Schrade"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Boulder Bone",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Wildspire Waste",
+            "High Rank Wildspire Waste",
+            "Low Rank Wildspire Waste",
+            "Master Rank Origin Isle"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Monster Bone L",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Zorah Magdaros",
+            "High Rank Behemoth",
+            "Master Rank Behemoth",
+            "High Rank Leshen",
+            "Low Rank Nergigante",
+            "Master Rank Nergigante",
+            "Master Rank Xeno'jiiva",
+            "Master Rank Jyuratodus",
+            "Master Rank Vaal Hazak",
+            "High Rank Kulve Taroth",
+            "Master Rank Kulve Taroth",
+            "Master Rank Bazelgeuse",
+            "High Rank Ancient Leshen",
+            "Master Rank Beotodus",
+            "Master Rank Shara Ishvalda",
+            "Master Rank Alatreon",
+            "Master Rank Safi'jiiva",
+            "Master Rank Fatalis",
+            "Low Rank Tzitzi-Ya-Ku",
+            "Low Rank Paolumu",
+            "Low Rank Anjanath",
+            "Low Rank Rathian",
+            "Low Rank Great Girros",
+            "Low Rank Radobaan",
+            "Low Rank Coral Highlands",
+            "High Rank Ancient Forest",
+            "High Rank Rotten Vale",
+            "High Rank Coral Highlands"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Sturdy Bone",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Mernos",
+            "High Rank Kestodon (Male)",
+            "High Rank Kestodon (Female)",
+            "High Rank Barnos",
+            "High Rank Jagras",
+            "Low Rank Girros",
+            "Low Rank Shamos",
+            "High Rank Raphinos",
+            "Low Rank Raphinos",
+            "High Rank Ancient Forest",
+            "High Rank Wildspire Waste",
+            "High Rank Coral Highlands",
+            "Low Rank Coral Highlands",
+            "High Rank Rotten Vale",
+            "Low Rank Rotten Vale",
+            "High Rank Elder's Recess",
+            "Low Rank Caverns of El Dorado",
+            "Low Rank Everstream"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
         "name": "Quality Bone",
         "type": "monster-drop",
         "source": [
@@ -382,6 +1071,97 @@
         ],
         "locales": "N/A",
         "rarity": "6"
+    },
+    {
+        "name": "Monster Keenbone",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Paolumu",
+            "High Rank Barroth",
+            "High Rank Dodogama",
+            "High Rank Tobi-Kadachi",
+            "High Rank Jyuratodus",
+            "High Rank Radobaan",
+            "High Rank Anjanath",
+            "High Rank Pukei-Pukei",
+            "High Rank Rathian",
+            "High Rank Coral Highlands",
+            "High Rank Elder's Recess",
+            "Master Rank Hoarfrost Reach",
+            "Master Rank The Guiding Lands",
+            "Master Rank Origin Isle",
+            "Master Rank Wildspire Waste",
+            "Master Rank Coral Highlands",
+            "Master Rank Rotten Vale",
+            "Master Rank Elder's Recess",
+            "Master Rank Ancient Forest"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Monster Hardbone",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Ancient Leshen",
+            "High Rank Odogaron",
+            "High Rank Diablos",
+            "High Rank Black Diablos",
+            "High Rank Bazelgeuse",
+            "High Rank Deviljho",
+            "High Rank Legiana",
+            "High Rank Uragaan",
+            "Master Rank Deviljho",
+            "High Rank Rathalos",
+            "High Rank Lavasioth",
+            "High Rank Azure Rathalos",
+            "High Rank Pink Rathian",
+            "High Rank Ancient Forest",
+            "High Rank Wildspire Waste",
+            "High Rank Coral Highlands",
+            "High Rank Rotten Vale",
+            "High Rank Elder's Recess"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Dragonbone Relic",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Ancient Forest",
+            "High Rank Ancient Forest",
+            "High Rank Wildspire Waste",
+            "Master Rank Coral Highlands",
+            "High Rank Coral Highlands",
+            "Master Rank Rotten Vale",
+            "High Rank Rotten Vale",
+            "High Rank Elder's Recess",
+            "Master Rank Hoarfrost Reach",
+            "Master Rank The Guiding Lands",
+            "Low Rank Caverns of El Dorado",
+            "Low Rank Confluence of Fates",
+            "Low Rank Elder's Recess"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Elder Dragon Bone",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Kirin",
+            "High Rank Nergigante",
+            "High Rank Xeno'jiiva",
+            "High Rank Vaal Hazak",
+            "High Rank Lunastra",
+            "High Rank Kushala Daora",
+            "High Rank Teostra",
+            "High Rank Behemoth",
+            "High Rank Kulve Taroth"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
     },
     {
         "name": "Thick Bone",
@@ -434,6 +1214,229 @@
         "rarity": "9"
     },
     {
+        "name": "Frozen Bone",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Hoarfrost Reach",
+            "Master Rank Seliana Supply Cache"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Monster Solidbone",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Brute Tigrex",
+            "Master Rank Ancient Forest",
+            "Master Rank Wildspire Waste",
+            "Master Rank Coral Highlands",
+            "Master Rank Rotten Vale",
+            "Master Rank Elder's Recess",
+            "Master Rank Hoarfrost Reach",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Monster Essence",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Vespoid",
+            "Master Rank Ancient Forest",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Large Elder Dragon Bone",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Safi'jiiva",
+            "Master Rank Kirin",
+            "Master Rank Namielle",
+            "Master Rank Ruiner Nergigante",
+            "Master Rank Teostra",
+            "Master Rank Shara Ishvalda",
+            "Master Rank Lunastra",
+            "Master Rank Blackveil Vaal Hazak",
+            "Master Rank Velkhana",
+            "Master Rank Kushala Daora"
+        ],
+        "locales": "N/A",
+        "rarity": "12"
+    },
+    {
+        "name": "Kulu-Ya-Ku Scale",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Kulu-Ya-Ku",
+            "Low Rank Ancient Forest",
+            "Low Rank Wildspire Waste"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Kulu-Ya-Ku Hide",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Kulu-Ya-Ku"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Kulu-Ya-Ku Beak",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Kulu-Ya-Ku"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Kulu-Ya-Ku Plume",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Kulu-Ya-Ku",
+            "High Rank Kulu-Ya-Ku"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Radobaan Scale",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Radobaan"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Warped Bone",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Raphinos",
+            "High Rank Raphinos",
+            "Master Rank Rotten Vale",
+            "High Rank Rotten Vale",
+            "Low Rank Rotten Vale",
+            "Low Rank Everstream"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Odogaron Claw",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Odogaron",
+            "Low Rank Ancient Leshen"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Kulu-Ya-Ku Scale+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Kulu-Ya-Ku",
+            "Master Rank Ancient Forest",
+            "High Rank Ancient Forest",
+            "Master Rank Wildspire Waste",
+            "High Rank Wildspire Waste",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Kulu-Ya-Ku Hide+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Kulu-Ya-Ku",
+            "Master Rank Ancient Forest",
+            "Master Rank Wildspire Waste",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Kulu-Ya-Ku Beak+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Kulu-Ya-Ku",
+            "Master Rank Ancient Forest",
+            "Master Rank Wildspire Waste",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Brutal Bone",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Elder's Recess",
+            "High Rank Elder's Recess",
+            "Low Rank Elder's Recess",
+            "Low Rank Confluence of Fates",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Kulu-Ya-Ku Plume+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Kulu-Ya-Ku",
+            "Master Rank Ancient Forest",
+            "Master Rank Wildspire Waste",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Odogaron Claw+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Odogaron",
+            "High Rank Ancient Leshen",
+            "Master Rank Coral Highlands",
+            "Master Rank Rotten Vale",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Bird Wyvern Gem",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Pukei-Pukei",
+            "High Rank Kulu-Ya-Ku",
+            "High Rank Tzitzi-Ya-Ku"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Nergigante Talon",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Nergigante"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
         "name": "Fey Wyvern Gem",
         "type": "monster-drop",
         "source": [
@@ -478,6 +1481,81 @@
         "rarity": "9"
     },
     {
+        "name": "Large Kulu-Ya-Ku Plume",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Kulu-Ya-Ku"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Nargacuga Hardfang",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Nargacuga"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Poison Sac",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Pukei-Pukei",
+            "Low Rank Ancient Forest"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Pukei-Pukei Scale",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Pukei-Pukei",
+            "Low Rank Ancient Forest"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Pukei-Pukei Quill",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Pukei-Pukei"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Pukei-Pukei Shell",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Pukei-Pukei"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Pukei-Pukei Sac",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Pukei-Pukei"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Pukei-Pukei Tail",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Pukei-Pukei",
+            "High Rank Pukei-Pukei"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
         "name": "Toxin Sac",
         "type": "monster-drop",
         "source": [
@@ -511,6 +1589,247 @@
         ],
         "locales": "N/A",
         "rarity": "6"
+    },
+    {
+        "name": "Pukei-Pukei Scale+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Pukei-Pukei",
+            "Master Rank Ancient Forest",
+            "High Rank Ancient Forest",
+            "Master Rank Wildspire Waste",
+            "High Rank Wildspire Waste",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Pukei-Pukei Carapace",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Pukei-Pukei",
+            "Master Rank Ancient Forest",
+            "Master Rank Wildspire Waste",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Vaal Hazak Wing",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Vaal Hazak"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Deadly Poison Sac",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Pukei-Pukei",
+            "Master Rank Viper Tobi-Kadachi",
+            "Master Rank Hoarfrost Reach",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Pukei-Pukei Shard",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Pukei-Pukei",
+            "Master Rank Ancient Forest",
+            "Master Rank Wildspire Waste",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Pukei-Pukei Fellwing",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Pukei-Pukei"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Large Pukei-Pukei Sac",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Pukei-Pukei"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Pukei-Pukei Lash",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Pukei-Pukei"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Rathian Surspike",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Rathian",
+            "Master Rank Pink Rathian"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Tobi-Kadachi Scale",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Tobi-Kadachi",
+            "Low Rank Ancient Forest"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Tobi-Kadachi Pelt",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Tobi-Kadachi"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Tobi-Kadachi Claw",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Tobi-Kadachi"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Electro Sac",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Tobi-Kadachi",
+            "Low Rank Ancient Forest"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Tobi-Kadachi Electrode",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Tobi-Kadachi"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Tobi-Kadachi Membrane",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Tobi-Kadachi",
+            "High Rank Tobi-Kadachi",
+            "Master Rank Ancient Forest",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Tobi-Kadachi Scale+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Tobi-Kadachi",
+            "Master Rank Ancient Forest",
+            "High Rank Ancient Forest",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Tobi-Kadachi Pelt+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Tobi-Kadachi",
+            "Master Rank Ancient Forest",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Tobi-Kadachi Claw+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Tobi-Kadachi",
+            "Master Rank Ancient Forest",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Thunder Sac",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Tobi-Kadachi",
+            "High Rank Ancient Forest"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Tobi-Kadachi Electrode+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Tobi-Kadachi"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Majestic Horn",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Diablos"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Wyvern Gem",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Barroth",
+            "High Rank Radobaan",
+            "High Rank Jyuratodus",
+            "High Rank Lavasioth",
+            "High Rank Diablos",
+            "High Rank Tobi-Kadachi",
+            "High Rank Black Diablos",
+            "High Rank Paolumu",
+            "Master Rank Black Diablos",
+            "Master Rank Radobaan",
+            "Master Rank Nightshade Paolumu",
+            "Master Rank Barroth",
+            "Master Rank Jyuratodus",
+            "Master Rank Diablos",
+            "Master Rank Tobi-Kadachi",
+            "Master Rank Paolumu"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
     },
     {
         "name": "Large Wyvern Gem",
@@ -564,6 +1883,42 @@
         "rarity": "9"
     },
     {
+        "name": "Lightning Sac",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Tobi-Kadachi",
+            "Master Rank Fulgur Anjanath",
+            "Master Rank Zinogre",
+            "Master Rank Ancient Forest",
+            "Master Rank Wildspire Waste",
+            "Master Rank Coral Highlands",
+            "Master Rank Rotten Vale",
+            "Master Rank Elder's Recess",
+            "Master Rank Hoarfrost Reach",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Tobi-Kadachi Thickfur",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Tobi-Kadachi"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Tobi-Kadachi Membrane+",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Tobi-Kadachi"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
         "name": "Anjanath Pelt",
         "type": "monster-drop",
         "source": [
@@ -608,310 +1963,334 @@
         "rarity": "5"
     },
     {
-        "name": "Tzitzi-Ya-Ku Shard",
+        "name": "Flame Sac",
         "type": "monster-drop",
         "source": [
-            "Master Rank Tzitzi-Ya-Ku",
-            "Master Rank Coral Highlands",
+            "Low Rank Anjanath",
+            "Low Rank Rathian",
+            "Low Rank Rathalos",
+            "Low Rank Ancient Forest",
+            "Low Rank Wildspire Waste"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Anjanath Scale",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Anjanath",
+            "Low Rank Ancient Forest"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Inferno Sac",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Uragaan",
+            "High Rank Anjanath",
+            "High Rank Rathalos",
+            "High Rank Rathian",
+            "High Rank Azure Rathalos",
+            "High Rank Pink Rathian",
+            "High Rank Lavasioth",
+            "High Rank Ancient Forest",
+            "High Rank Wildspire Waste",
+            "High Rank Coral Highlands",
+            "High Rank Elder's Recess"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Anjanath Scale+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Anjanath",
+            "Master Rank Ancient Forest",
+            "High Rank Ancient Forest",
+            "Master Rank Wildspire Waste",
+            "High Rank Wildspire Waste",
             "Master Rank The Guiding Lands"
         ],
         "locales": "N/A",
-        "rarity": "9"
+        "rarity": "6"
     },
     {
-        "name": "Tzitzi-Ya-Ku Hardclaw",
+        "name": "Anjanath Fang+",
         "type": "monster-drop",
         "source": [
-            "Master Rank Tzitzi-Ya-Ku"
+            "High Rank Anjanath"
         ],
         "locales": "N/A",
-        "rarity": "9"
+        "rarity": "6"
     },
     {
-        "name": "Tzitzi-Ya-Ku Photomembrane",
+        "name": "Anjanath Pelt+",
         "type": "monster-drop",
         "source": [
-            "Master Rank Tzitzi-Ya-Ku"
+            "High Rank Anjanath",
+            "Master Rank Ancient Forest",
+            "Master Rank Wildspire Waste",
+            "Master Rank The Guiding Lands"
         ],
         "locales": "N/A",
-        "rarity": "9"
+        "rarity": "6"
     },
     {
-        "name": "Wyvern Gem",
+        "name": "Anjanath Nosebone+",
         "type": "monster-drop",
         "source": [
-            "High Rank Barroth",
-            "High Rank Radobaan",
-            "High Rank Jyuratodus",
-            "High Rank Lavasioth",
-            "High Rank Diablos",
-            "High Rank Tobi-Kadachi",
-            "High Rank Black Diablos",
-            "High Rank Paolumu",
-            "Master Rank Black Diablos",
-            "Master Rank Radobaan",
-            "Master Rank Nightshade Paolumu",
-            "Master Rank Barroth",
-            "Master Rank Jyuratodus",
-            "Master Rank Diablos",
-            "Master Rank Tobi-Kadachi",
-            "Master Rank Paolumu"
+            "High Rank Anjanath",
+            "Master Rank Ancient Forest",
+            "Master Rank Wildspire Waste",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Anjanath Gem",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Anjanath",
+            "Master Rank Anjanath"
         ],
         "locales": "N/A",
         "rarity": "7"
     },
     {
-        "name": "Odogaron Scale+",
+        "name": "Vaal Hazak Fang+",
         "type": "monster-drop",
         "source": [
-            "High Rank Odogaron",
-            "High Rank Ancient Leshen",
-            "Master Rank Coral Highlands",
-            "Master Rank Rotten Vale",
+            "High Rank Vaal Hazak"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Conflagrant Sac",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Anjanath",
+            "Master Rank Lavasioth",
+            "Master Rank Rathian",
+            "Master Rank Uragaan",
+            "Master Rank Pink Rathian",
+            "Master Rank Azure Rathalos",
+            "Master Rank Silver Rathalos",
+            "Master Rank Gold Rathian",
+            "Master Rank Rathalos",
+            "Master Rank Yian Garuga",
             "Master Rank The Guiding Lands"
         ],
         "locales": "N/A",
-        "rarity": "6"
+        "rarity": "9"
     },
     {
-        "name": "Odogaron Shard",
+        "name": "Anjanath Shard",
         "type": "monster-drop",
         "source": [
-            "Master Rank Odogaron",
-            "Master Rank Ancient Leshen",
-            "Master Rank Coral Highlands",
-            "Master Rank Rotten Vale",
-            "Master Rank The Guiding Lands"
-        ],
-        "locales": "N/A",
-        "rarity": "10"
-    },
-    {
-        "name": "Diablos Cortex",
-        "type": "monster-drop",
-        "source": [
-            "Master Rank Diablos",
-            "Master Rank Wildspire Waste",
-            "Master Rank The Guiding Lands"
-        ],
-        "locales": "N/A",
-        "rarity": "10"
-    },
-    {
-        "name": "Majestic Horn",
-        "type": "monster-drop",
-        "source": [
-            "High Rank Diablos"
-        ],
-        "locales": "N/A",
-        "rarity": "6"
-    },
-    {
-        "name": "Ancient Bone",
-        "type": "monster-drop",
-        "source": [
+            "Master Rank Anjanath",
             "Master Rank Ancient Forest",
-            "High Rank Ancient Forest",
-            "Low Rank Ancient Forest",
-            "Low Rank Great Ravine",
-            "Low Rank Special Arena",
-            "Low Rank Arena",
-            "Low Rank Hoarfrost Reach",
-            "Low Rank The Guiding Lands",
-            "Low Rank Secluded Valley",
-            "Low Rank Castle Schrade"
-        ],
-        "locales": "N/A",
-        "rarity": "4"
-    },
-    {
-        "name": "Boulder Bone",
-        "type": "monster-drop",
-        "source": [
             "Master Rank Wildspire Waste",
-            "High Rank Wildspire Waste",
-            "Low Rank Wildspire Waste",
-            "Master Rank Origin Isle"
+            "Master Rank The Guiding Lands"
         ],
         "locales": "N/A",
-        "rarity": "4"
+        "rarity": "9"
     },
     {
-        "name": "Coral Bone",
+        "name": "Anjanath Hardfang",
         "type": "monster-drop",
         "source": [
-            "Master Rank Coral Highlands",
-            "High Rank Coral Highlands",
+            "Master Rank Anjanath"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Anjanath Fur",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Anjanath"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Heavy Anjanath Nosebone",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Anjanath"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Anjanath Lash",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Anjanath"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Azure Rathalos Cortex",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Azure Rathalos"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Nergigante Carapace",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Nergigante"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Nergigante Tail",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Nergigante"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Nergigante Regrowth Plate",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Nergigante"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Nergigante Horn+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Nergigante"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Nergigante Gem",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Nergigante",
+            "Master Rank Ruiner Nergigante"
+        ],
+        "locales": "N/A",
+        "rarity": "8"
+    },
+    {
+        "name": "Xeno'jiiva Horn",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Xeno'jiiva"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Large Elder Dragon Gem",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Teostra",
+            "Master Rank Namielle",
+            "Master Rank Blackveil Vaal Hazak",
+            "Master Rank Ruiner Nergigante",
+            "Master Rank Lunastra",
+            "Master Rank Kushala Daora"
+        ],
+        "locales": "N/A",
+        "rarity": "12"
+    },
+    {
+        "name": "Annihilating Greathorn",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Ruiner Nergigante"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Nergigante Hardclaw",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Ruiner Nergigante"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Eternal Regrowth Plate",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Ruiner Nergigante"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Tzitzi-Ya-Ku Scale",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Tzitzi-Ya-Ku",
             "Low Rank Coral Highlands"
         ],
         "locales": "N/A",
         "rarity": "4"
     },
     {
-        "name": "Warped Bone",
+        "name": "Tzitzi-Ya-Ku Claw",
         "type": "monster-drop",
         "source": [
-            "Low Rank Raphinos",
-            "High Rank Raphinos",
-            "Master Rank Rotten Vale",
-            "High Rank Rotten Vale",
-            "Low Rank Rotten Vale",
-            "Low Rank Everstream"
+            "Low Rank Tzitzi-Ya-Ku"
         ],
         "locales": "N/A",
         "rarity": "4"
     },
     {
-        "name": "Earth Crystal",
-        "type": "mining-outcrop",
-        "source": "Mining Outcrop",
-        "locales": [
-            "\u26051 Up at the Crack of Dawn Quest Rewards Mining Outcrop",
-            "\u26053 Down the Dark, Muddy Path Quest Rewards Mining Outcrop",
-            "\u26053 Down the Dark, Muddy Path Quest Rewards Mining Outcrop",
-            "\u26053 The Best Kind of Quest Quest Rewards Mining Outcrop",
-            "\u26053 Sinister Shadows in the Swamp Quest Rewards Mining Outcrop",
-            "\u26053 Mired in the Spire Quest Rewards Mining Outcrop",
-            "\u26053 The Piscine Problem Quest Rewards Mining Outcrop",
-            "\u26053 Landing the Landslide Wyvern Quest Rewards Mining Outcrop",
-            "\u26052 Snatch the Snatcher Quest Rewards Mining Outcrop",
-            "\u26055 Horned Tyrant Below the Sands Quest Rewards Mining Outcrop",
-            "\u26055 Twin Spires Upon the Sands Quest Rewards Mining Outcrop",
-            "\u26054 Royal Relocation Quest Rewards Mining Outcrop",
-            "\u26056 Midnight Mayhem Quest Rewards Mining Outcrop",
-            "\u26053 Gettin' Yolked in the Waste Quest Rewards Mining Outcrop",
-            "\u26053 Prickly Predicament Quest Rewards Mining Outcrop",
-            "\u26052 Exterminator of the Waste Quest Rewards Mining Outcrop",
-            "\u26052 The Pain from Gains Quest Rewards Mining Outcrop",
-            "Master Rank Wildspire Waste Mining Outcrop",
-            "High Rank Wildspire Waste Mining Outcrop",
-            "Low Rank Wildspire Waste Mining Outcrop",
-            "Low Rank Ancient Forest Mining Outcrop",
-            "Low Rank Ancient Forest Mining Outcrop",
-            "Low Rank Wildspire Waste Mining Outcrop",
-            "Low Rank Wildspire Waste Mining Outcrop",
-            "Low Rank Coral Highlands Mining Outcrop",
-            "Low Rank Coral Highlands Mining Outcrop",
-            "Low Rank Rotten Vale Mining Outcrop",
-            "Low Rank Rotten Vale Mining Outcrop",
-            "Low Rank Great Ravine Mining Outcrop",
-            "Low Rank Great Ravine Mining Outcrop",
-            "Low Rank Great Ravine Mining Outcrop",
-            "Low Rank Special Arena Mining Outcrop",
-            "Low Rank Special Arena Mining Outcrop",
-            "Low Rank Arena Mining Outcrop",
-            "Low Rank Arena Mining Outcrop",
-            "Low Rank Hoarfrost Reach Mining Outcrop",
-            "Low Rank Hoarfrost Reach Mining Outcrop",
-            "Low Rank The Guiding Lands Mining Outcrop",
-            "Low Rank The Guiding Lands Mining Outcrop",
-            "Low Rank Secluded Valley Mining Outcrop",
-            "Low Rank Secluded Valley Mining Outcrop",
-            "Low Rank Secluded Valley Mining Outcrop",
-            "Low Rank Secluded Valley Mining Outcrop",
-            "Low Rank Castle Schrade Mining Outcrop",
-            "Low Rank Castle Schrade Mining Outcrop",
-            "Low Rank Wildspire Waste Mining Outcrop",
-            "Low Rank Wildspire Waste Mining Outcrop",
-            "Low Rank Great Ravine Mining Outcrop",
-            "High Rank Wildspire Waste Mining Outcrop",
-            "High Rank Wildspire Waste Mining Outcrop"
+        "name": "Tzitzi-Ya-Ku Photophore",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Tzitzi-Ya-Ku"
         ],
+        "locales": "N/A",
         "rarity": "4"
     },
     {
-        "name": "Coral Crystal",
-        "type": "mining-outcrop",
-        "source": "Mining Outcrop",
-        "locales": [
-            "Low Rank Shamos Mining Outcrop",
-            "Low Rank Shamos Mining Outcrop",
-            "Low Rank Shamos Mining Outcrop",
-            "High Rank Shamos Mining Outcrop",
-            "High Rank Shamos Mining Outcrop",
-            "High Rank Shamos Mining Outcrop",
-            "\u26056 Wiggle Me This Quest Rewards Mining Outcrop",
-            "\u26055 Gone in a Flash Quest Rewards Mining Outcrop",
-            "\u26054 Ballooning Problems Quest Rewards Mining Outcrop",
-            "\u26055 Legiana: Embodiment of Elegance Quest Rewards Mining Outcrop",
-            "\u26054 A Tzitzi for Science Quest Rewards Mining Outcrop",
-            "\u26054 Sorry You're Not Invited Quest Rewards Mining Outcrop",
-            "\u26054 White Monster for a White Coat Quest Rewards Mining Outcrop",
-            "\u26055 A Humid Headache Quest Rewards Mining Outcrop",
-            "\u26056 Midnight Mayhem Quest Rewards Mining Outcrop",
-            "\u26054 It's a Crying Shamos Quest Rewards Mining Outcrop",
-            "\u26054 What a Bunch of Abalone Quest Rewards Mining Outcrop",
-            "\u26054 Troubled Troupers Quest Rewards Mining Outcrop",
-            "Low Rank Coral Highlands Mining Outcrop",
-            "Low Rank Coral Highlands Mining Outcrop",
-            "Low Rank Coral Highlands Mining Outcrop",
-            "Low Rank Great Ravine Mining Outcrop",
-            "High Rank Coral Highlands Mining Outcrop",
-            "High Rank Coral Highlands Mining Outcrop"
+        "name": "Sharp Claw",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Jagras",
+            "Low Rank Shamos",
+            "Low Rank Girros",
+            "Low Rank Rotten Vale"
         ],
+        "locales": "N/A",
         "rarity": "4"
     },
     {
-        "name": "Dragonvein Crystal",
-        "type": "mining-outcrop",
-        "source": "Mining Outcrop",
-        "locales": [
-            "High Rank Barnos Mining Outcrop",
-            "High Rank Barnos Mining Outcrop",
-            "High Rank Barnos Mining Outcrop",
-            "\u26057 Pretty In Pink Quest Rewards Mining Outcrop",
-            "\u26057 Well, That Diablos! Quest Rewards Mining Outcrop",
-            "\u26057 Two-horned Hostility Quest Rewards Mining Outcrop",
-            "\u26056 A Visitor from Another World Quest Rewards Mining Outcrop",
-            "\u26058 Blue Prominence Quest Rewards Mining Outcrop",
-            "\u26058 Blue Prominence Quest Rewards Mining Outcrop",
-            "\u26059 Land of Convergence Quest Rewards Mining Outcrop",
-            "\u26058 Pandora's Arena Quest Rewards Mining Outcrop",
-            "\u26059 A Light Upon the River's Gloom Quest Rewards Mining Outcrop",
-            "\u26058 Master of the Gale Quest Rewards Mining Outcrop",
-            "\u26056 Midnight Mayhem Quest Rewards Mining Outcrop",
-            "\u26058 The Blazing Sun Quest Rewards Mining Outcrop",
-            "\u26058 The Fires of Hell Bite Deep Quest Rewards Mining Outcrop",
-            "\u26058 The Winds of Wrath Bite Deep Quest Rewards Mining Outcrop",
-            "\u26058 The Eater of Elders Quest Rewards Mining Outcrop",
-            "\u26058 Hellfire's Stronghold Quest Rewards Mining Outcrop",
-            "\u26058 A Wound and a Thirst Quest Rewards Mining Outcrop",
-            "\u26058 The Eater of Elders Quest Rewards Mining Outcrop",
-            "\u26058 Stirrings from the Grave Quest Rewards Mining Outcrop",
-            "\u26058 Lightning Strikes Twice Quest Rewards Mining Outcrop",
-            "\u26058 A Blaze on the Sand Quest Rewards Mining Outcrop",
-            "\u26058 A Portent of Disaster Quest Rewards Mining Outcrop",
-            "\u26058 Hellish Fiend Vaal Hazak Quest Rewards Mining Outcrop",
-            "\u26058 Teostra the Infernal Quest Rewards Mining Outcrop",
-            "\u26058 Kushala Daora, Dragon of Steel Quest Rewards Mining Outcrop",
-            "M\u26051 Desert Desserts Quest Rewards Mining Outcrop",
-            "High Rank Ancient Forest Mining Outcrop",
-            "High Rank Wildspire Waste Mining Outcrop",
-            "High Rank Coral Highlands Mining Outcrop",
-            "High Rank Rotten Vale Mining Outcrop",
-            "High Rank Elder's Recess Mining Outcrop",
-            "High Rank Elder's Recess Mining Outcrop",
-            "Low Rank Caverns of El Dorado Mining Outcrop",
-            "Low Rank Caverns of El Dorado Mining Outcrop",
-            "Low Rank Great Ravine Mining Outcrop",
-            "Low Rank Confluence of Fates Mining Outcrop",
-            "Low Rank Elder's Recess Mining Outcrop",
-            "Low Rank Great Ravine Mining Outcrop",
-            "Low Rank Confluence of Fates Mining Outcrop",
-            "Low Rank Elder's Recess Mining Outcrop",
-            "Low Rank Great Ravine Mining Outcrop",
-            "High Rank Ancient Forest Mining Outcrop",
-            "High Rank Wildspire Waste Mining Outcrop",
-            "High Rank Coral Highlands Mining Outcrop",
-            "High Rank Rotten Vale Mining Outcrop",
-            "High Rank Wildspire Waste Mining Outcrop",
-            "High Rank Coral Highlands Mining Outcrop",
-            "High Rank Rotten Vale Mining Outcrop",
-            "High Rank Ancient Forest Mining Outcrop",
-            "Master Rank The Guiding Lands Mining Outcrop",
-            "Master Rank The Guiding Lands Mining Outcrop"
+        "name": "Legiana Tail Webbing",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Legiana",
+            "High Rank Legiana"
         ],
-        "rarity": "6"
+        "locales": "N/A",
+        "rarity": "4"
     },
     {
         "name": "Lightcrystal",
@@ -1009,31 +2388,1493 @@
         "rarity": "5"
     },
     {
-        "name": "Monster Keenbone",
+        "name": "Tzitzi-Ya-Ku Scale+",
         "type": "monster-drop",
         "source": [
-            "High Rank Paolumu",
-            "High Rank Barroth",
-            "High Rank Dodogama",
-            "High Rank Tobi-Kadachi",
-            "High Rank Jyuratodus",
-            "High Rank Radobaan",
-            "High Rank Anjanath",
-            "High Rank Pukei-Pukei",
-            "High Rank Rathian",
-            "High Rank Coral Highlands",
-            "High Rank Elder's Recess",
-            "Master Rank Hoarfrost Reach",
-            "Master Rank The Guiding Lands",
-            "Master Rank Origin Isle",
-            "Master Rank Wildspire Waste",
+            "High Rank Tzitzi-Ya-Ku",
             "Master Rank Coral Highlands",
-            "Master Rank Rotten Vale",
-            "Master Rank Elder's Recess",
-            "Master Rank Ancient Forest"
+            "Master Rank The Guiding Lands",
+            "High Rank Coral Highlands"
         ],
         "locales": "N/A",
         "rarity": "6"
+    },
+    {
+        "name": "Tzitzi-Ya-Ku Claw+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Tzitzi-Ya-Ku",
+            "Master Rank Coral Highlands",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Tzitzi-Ya-Ku Photophore+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Tzitzi-Ya-Ku",
+            "Master Rank Coral Highlands",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Piercing Claw",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Jagras",
+            "High Rank Shamos",
+            "High Rank Girros",
+            "High Rank Rotten Vale"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Legiana Wing",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Legiana",
+            "Master Rank Coral Highlands",
+            "Master Rank Hoarfrost Reach",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Daora Webbing",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Kushala Daora",
+            "Low Rank Kushala Daora"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Tzitzi-Ya-Ku Shard",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Tzitzi-Ya-Ku",
+            "Master Rank Coral Highlands",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Tzitzi-Ya-Ku Hardclaw",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Tzitzi-Ya-Ku"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Tzitzi-Ya-Ku Photomembrane",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Tzitzi-Ya-Ku"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Tough Claw",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Jagras",
+            "Master Rank Shamos",
+            "Master Rank Girros",
+            "Master Rank Wulg",
+            "Master Rank Hoarfrost Reach",
+            "Master Rank The Guiding Lands",
+            "Master Rank Coral Highlands"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Legiana Hardclaw",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Legiana",
+            "Master Rank Shrieking Legiana"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Odogaron Scale",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Odogaron",
+            "Low Rank Ancient Leshen"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Odogaron Fang",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Odogaron",
+            "Low Rank Ancient Leshen"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Odogaron Tail",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Odogaron",
+            "High Rank Odogaron",
+            "Low Rank Ancient Leshen",
+            "High Rank Ancient Leshen",
+            "Master Rank Coral Highlands",
+            "Master Rank Rotten Vale",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Odogaron Plate",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Ancient Leshen",
+            "Low Rank Odogaron",
+            "High Rank Ancient Leshen",
+            "High Rank Odogaron",
+            "Master Rank Coral Highlands",
+            "Master Rank Rotten Vale",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "5"
+    },
+    {
+        "name": "Odogaron Scale+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Odogaron",
+            "High Rank Ancient Leshen",
+            "Master Rank Coral Highlands",
+            "Master Rank Rotten Vale",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Odogaron Shard",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Odogaron",
+            "Master Rank Ancient Leshen",
+            "Master Rank Coral Highlands",
+            "Master Rank Rotten Vale",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Odogaron Fang+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Odogaron",
+            "High Rank Ancient Leshen"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Odogaron Gem",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Ancient Leshen",
+            "High Rank Odogaron",
+            "Master Rank Ancient Leshen",
+            "Master Rank Odogaron"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Teostra Claw+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Teostra",
+            "Low Rank Teostra"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Odogaron Hardclaw",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Odogaron",
+            "Master Rank Ancient Leshen"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Odogaron Hardfang",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Odogaron",
+            "Master Rank Ancient Leshen"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Odogaron Lash",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Odogaron",
+            "Master Rank Ancient Leshen"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Odogaron Mantle",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Odogaron",
+            "Master Rank Ancient Leshen"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Acidic Glavenus Tailedge",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Acidic Glavenus"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Deceased Scale",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Vaal Hazak"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Vaal Hazak Membrane",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Vaal Hazak"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Vaal Hazak Talon",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Vaal Hazak"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Vaal Hazak Tail",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Vaal Hazak"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Vaal Hazak Gem",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Vaal Hazak",
+            "Master Rank Blackveil Vaal Hazak"
+        ],
+        "locales": "N/A",
+        "rarity": "8"
+    },
+    {
+        "name": "Xeno'jiiva Veil",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Xeno'jiiva"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Deceased Shard",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Blackveil Vaal Hazak"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Deathweaver Membrane",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Blackveil Vaal Hazak"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Shadowpierce Fang",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Blackveil Vaal Hazak"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Vaal Hazak Hardclaw",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Blackveil Vaal Hazak"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Rathalos Scale",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Rathalos",
+            "Low Rank Ancient Forest"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Rathalos Webbing",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Rathalos"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Rathalos Marrow",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Rathalos"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Rathalos Tail",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Rathalos",
+            "High Rank Rathalos",
+            "Master Rank Ancient Forest",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Rathalos Plate",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Rathalos",
+            "High Rank Rathalos",
+            "High Rank Azure Rathalos",
+            "Master Rank Ancient Forest",
+            "Master Rank Elder's Recess",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "5"
+    },
+    {
+        "name": "Rathalos Scale+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Rathalos",
+            "Master Rank Ancient Forest",
+            "High Rank Ancient Forest",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Rathalos Carapace",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Rathalos",
+            "Master Rank Ancient Forest",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Rathalos Wing",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Rathalos",
+            "Master Rank Ancient Forest",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Rathalos Medulla",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Azure Rathalos",
+            "High Rank Azure Rathalos",
+            "High Rank Rathalos",
+            "Master Rank Rathalos"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Rathalos Ruby",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Azure Rathalos",
+            "High Rank Rathalos",
+            "Master Rank Azure Rathalos",
+            "Master Rank Rathalos"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Azure Rathalos Scale+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Azure Rathalos",
+            "Master Rank Ancient Forest",
+            "High Rank Ancient Forest",
+            "Master Rank Elder's Recess",
+            "High Rank Elder's Recess",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Azure Rathalos Carapace",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Azure Rathalos",
+            "Master Rank Ancient Forest",
+            "Master Rank Elder's Recess",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Azure Rathalos Wing",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Azure Rathalos",
+            "Master Rank Ancient Forest",
+            "Master Rank Elder's Recess",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Rathalos Shard",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Rathalos",
+            "Master Rank Ancient Forest",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Rathalos Cortex",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Rathalos"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Rathalos Fellwing",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Rathalos"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Rath Wingtalon+",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Gold Rathian",
+            "Master Rank Pink Rathian",
+            "Master Rank Rathian",
+            "Master Rank Silver Rathalos",
+            "Master Rank Rathalos",
+            "Master Rank Azure Rathalos"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Rathalos Mantle",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Silver Rathalos",
+            "Master Rank Azure Rathalos",
+            "Master Rank Rathalos"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Azure Rathalos Shard",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Azure Rathalos",
+            "Master Rank Ancient Forest",
+            "Master Rank Elder's Recess",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Azure Rathalos Fellwing",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Azure Rathalos"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Silver Rathalos Shard",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Silver Rathalos",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Silver Rathalos Lash",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Silver Rathalos"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Rath Gleam",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Silver Rathalos",
+            "Master Rank Gold Rathian"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Diablos Shell",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Diablos",
+            "Low Rank Wildspire Waste"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Diablos Fang",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Diablos",
+            "High Rank Diablos",
+            "High Rank Black Diablos",
+            "Master Rank Wildspire Waste",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Twisted Horn",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Diablos",
+            "High Rank Diablos",
+            "High Rank Black Diablos"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Diablos Ridge",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Diablos"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Diablos Tailcase",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Diablos",
+            "High Rank Diablos",
+            "High Rank Black Diablos"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Diablos Marrow",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Diablos"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Diablos Cortex",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Diablos",
+            "Master Rank Wildspire Waste",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Diablos Carapace",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Diablos",
+            "Master Rank Wildspire Waste",
+            "High Rank Wildspire Waste",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Diablos Ridge+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Diablos",
+            "Master Rank Wildspire Waste",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Blos Medulla",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Diablos",
+            "Master Rank Diablos",
+            "Master Rank Black Diablos",
+            "High Rank Black Diablos",
+            "Master Rank Wildspire Waste",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Black Diablos Carapace",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Black Diablos",
+            "Master Rank Wildspire Waste",
+            "High Rank Wildspire Waste",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Black Spiral Horn+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Black Diablos"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Diablos Chine",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Diablos"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Twisted Stouthorn",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Diablos"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Black Diablos Cortex",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Black Diablos",
+            "Master Rank Wildspire Waste",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Blackcurl Stouthorn",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Black Diablos"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Kirin Hide",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Kirin",
+            "Low Rank Coral Highlands"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Kirin Tail",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Kirin"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Kirin Thunderhorn",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Kirin",
+            "High Rank Kirin"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Kirin Hide+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Kirin",
+            "Master Rank Coral Highlands",
+            "High Rank Coral Highlands",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Kirin Mane",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Kirin",
+            "High Rank Kirin",
+            "Master Rank Coral Highlands",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Kirin Azure Horn",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Kirin",
+            "Master Rank Kirin"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Novacrystal",
+        "type": "mining-outcrop",
+        "source": "Mining Outcrop",
+        "locales": [
+            "High Rank Kirin Mining Outcrop",
+            "High Rank Kirin Mining Outcrop",
+            "High Rank Kirin Mining Outcrop",
+            "High Rank Kirin Mining Outcrop",
+            "High Rank Kirin Mining Outcrop",
+            "\u26056 Gajalaka Outbreak! Quest Rewards Mining Outcrop",
+            "\u26059 Banquet in the Earthen Hall Quest Rewards Mining Outcrop",
+            "\u26059 Thunderous Rumble in the Highlands Quest Rewards Mining Outcrop",
+            "\u26059 Thunderous Rumble in the Highlands Quest Rewards Mining Outcrop",
+            "M\u26051 Desert Desserts Quest Rewards Mining Outcrop",
+            "\u26056 A Visitor from Another World Quest Rewards Mining Outcrop",
+            "\u26059 Relish the Moment Quest Rewards Mining Outcrop",
+            "\u26057 Coral Waltz Quest Rewards Mining Outcrop",
+            "\u26057 Legiana: Highlands Royalty Quest Rewards Mining Outcrop",
+            "\u26057 A Sore Site Quest Rewards Mining Outcrop",
+            "\u26057 A Cherry Wind upon the Reefs Quest Rewards Mining Outcrop",
+            "\u26057 Two-horned Hostility Quest Rewards Mining Outcrop",
+            "\u26057 Well, That Diablos! Quest Rewards Mining Outcrop",
+            "\u26057 Pretty In Pink Quest Rewards Mining Outcrop",
+            "\u26056 Wiggle Me This Quest Rewards Mining Outcrop",
+            "\u26057 Wildspire Bolero Quest Rewards Mining Outcrop",
+            "\u26057 Old World Monster in the New World Quest Rewards Mining Outcrop",
+            "Master Rank Ancient Forest Mining Outcrop",
+            "Master Rank Wildspire Waste Mining Outcrop",
+            "High Rank Coral Highlands Mining Outcrop",
+            "High Rank Elder's Recess Mining Outcrop",
+            "Low Rank Elder's Recess Mining Outcrop",
+            "Low Rank Confluence of Fates Mining Outcrop",
+            "Low Rank Elder's Recess Mining Outcrop",
+            "Low Rank Confluence of Fates Mining Outcrop",
+            "High Rank Wildspire Waste Mining Outcrop",
+            "High Rank Ancient Forest Mining Outcrop",
+            "High Rank Ancient Forest Mining Outcrop",
+            "High Rank Wildspire Waste Mining Outcrop",
+            "High Rank Coral Highlands Mining Outcrop",
+            "High Rank Rotten Vale Mining Outcrop",
+            "High Rank Rotten Vale Mining Outcrop",
+            "High Rank Rotten Vale Mining Outcrop",
+            "High Rank Ancient Forest Mining Outcrop",
+            "High Rank Ancient Forest Mining Outcrop",
+            "High Rank Wildspire Waste Mining Outcrop",
+            "High Rank Wildspire Waste Mining Outcrop",
+            "High Rank Coral Highlands Mining Outcrop",
+            "High Rank Coral Highlands Mining Outcrop",
+            "High Rank Coral Highlands Mining Outcrop",
+            "High Rank Rotten Vale Mining Outcrop",
+            "Master Rank Wildspire Waste Mining Outcrop",
+            "Master Rank Origin Isle Mining Outcrop",
+            "Master Rank Wildspire Waste Mining Outcrop",
+            "Master Rank Origin Isle Mining Outcrop",
+            "Master Rank The Guiding Lands Mining Outcrop",
+            "Master Rank The Guiding Lands Mining Outcrop"
+        ],
+        "rarity": "7"
+    },
+    {
+        "name": "Xeno'jiiva Shell",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Xeno'jiiva"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Kirin Finehide",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Kirin",
+            "Master Rank Coral Highlands",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Kirin Silvermane",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Kirin"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Kirin Azure Horn+",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Kirin"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Dodogama Scale+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Dodogama",
+            "Master Rank Elder's Recess",
+            "Master Rank The Guiding Lands",
+            "Low Rank Elder's Recess",
+            "Low Rank Confluence of Fates"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Dodogama Hide+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Dodogama",
+            "Master Rank Elder's Recess",
+            "High Rank Elder's Recess",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Dodogama Talon",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Dodogama",
+            "Master Rank Elder's Recess",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Dodogama Jaw",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Dodogama",
+            "Master Rank Elder's Recess",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Dodogama Tail",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Dodogama"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Fire Dragon Scale+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Teostra",
+            "Low Rank Teostra"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Gastodon Husk",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Gastodon",
+            "Master Rank Elder's Recess"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Dodogama Shard",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Dodogama",
+            "Master Rank Elder's Recess",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Dodogama Thickhide",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Dodogama"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Dodogama Hardclaw",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Dodogama"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Dodogama Mandible",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Dodogama"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Dodogama Lash",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Dodogama"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Fine Brachydios Ebonshell",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Brachydios"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Daora Tail",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Kushala Daora"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Daora Claw+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Kushala Daora",
+            "Low Rank Kushala Daora"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Daora Horn+",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Kushala Daora",
+            "High Rank Kushala Daora"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Daora Gem",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Kushala Daora",
+            "Master Rank Kushala Daora",
+            "Low Rank Kushala Daora"
+        ],
+        "locales": "N/A",
+        "rarity": "8"
+    },
+    {
+        "name": "Xeno'jiiva Wing",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Xeno'jiiva"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Daora Shard",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Kushala Daora"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Daora Hardhorn",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Kushala Daora"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Daora Hardclaw",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Kushala Daora"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Xeno'jiiva Tail",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Xeno'jiiva"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Xeno'jiiva Claw",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Xeno'jiiva"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Xeno'jiiva Gem",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Xeno'jiiva"
+        ],
+        "locales": "N/A",
+        "rarity": "8"
+    },
+    {
+        "name": "Safi'jiiva Cortex",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Safi'jiiva"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Pulsing Dragonshell",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Safi'jiiva"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Safi'jiiva Hardhorn",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Safi'jiiva"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Safi'jiiva Hardclaw",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Safi'jiiva"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Coral Bone",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Coral Highlands",
+            "High Rank Coral Highlands",
+            "Low Rank Coral Highlands"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Lavasioth Grandfin",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Lavasioth"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Frost Sac",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Legiana",
+            "Low Rank Coral Highlands"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Legiana Scale",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Legiana"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Legiana Claw",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Legiana"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Shamos Scale+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Shamos",
+            "Master Rank Coral Highlands",
+            "High Rank Coral Highlands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Legiana Webbing",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Legiana"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Freezer Sac",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Legiana",
+            "High Rank Coral Highlands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Legiana Scale+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Legiana",
+            "Master Rank Coral Highlands",
+            "Master Rank Hoarfrost Reach",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Legiana Hide+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Legiana",
+            "Master Rank Coral Highlands",
+            "Master Rank Hoarfrost Reach",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Legiana Claw+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Legiana",
+            "Master Rank Coral Highlands",
+            "Master Rank Hoarfrost Reach",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Cryo Sac",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Beotodus",
+            "Master Rank Legiana",
+            "Master Rank Shrieking Legiana",
+            "Master Rank Barioth",
+            "Master Rank Hoarfrost Reach",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Wulg Thickfur",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Wulg",
+            "Master Rank Hoarfrost Reach",
+            "Master Rank Seliana Supply Cache"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Barioth Cortex",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Barioth",
+            "Master Rank Hoarfrost Reach",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Barioth Hardclaw",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Barioth"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Obsidian Icetalon",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Shrieking Legiana"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Barioth Greatspike",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Barioth",
+            "Master Rank Frostfang Barioth"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Amber Hardfang",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Barioth"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Velkhana Hardclaw",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Velkhana"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Aqua Sac",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Jyuratodus",
+            "Low Rank Wildspire Waste"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Jyuratodus Scale",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Jyuratodus"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Jyuratodus Shell",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Jyuratodus",
+            "Low Rank Wildspire Waste"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Gajau Skin",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Gajau",
+            "Low Rank Ancient Forest",
+            "Low Rank Wildspire Waste"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Jyuratodus Fang",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Jyuratodus"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Jyuratodus Fin",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Jyuratodus"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
+    },
+    {
+        "name": "Gajau Whisker",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Gajau"
+        ],
+        "locales": "N/A",
+        "rarity": "4"
     },
     {
         "name": "Torrent Sac",
@@ -1054,6 +3895,157 @@
         ],
         "locales": "N/A",
         "rarity": "6"
+    },
+    {
+        "name": "Gajau Scale",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Gajau",
+            "Master Rank Ancient Forest",
+            "High Rank Ancient Forest",
+            "Master Rank Wildspire Waste",
+            "High Rank Wildspire Waste"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Jyuratodus Scale+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Jyuratodus",
+            "Master Rank Wildspire Waste"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Jyuratodus Carapace",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Jyuratodus",
+            "Master Rank Wildspire Waste",
+            "High Rank Wildspire Waste"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Grand Gajau Whisker",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Gajau"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Jyuratodus Fang+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Jyuratodus",
+            "Master Rank Wildspire Waste"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Gajau Thickhide",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Gajau",
+            "Master Rank Ancient Forest",
+            "Master Rank Wildspire Waste"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Jyuratodus Shard",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Jyuratodus",
+            "Master Rank Wildspire Waste"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Jyuratodus Hardfang",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Jyuratodus"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Jyuratodus Grandfin",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Jyuratodus"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Flood Sac",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Jyuratodus",
+            "Master Rank Coral Pukei-Pukei",
+            "Master Rank Coral Highlands",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Coral Pukei-Pukei Shard",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Coral Pukei-Pukei",
+            "Master Rank Coral Highlands",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Coral Pukei-Pukei Fellwing",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Coral Pukei-Pukei"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Large Coral Pukei-Pukei Sac",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Coral Pukei-Pukei"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Coral Pukei-Pukei Lash",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Coral Pukei-Pukei"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Acidic Glavenus Hardfang",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Acidic Glavenus"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
     },
     {
         "name": "Deviljho Scale",
@@ -1129,6 +4121,63 @@
         "rarity": "6"
     },
     {
+        "name": "Deviljho Scalp",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Deviljho",
+            "Master Rank Deviljho"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Deviljho Gem",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Deviljho",
+            "High Rank Deviljho",
+            "Master Rank Savage Deviljho"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Vile Fang",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Savage Deviljho"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Deviljho Ripper",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Savage Deviljho"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Black Blood",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Savage Deviljho"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Deviljho Crook",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Savage Deviljho"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
         "name": "Lunastra Mane",
         "type": "monster-drop",
         "source": [
@@ -1166,6 +4215,145 @@
         "rarity": "8"
     },
     {
+        "name": "Bazelgeuse Gem",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Bazelgeuse",
+            "Master Rank Seething Bazelgeuse"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Teostra Horn+",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Teostra",
+            "High Rank Teostra"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Research Commission Ticket",
+        "type": "quest-reward",
+        "source": [
+            "\u26059 The White Winds of the New World Quest Rewards",
+            "\u26059 The Sapphire Star's Guidance Quest Rewards"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Lunastra Mane+",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Lunastra"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Lunastra Hardhorn",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Lunastra"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Lunastra Shard",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Lunastra"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Lunastra Wing",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Lunastra"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Lunastra Tail",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Lunastra"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
+        "name": "Lunastra Lash",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Lunastra"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Elder Spiritvein Bone",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Kirin",
+            "Master Rank Kushala Daora",
+            "Master Rank Lunastra",
+            "Master Rank Teostra",
+            "Master Rank Ruiner Nergigante",
+            "Master Rank Blackveil Vaal Hazak",
+            "Master Rank Velkhana",
+            "Master Rank Namielle"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Commendation",
+        "type": "quest-reward",
+        "source": [
+            "\u26056 A Colossal Task Quest Rewards",
+            "\u26055 Redefining the \"Power Couple\" Quest Rewards",
+            "\u26055 Gone in a Flash Quest Rewards",
+            "\u26056 Left Quite the Impression Quest Rewards",
+            "\u26056 Gaze Upon the Dawn Quest Rewards",
+            "\u26055 Kirin The Myth Quest Rewards",
+            "\u26055 The Poison Posse Quest Rewards"
+        ],
+        "locales": "N/A",
+        "rarity": "5"
+    },
+    {
+        "name": "Pink Rathian Scale+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Pink Rathian",
+            "Master Rank Wildspire Waste",
+            "High Rank Wildspire Waste",
+            "Master Rank Coral Highlands",
+            "High Rank Coral Highlands",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "6"
+    },
+    {
+        "name": "Immortal Dragonscale",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Nergigante",
+            "High Rank Nergigante"
+        ],
+        "locales": "N/A",
+        "rarity": "7"
+    },
+    {
         "name": "Stygian Zinogre Dragonlocks",
         "type": "monster-drop",
         "source": [
@@ -1200,6 +4388,433 @@
         ],
         "locales": "N/A",
         "rarity": "9"
+    },
+    {
+        "name": "Stygian Zinogre Skymerald",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Stygian Zinogre"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Tempered Dragonhold",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Stygian Zinogre"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Nargacuga Tailspear",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Nargacuga"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Fulgur Anjanath Hardfang",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Fulgur Anjanath"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Nargacuga Lash",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Nargacuga"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Nargacuga Cutwing+",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Nargacuga"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Nargacuga Mantle",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Nargacuga"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Glavenus Shard",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Glavenus",
+            "Master Rank Ancient Forest",
+            "Master Rank Wildspire Waste",
+            "Master Rank Elder's Recess",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Glavenus Hardfang",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Glavenus"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Molten Bursa",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Glavenus"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Ebony Odogaron Hardfang",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Ebony Odogaron"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Glavenus Hellshell",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Glavenus"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Glavenus Tailedge",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Glavenus"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Glavenus Mantle",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Acidic Glavenus",
+            "Master Rank Glavenus"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Fire Dragon Hardclaw",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Teostra"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Crystal Shard",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Velkhana"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Velkhana Lash",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Velkhana"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Velkhana Crownhorn",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Velkhana"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Velkhana Crystal",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Velkhana"
+        ],
+        "locales": "N/A",
+        "rarity": "12"
+    },
+    {
+        "name": "Shara Ishvalda Tenderclaw",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Shara Ishvalda"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Tigrex Shard",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Tigrex",
+            "Master Rank Ancient Forest",
+            "Master Rank Wildspire Waste",
+            "Master Rank Rotten Vale",
+            "Master Rank Elder's Recess",
+            "Master Rank Hoarfrost Reach",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Tigrex Hardclaw",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Tigrex"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Tigrex Lash",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Tigrex",
+            "Master Rank Brute Tigrex"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Tigrex Hardfang",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Tigrex"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Tigrex Mantle",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Brute Tigrex",
+            "Master Rank Tigrex"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Fulgur Anjanath Shard",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Fulgur Anjanath",
+            "Master Rank Ancient Forest",
+            "Master Rank Wildspire Waste",
+            "Master Rank Coral Highlands",
+            "Master Rank Rotten Vale",
+            "Master Rank Elder's Recess",
+            "Master Rank Hoarfrost Reach",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Fulgur Anjanath Thickfur",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Fulgur Anjanath"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Heavy Fulgur Anjanath Nosebone",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Fulgur Anjanath"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Fulgur Anjanath Lash",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Fulgur Anjanath"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Fulgur Anjanath Mantle",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Fulgur Anjanath"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Torpor Sac",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Nightshade Paolumu",
+            "Master Rank Radobaan",
+            "Master Rank Ancient Forest",
+            "Master Rank Wildspire Waste",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Paolumu Cortex",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Paolumu",
+            "Master Rank Nightshade Paolumu"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Nightshade Paolumu Thickfur",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Nightshade Paolumu"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Nightshade Paolumu Fellwing",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Nightshade Paolumu"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Nightshade Paolumu Shard",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Nightshade Paolumu",
+            "Master Rank Ancient Forest",
+            "Master Rank Wildspire Waste",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Black Diablos Chine",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Black Diablos"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Brachydios Cortex",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Brachydios",
+            "Master Rank Elder's Recess",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Brachydios Crown",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Brachydios"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Glowing Slime",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Brachydios"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Brachydios Pounder+",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Brachydios"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Brachydios Lash",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Brachydios",
+            "Master Rank Raging Brachydios"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Shara Ishvalda Tenderscale",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Shara Ishvalda"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Shara Ishvalda Tenderplate",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Shara Ishvalda"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Shara Ishvalda Gem",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Shara Ishvalda"
+        ],
+        "locales": "N/A",
+        "rarity": "12"
     },
     {
         "name": "Rajang Hardhorn",
@@ -1240,18 +4855,23 @@
         "rarity": "11"
     },
     {
-        "name": "Large Elder Dragon Gem",
+        "name": "Gold Rajang Pelt+",
         "type": "monster-drop",
         "source": [
-            "Master Rank Teostra",
-            "Master Rank Namielle",
-            "Master Rank Blackveil Vaal Hazak",
-            "Master Rank Ruiner Nergigante",
-            "Master Rank Lunastra",
-            "Master Rank Kushala Daora"
+            "Master Rank Rajang",
+            "Master Rank Furious Rajang"
         ],
         "locales": "N/A",
-        "rarity": "12"
+        "rarity": "11"
+    },
+    {
+        "name": "Tempered Glimmerpelt",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Rajang"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
     },
     {
         "name": "Alatreon Mantle",
@@ -1272,14 +4892,206 @@
         "rarity": "11"
     },
     {
-        "name": "Frozen Bone",
+        "name": "Alatreon Direwing",
         "type": "monster-drop",
         "source": [
-            "Master Rank Hoarfrost Reach",
-            "Master Rank Seliana Supply Cache"
+            "Master Rank Alatreon"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Azure Dragonsphire",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Alatreon"
+        ],
+        "locales": "N/A",
+        "rarity": "12"
+    },
+    {
+        "name": "Zinogre Cortex",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Zinogre",
+            "Master Rank The Guiding Lands"
         ],
         "locales": "N/A",
         "rarity": "9"
+    },
+    {
+        "name": "Zinogre Deathly Shocker",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Zinogre"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Zinogre Electrofur+",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Zinogre"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Zinogre Hardhorn",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Zinogre"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Fulgurbug",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Zinogre"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Spiritvein Solidbone",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Raging Brachydios",
+            "Master Rank Savage Deviljho",
+            "Master Rank Rajang",
+            "Master Rank Silver Rathalos",
+            "Master Rank Gold Rathian",
+            "Master Rank Seething Bazelgeuse",
+            "Master Rank Stygian Zinogre",
+            "Master Rank Rathalos",
+            "Master Rank Legiana",
+            "Master Rank Diablos",
+            "Master Rank Lavasioth",
+            "Master Rank Uragaan",
+            "Master Rank Fulgur Anjanath",
+            "Master Rank Glavenus",
+            "Master Rank Brachydios",
+            "Master Rank Odogaron",
+            "Master Rank Tigrex",
+            "Master Rank Nargacuga",
+            "Master Rank Barioth",
+            "Master Rank Brute Tigrex",
+            "Master Rank Zinogre",
+            "Master Rank Scarred Yian Garuga",
+            "Master Rank Yian Garuga",
+            "Master Rank Ebony Odogaron",
+            "Master Rank Shrieking Legiana",
+            "Master Rank Acidic Glavenus",
+            "Master Rank Black Diablos",
+            "Master Rank Azure Rathalos"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Acidic Glavenus Spineshell",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Acidic Glavenus"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Honed Acidcryst",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Acidic Glavenus"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Ultraplegia Sac",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Great Girros",
+            "Master Rank Viper Tobi-Kadachi"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Viper Tobi-Kadachi Shard",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Viper Tobi-Kadachi",
+            "Master Rank Hoarfrost Reach",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Viper Tobi-Kadachi Thickfur",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Viper Tobi-Kadachi"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Viper Tobi-Kadachi Hardclaw",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Viper Tobi-Kadachi"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Viper Tobi-Kadachi Membrane+",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Viper Tobi-Kadachi"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Viper Tobi-Kadachi Thorn",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Viper Tobi-Kadachi"
+        ],
+        "locales": "N/A",
+        "rarity": "9"
+    },
+    {
+        "name": "Namielle Finehide",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Namielle"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Namielle Whisker",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Namielle"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Namielle Hardclaw",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Namielle"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
     },
     {
         "name": "Beotodus Shard",
@@ -1311,47 +5123,74 @@
         "rarity": "9"
     },
     {
-        "name": "Gracium",
-        "type": "mining-outcrop",
-        "source": "Mining Outcrop",
-        "locales": [
-            "M\u26051 Greetings from the Tundra Quest Rewards Mining Outcrop",
-            "M\u26054 Treasure in the Steam Quest Rewards Mining Outcrop",
-            "M\u26053 50 Shades of White Quest Rewards Mining Outcrop",
-            "M\u26051 Flora Frostbite Quest Rewards Mining Outcrop",
-            "M\u26051 Duffel Duty Quest Rewards Mining Outcrop",
-            "M\u26053 Blizzard Blitz Quest Rewards Mining Outcrop",
-            "M\u26053 Remember That One Time? Quest Rewards Mining Outcrop",
-            "M\u26053 The Purr-fect Room: Stone Quest Rewards Mining Outcrop",
-            "M\u26056 The Last White Knight Quest Rewards Mining Outcrop",
-            "M\u26051 Trophy Fishin' Quest Rewards Mining Outcrop",
-            "M\u26054 When the Mist Taketh You Quest Rewards Mining Outcrop",
-            "M\u26051 Flora Frostbite Quest Rewards Mining Outcrop",
-            "M\u26051 Duffel Duty Quest Rewards Mining Outcrop",
-            "M\u26051 Pearl Snatchers Quest Rewards Mining Outcrop",
-            "M\u26054 Tundra Troublemaker Quest Rewards Mining Outcrop",
-            "M\u26054 Noblefrost Hunter Quest Rewards Mining Outcrop",
-            "M\u26054 The Thunderous Troublemaker! Quest Rewards Mining Outcrop",
-            "M\u26051 Baptism by Ice Quest Rewards Mining Outcrop",
-            "M\u26052 Poison and Paralysis Pinch Quest Rewards Mining Outcrop",
-            "M\u26052 Analysis Creates Paralysis Quest Rewards Mining Outcrop",
-            "M\u26052 Ready to Strike Quest Rewards Mining Outcrop",
-            "M\u26051 Call of the Wild Quest Rewards Mining Outcrop",
-            "M\u26051 Ice Catch! Quest Rewards Mining Outcrop",
-            "M\u26051 Taking Charge Quest Rewards Mining Outcrop",
-            "M\u26051 Deep Snow Diver Quest Rewards Mining Outcrop",
-            "M\u26051 Banbaro Blockade Quest Rewards Mining Outcrop",
-            "Master Rank Hoarfrost Reach Mining Outcrop",
-            "Master Rank Hoarfrost Reach Mining Outcrop",
-            "Master Rank Hoarfrost Reach Mining Outcrop"
-        ],
-        "rarity": "9"
-    },
-    {
-        "name": "Amber Hardfang",
+        "name": "Rimed Hide",
         "type": "monster-drop",
         "source": [
-            "Master Rank Barioth"
+            "Master Rank Shrieking Legiana",
+            "Master Rank Hoarfrost Reach",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Ebony Odogaron Shard",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Ebony Odogaron",
+            "Master Rank Ancient Forest",
+            "Master Rank Wildspire Waste",
+            "Master Rank Coral Highlands",
+            "Master Rank Rotten Vale",
+            "Master Rank Elder's Recess",
+            "Master Rank Hoarfrost Reach",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Ebony Odogaron Hardclaw",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Ebony Odogaron"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Ebony Odogaron Lash",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Ebony Odogaron"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Ebony Odogaron Mantle",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Ebony Odogaron"
+        ],
+        "locales": "N/A",
+        "rarity": "11"
+    },
+    {
+        "name": "Brute Tigrex Shard",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Brute Tigrex",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": "N/A",
+        "rarity": "10"
+    },
+    {
+        "name": "Brute Tigrex Hardclaw",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Brute Tigrex"
         ],
         "locales": "N/A",
         "rarity": "10"
@@ -1366,14 +5205,22 @@
         "rarity": "10"
     },
     {
-        "name": "Gold Rajang Pelt+",
-        "type": "monster-drop",
+        "name": "Hero King Coin",
+        "type": "quest-reward",
         "source": [
-            "Master Rank Rajang",
-            "Master Rank Furious Rajang"
+            "M\u26056 Challenge Quest 1: MR Expert Quest Rewards",
+            "M\u26056 Challenge Quest 2: MR Expert Quest Rewards",
+            "M\u26055 Farewell to the Frozen Quest Rewards",
+            "M\u26055 Wearer of the Iceborne Crown Quest Rewards",
+            "M\u26055 A Star That Will Never Dim Quest Rewards",
+            "M\u26056 Power and Technique Quest Rewards",
+            "M\u26055 Aiming for the Light Quest Rewards",
+            "M\u26056 Fear No Scars Quest Rewards",
+            "M\u26056 Arena Master Quest 07 Quest Rewards",
+            "M\u26056 Arena Master Quest 06 Quest Rewards"
         ],
         "locales": "N/A",
-        "rarity": "11"
+        "rarity": "10"
     },
     {
         "name": "Rajang Apoplexy",
