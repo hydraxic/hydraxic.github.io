@@ -10,7 +10,7 @@ header = {
 }
 
 def equipment_scraper():
-    r = requests.get('https://mhworld.kiranico.com/en/weapons?type=10', headers=header)
+    r = requests.get('https://mhworld.kiranico.com/en/weapons?type=4', headers=header)
     soup = BeautifulSoup(r.text, 'html.parser')
 
     equipments = []
@@ -18,8 +18,8 @@ def equipment_scraper():
 
     links = soup.find_all('a')
 
-    first_link = "Iron Blade I"
-    last_link = "Kj\xc3\xa1rr Glaive \"Paralysis\"".encode('raw_unicode_escape').decode('utf-8')
+    first_link = "Iron Hammer I".encode('utf-8').decode('utf-8')
+    last_link = "Kj\u00e1rr Hammer \"Blast\"".encode('utf-8').decode('utf-8')
 
     unwanted_links = [
         "https://mhworld.kiranico.com/en/skilltrees/Ll8nL/guts",
@@ -27,7 +27,8 @@ def equipment_scraper():
         "https://mhworld.kiranico.com/en/skilltrees/majGL/razor-sharp-spare-shot",
         "https://mhworld.kiranico.com/en/skilltrees/AJBJA/kulve-taroth-essence",
         "https://mhworld.kiranico.com/en/skilltrees/L7z7m/critical-element",
-        "https://mhworld.kiranico.com/en/skilltrees/LzjrL/critical-status"
+        "https://mhworld.kiranico.com/en/skilltrees/LzjrL/critical-status",
+        "https://mhworld.kiranico.com/en/skilltrees/LnBNL/protective-polish",
     ]
 
     start_index = next((i for i, link in enumerate(links) if link.get_text(strip=True) == first_link), None)
@@ -63,6 +64,7 @@ def equipment_scraper():
         rw = requests.get(url, headers=header)
         soupw = BeautifulSoup(rw.text, 'html.parser')
 
+        print(url)
         # extract weapon rarity
         tds = soupw.find('td')
         tdstext = tds.get_text(strip=True).encode('utf-8').decode('utf-8')
@@ -111,7 +113,12 @@ def equipment_scraper():
             
             equipments.append(
                 {"name": weaponname,
-                "type": "ig",
+                "type": "hammer", # IMPORTANT -----------------------------------------------------------------------------------------------------
+                # IMPORTANT -----------------------------------------------------------------------------------------------------
+                # IMPORTANT -----------------------------------------------------------------------------------------------------
+                # IMPORTANT -----------------------------------------------------------------------------------------------------
+                # IMPORTANT -----------------------------------------------------------------------------------------------------
+                # IMPORTANT -----------------------------------------------------------------------------------------------------
                 "rarity": raritynum,
                 "materials-forge": materials_forge,
                 "materials-upgrade": materials_upgrade,
@@ -119,7 +126,7 @@ def equipment_scraper():
 
     print(equipments)
 
-    with open('mhw-tools/drop-list/items-list/equipment.json', 'w') as f:
+    with open('mhw-tools/drop-list/items-list/temp.json', 'w') as f:
         json.dump(equipments, f, indent=4)
 
 
@@ -161,8 +168,9 @@ def get_mined_materials(material):
             if len(cols) >= 2:
                 p1 = cols[0].get_text(strip=True).encode('utf-8').decode('utf-8')
                 p2 = cols[1].get_text(strip=True).encode('utf-8').decode('utf-8')
+                p3 = cols[2].get_text(strip=True).encode('utf-8').decode('utf-8')
 
-                if p2 == ("Seliana Supply Cache" or "Quest Rewards"):
+                if not p3 == "Mining Outcrop":
                     continue
 
                 full_source = p1 + " " + p2 + " Mining Outcrop"
@@ -252,10 +260,14 @@ def materials_scraper():
     # Rerun weapon scraper, added new part.
 
     materials_json = []
-
     searched_links = []
 
-    with open('mhw-tools/drop-list/items-list/equipment.json') as f:
+    with open('mhw-tools/drop-list/items-list/materials.json') as f:
+        mats = json.load(f)
+        for mat in mats:
+            searched_links.append(mat["url"])
+
+    with open('mhw-tools/drop-list/items-list/temp.json') as f:
         equipments = json.load(f)
 
         for equipment in equipments:
@@ -268,9 +280,10 @@ def materials_scraper():
                             materials_json.append({
                                 "name": material["name"],
                                 "type": "mining-outcrop",
-                                "source": "Mining Outcrop",
+                                "source": ["Mining Outcrop"],
                                 "locales": loc,
                                 "rarity": rar,
+                                "url": material["url"],
                             })
                         case "carve-quest":
                             mon, que, rar = get_materials_mix(material)
@@ -279,8 +292,9 @@ def materials_scraper():
                                     "name": material["name"],
                                     "type": "monster-drop",
                                     "source": mon,
-                                    "locales": "N/A",
+                                    "locales": ["N/A"],
                                     "rarity": rar,
+                                    "url": material["url"],
                                 })
 
                             if mon and not que: # if material has only monster drops, use monster drops
@@ -288,8 +302,9 @@ def materials_scraper():
                                     "name": material["name"],
                                     "type": "monster-drop",
                                     "source": mon,
-                                    "locales": "N/A",
+                                    "locales": ["N/A"],
                                     "rarity": rar,
+                                    "url": material["url"],
                                 })
 
                             if que and not mon: # if material has only quest rewards, use quest rewards
@@ -297,8 +312,9 @@ def materials_scraper():
                                     "name": material["name"],
                                     "type": "quest-reward",
                                     "source": que,
-                                    "locales": "N/A",
+                                    "locales": ["N/A"],
                                     "rarity": rar,
+                                    "url": material["url"],
                                 })
                 
                 searched_links.append(material["url"])
@@ -312,9 +328,10 @@ def materials_scraper():
                             materials_json.append({
                                 "name": material["name"],
                                 "type": "mining-outcrop",
-                                "source": "Mining Outcrop",
+                                "source": ["Mining Outcrop"],
                                 "locales": loc,
                                 "rarity": rar,
+                                "url": material["url"],
                             })
                         case "carve-quest":
                             mon, que, rar = get_materials_mix(material)
@@ -323,8 +340,9 @@ def materials_scraper():
                                     "name": material["name"],
                                     "type": "monster-drop",
                                     "source": mon,
-                                    "locales": "N/A",
+                                    "locales": ["N/A"],
                                     "rarity": rar,
+                                    "url": material["url"],
                                 })
 
                             if mon and not que: # if material has only monster drops, use monster drops
@@ -332,8 +350,9 @@ def materials_scraper():
                                     "name": material["name"],
                                     "type": "monster-drop",
                                     "source": mon,
-                                    "locales": "N/A",
+                                    "locales": ["N/A"],
                                     "rarity": rar,
+                                    "url": material["url"],
                                 })
 
                             if que and not mon: # if material has only quest rewards, use quest rewards
@@ -341,13 +360,15 @@ def materials_scraper():
                                     "name": material["name"],
                                     "type": "quest-reward",
                                     "source": que,
-                                    "locales": "N/A",
+                                    "locales": ["N/A"],
                                     "rarity": rar,
+                                    "url": material["url"],
                                 })
                 
                 searched_links.append(material["url"])
 
-    with open('mhw-tools/drop-list/items-list/materials.json', 'w') as g:
+    with open('mhw-tools/drop-list/items-list/temp-mats.json', 'w') as g:
         json.dump(materials_json, g, indent=4)
 
+#equipment_scraper()
 materials_scraper()

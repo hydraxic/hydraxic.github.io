@@ -18,6 +18,8 @@ function searchItems() {
 
     resultsContainer.innerHTML = '';
 
+    if (input == '') { return; }
+
     const matches = items.filter(item => item.toLowerCase().includes(input));
 
     matches.forEach(match => {
@@ -66,7 +68,7 @@ function searchItems() {
                                         .then(material => {
                                             material.forEach(material => {
                                                 if (material.name == materialName.textContent) {
-                                                    materialSources.textContent = material.source.join(', ');
+                                                    materialSources.textContent = material.source.length == 0 ? "N/A" : material.source.join(', ');
                                                     materialLocales.textContent = material.locales.length == 0 ? "N/A" : material.locales.join(', ');
                                                 }
                                             })
@@ -95,7 +97,7 @@ function searchItems() {
                                         .then(material => {
                                             material.forEach(material => {
                                                 if (material.name == materialName.textContent) {
-                                                    materialSources.textContent = material.source.join(', ');
+                                                    materialSources.textContent = material.source.length == 0 ? "N/A" : material.source.join(', ');
                                                     materialLocales.textContent = material.locales.length == 0 ? "N/A" : material.locales.join(', ');
                                                 }
                                             })
@@ -119,4 +121,9 @@ function searchItems() {
 
         resultsContainer.appendChild(button);
     });
+}
+
+function closeCard(button) {
+    const card = button.parentElement;
+    card.remove();
 }

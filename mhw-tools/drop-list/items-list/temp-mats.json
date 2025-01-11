@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Tzitzi Coin",
+        "type": "quest-reward",
+        "source": [
+            "\u26056 Arena Quest 04 Quest Rewards",
+            "\u26057 Challenge Quest 1: Intermediate Quest Rewards"
+        ],
+        "locales": [
+            "N/A"
+        ],
+        "rarity": "4",
+        "url": "https://mhworld.kiranico.com/en/items/eAWqr/tzitzi-coin"
+    },
+    {
+        "name": "Bristly Crake Ticket",
+        "type": "quest-reward",
+        "source": [
+            "\u26054 Timberland Troublemakers Quest Rewards"
+        ],
+        "locales": [
+            "N/A"
+        ],
+        "rarity": "4",
+        "url": "https://mhworld.kiranico.com/en/items/eNn8e/bristly-crake-ticket"
+    },
+    {
+        "name": "Deviljho Blackpiel",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Savage Deviljho"
+        ],
+        "locales": [
+            "N/A"
+        ],
+        "rarity": "11",
+        "url": "https://mhworld.kiranico.com/en/items/lR2gl/deviljho-blackpiel"
+    },
+    {
+        "name": "Meaty Canteen Ticket",
+        "type": "quest-reward",
+        "source": [
+            "M\u26054 Beef is Never a Mi-steak Quest Rewards"
+        ],
+        "locales": [
+            "N/A"
+        ],
+        "rarity": "10",
+        "url": "https://mhworld.kiranico.com/en/items/eN4LR/meaty-canteen-ticket"
+    },
+    {
+        "name": "Forest Crystal",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": [
+            "N/A"
+        ],
+        "rarity": "9",
+        "url": "https://mhworld.kiranico.com/en/items/r212o/forest-crystal"
+    },
+    {
+        "name": "Slumbering Greatbone",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": [
+            "N/A"
+        ],
+        "rarity": "10",
+        "url": "https://mhworld.kiranico.com/en/items/lR4Ko/slumbering-greatbone"
+    },
+    {
+        "name": "Afflicted Frenzybone",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": [
+            "N/A"
+        ],
+        "rarity": "10",
+        "url": "https://mhworld.kiranico.com/en/items/ew92r/afflicted-frenzybone"
+    }
+]
