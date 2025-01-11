@@ -10,7 +10,7 @@ header = {
 }
 
 def equipment_scraper():
-    r = requests.get('https://mhworld.kiranico.com/en/weapons?type=4', headers=header)
+    r = requests.get('https://mhworld.kiranico.com/en/weapons?type=13', headers=header)
     soup = BeautifulSoup(r.text, 'html.parser')
 
     equipments = []
@@ -18,8 +18,9 @@ def equipment_scraper():
 
     links = soup.find_all('a')
 
-    first_link = "Iron Hammer I".encode('utf-8').decode('utf-8')
-    last_link = "Kj\u00e1rr Hammer \"Blast\"".encode('utf-8').decode('utf-8')
+    #\u00e1 is á
+    first_link = "Chain Blitz I".encode('utf-8').decode('utf-8')
+    last_link = "Erupter Gold Razer".encode('utf-8').decode('utf-8')
 
     unwanted_links = [
         "https://mhworld.kiranico.com/en/skilltrees/Ll8nL/guts",
@@ -113,7 +114,7 @@ def equipment_scraper():
             
             equipments.append(
                 {"name": weaponname,
-                "type": "hammer", # IMPORTANT -----------------------------------------------------------------------------------------------------
+                "type": "lbg", # IMPORTANT -----------------------------------------------------------------------------------------------------
                 # IMPORTANT -----------------------------------------------------------------------------------------------------
                 # IMPORTANT -----------------------------------------------------------------------------------------------------
                 # IMPORTANT -----------------------------------------------------------------------------------------------------

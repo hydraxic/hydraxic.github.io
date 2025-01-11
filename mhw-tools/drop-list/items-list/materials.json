@@ -1,5 +1,187 @@
 [
     {
+        "name": "Hard Ebony Odogaron Sinew",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Ebony Odogaron"
+        ],
+        "locales": [
+            "N/A"
+        ],
+        "rarity": "10",
+        "url": "https://mhworld.kiranico.com/en/items/rBd2e/hard-ebony-odogaron-sinew"
+    },
+    {
+        "name": "Azure Era Seal",
+        "type": "quest-reward",
+        "source": [
+            "M\u26055 USJ: Shine On Forever Quest Rewards"
+        ],
+        "locales": [
+            "N/A"
+        ],
+        "rarity": "11",
+        "url": "https://mhworld.kiranico.com/en/items/onR01/azure-era-seal"
+    },
+    {
+        "name": "Nargacuga Blackfur+",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Nargacuga"
+        ],
+        "locales": [
+            "N/A"
+        ],
+        "rarity": "10",
+        "url": "https://mhworld.kiranico.com/en/items/rajNl/nargacuga-blackfur"
+    },
+    {
+        "name": "Black Eagle Blueprint",
+        "type": "quest-reward",
+        "source": [
+            "M\u26053 Every Hunter's Dream III Quest Rewards"
+        ],
+        "locales": [
+            "N/A"
+        ],
+        "rarity": "10",
+        "url": "https://mhworld.kiranico.com/en/items/oEynx/black-eagle-blueprint"
+    },
+    {
+        "name": "Black Diablos Ridge+",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Black Diablos",
+            "Master Rank Wildspire Waste",
+            "Master Rank The Guiding Lands"
+        ],
+        "locales": [
+            "N/A"
+        ],
+        "rarity": "6",
+        "url": "https://mhworld.kiranico.com/en/items/egEMr/black-diablos-ridge"
+    },
+    {
+        "name": "Boaboa Ticket",
+        "type": "quest-reward",
+        "source": [
+            "M\u26052 Boaboa Constrictor Quest Rewards",
+            "M\u26052 By Our Powers Combined Quest Rewards",
+            "M\u26052 You Scratch Our Backs... Quest Rewards"
+        ],
+        "locales": [
+            "N/A"
+        ],
+        "rarity": "9",
+        "url": "https://mhworld.kiranico.com/en/items/oxKye/boaboa-ticket"
+    },
+    {
+        "name": "First Fleet Ticket",
+        "type": "quest-reward",
+        "source": [
+            "\u26056 Midnight Mayhem Quest Rewards"
+        ],
+        "locales": [
+            "N/A"
+        ],
+        "rarity": "4",
+        "url": "https://mhworld.kiranico.com/en/items/onPvl/first-fleet-ticket"
+    },
+    {
+        "name": "Namielle Fellwing",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Namielle"
+        ],
+        "locales": [
+            "N/A"
+        ],
+        "rarity": "11",
+        "url": "https://mhworld.kiranico.com/en/items/r4AWl/namielle-fellwing"
+    },
+    {
+        "name": "Legiana Hide",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Legiana",
+            "High Rank Coral Highlands",
+            "Low Rank Coral Highlands"
+        ],
+        "locales": [
+            "N/A"
+        ],
+        "rarity": "4",
+        "url": "https://mhworld.kiranico.com/en/items/rY2Ml/legiana-hide"
+    },
+    {
+        "name": "Vespoid Shell",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Vespoid",
+            "Low Rank Ancient Forest",
+            "Low Rank Wildspire Waste",
+            "Low Rank Coral Highlands",
+            "Low Rank Rotten Vale"
+        ],
+        "locales": [
+            "N/A"
+        ],
+        "rarity": "4",
+        "url": "https://mhworld.kiranico.com/en/items/lPDyl/vespoid-shell"
+    },
+    {
+        "name": "Vespoid Wing",
+        "type": "monster-drop",
+        "source": [
+            "Low Rank Vespoid"
+        ],
+        "locales": [
+            "N/A"
+        ],
+        "rarity": "4",
+        "url": "https://mhworld.kiranico.com/en/items/lbO4e/vespoid-wing"
+    },
+    {
+        "name": "Vespoid Carapace",
+        "type": "monster-drop",
+        "source": [
+            "High Rank Vespoid",
+            "Master Rank Ancient Forest",
+            "High Rank Ancient Forest",
+            "Master Rank Wildspire Waste",
+            "High Rank Wildspire Waste",
+            "Master Rank Coral Highlands",
+            "High Rank Coral Highlands",
+            "Master Rank Rotten Vale",
+            "High Rank Rotten Vale",
+            "Master Rank Elder's Recess",
+            "High Rank Elder's Recess"
+        ],
+        "locales": [
+            "N/A"
+        ],
+        "rarity": "6",
+        "url": "https://mhworld.kiranico.com/en/items/e8zbr/vespoid-carapace"
+    },
+    {
+        "name": "Vespoid Razorwing",
+        "type": "monster-drop",
+        "source": [
+            "Master Rank Vespoid",
+            "Master Rank Ancient Forest",
+            "Master Rank Wildspire Waste",
+            "Master Rank Coral Highlands",
+            "Master Rank Rotten Vale",
+            "Master Rank Elder's Recess",
+            "Master Rank Origin Isle"
+        ],
+        "locales": [
+            "N/A"
+        ],
+        "rarity": "9",
+        "url": "https://mhworld.kiranico.com/en/items/rKvMo/vespoid-razorwing"
+    },
+    {
         "name": "Tzitzi Coin",
         "type": "quest-reward",
         "source": [
