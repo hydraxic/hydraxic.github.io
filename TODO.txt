@@ -1,0 +1,2 @@
+Things to do for mhw-tools:
+- find a way to organize the material sources table so that the drop %s and amts are in the same column consistently.

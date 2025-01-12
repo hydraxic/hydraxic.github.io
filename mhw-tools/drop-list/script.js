@@ -8,6 +8,66 @@ fetch('items-list/equipment.json')
     })
     .catch(error => console.error('Error loading items:', error));
 
+function addMaterialSourceDetails(materialName)
+{
+    if (materialName.parentElement.parentElement.parentElement.className == 'crafting-materials') { // forging
+        const clone = materialName.parentElement.parentElement.parentElement.parentElement // item info div
+        const detailsTable = clone.querySelector('#details-table');
+        
+        const title = clone.querySelector('#details-box-title');
+        title.textContent = materialName.textContent;
+
+        detailsTable.innerHTML = '';
+
+        fetch('items-list/materials.json')
+            .then(response => response.json())
+            .then(material => {
+                material.forEach(material => {
+                    if (material.name == materialName.textContent) {
+                        material.source.forEach(sources => {
+                            const detailsRow = document.createElement('tr');
+                            sources.forEach(source => {
+                                const tempCell = document.createElement('th');
+                                tempCell.textContent = source;
+                                detailsRow.appendChild(tempCell);
+                            })
+                            detailsTable.appendChild(detailsRow);
+                        })
+                    }
+                })
+            })
+            .catch(error => console.error('Error loading items:', error));
+    }
+    else if (materialName.parentElement.parentElement.parentElement.className == 'crafting-materials-upgrade') { // upgrading
+        const clone = materialName.parentElement.parentElement.parentElement.parentElement // item info div
+        const detailsTableUpgrade = clone.querySelector('#details-table-upgrade');
+
+        const title = clone.querySelector('#details-box-title-upgrade');
+        title.textContent = materialName.textContent;
+
+        detailsTableUpgrade.innerHTML = '';
+
+        fetch('items-list/materials.json')
+            .then(response => response.json())
+            .then(material => {
+                material.forEach(material => {
+                    if (material.name == materialName.textContent) {
+                        material.source.forEach(sources => {
+                            const detailsRow = document.createElement('tr');
+                            sources.forEach(source => {
+                                const tempCell = document.createElement('th');
+                                tempCell.textContent = source;
+                                detailsRow.appendChild(tempCell);
+                            })
+                            detailsTableUpgrade.appendChild(detailsRow);
+                        })
+                    }
+                })
+            })
+            .catch(error => console.error('Error loading items:', error));
+    }
+}
+
 // perform fuzzy search
 
 function searchItems() {
@@ -32,9 +92,6 @@ function searchItems() {
                 const clone = template.content.cloneNode(true);
                 const materialsTable = clone.querySelector('.crafting-materials');
                 const upgradesTable = clone.querySelector('.crafting-materials-upgrade');
-
-                const detailsTable = clone.querySelector('#details-table');
-                const detailsTableUpgrade = clone.querySelector('#details-table-upgrade');
                 
                 equipmentName = clone.querySelector('.item-name');
 
@@ -60,30 +117,15 @@ function searchItems() {
                                     const materialRow = document.createElement('tr');
 
                                     const materialName = document.createElement('th');
+                                    const materialNameButton = document.createElement('button');
                                     const materialQuantity = document.createElement('th');
 
-                                    materialName.textContent = material.name;
+                                    materialNameButton.textContent = material.name;
+                                    materialNameButton.onclick = function() { addMaterialSourceDetails(materialNameButton); };
+                                    materialNameButton.className = 'material-button';
                                     materialQuantity.textContent = material.quantity;
 
-                                    fetch('items-list/materials.json')
-                                        .then(response => response.json())
-                                        .then(material => {
-                                            material.forEach(material => {
-                                                if (material.name == materialName.textContent) {
-                                                    material.source.forEach(sources => {
-                                                        const detailsRow = document.createElement('tr');
-                                                        sources.forEach(source => {
-                                                            const tempCell = document.createElement('th');
-                                                            tempCell.textContent = source;
-                                                            detailsRow.appendChild(tempCell);
-                                                        })
-                                                        detailsTable.appendChild(detailsRow);
-                                                    })
-                                                }
-                                            })
-                                        })
-                                        .catch(error => console.error('Error loading items:', error));
-
+                                    materialName.appendChild(materialNameButton);
                                     materialRow.appendChild(materialName);
                                     materialRow.appendChild(materialQuantity);
                                     materialsTable.appendChild(materialRow);
@@ -93,30 +135,15 @@ function searchItems() {
                                     const materialRow = document.createElement('tr');
 
                                     const materialName = document.createElement('th');
+                                    const materialNameButton = document.createElement('button');
                                     const materialQuantity = document.createElement('th');
 
-                                    materialName.textContent = material.name;
+                                    materialNameButton.textContent = material.name;
+                                    materialNameButton.onclick = function() { addMaterialSourceDetails(materialNameButton); };
+                                    materialNameButton.className = 'material-button';
                                     materialQuantity.textContent = material.quantity;
 
-                                    fetch('items-list/materials.json')
-                                        .then(response => response.json())
-                                        .then(material => {
-                                            material.forEach(material => {
-                                                if (material.name == materialName.textContent) {
-                                                    material.source.forEach(sources => {
-                                                        const detailsRow = document.createElement('tr');
-                                                        sources.forEach(source => {
-                                                            const tempCell = document.createElement('th');
-                                                            tempCell.textContent = source;
-                                                            detailsRow.appendChild(tempCell);
-                                                        })
-                                                        detailsTableUpgrade.appendChild(detailsRow);
-                                                    })
-                                                }
-                                            })
-                                        })
-                                        .catch(error => console.error('Error loading items:', error));
-
+                                    materialName.appendChild(materialNameButton);
                                     materialRow.appendChild(materialName);
                                     materialRow.appendChild(materialQuantity);
                                     upgradesTable.appendChild(materialRow);

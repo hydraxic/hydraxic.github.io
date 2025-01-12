@@ -121,13 +121,16 @@ th, tr {
 }
 
 .crafting-materials {
+    height: 100%;
     width: 35%;
     margin-bottom: 2em;
     align-self: left;
 }
 
 .crafting-materials-upgrade {
+    height: 100%;
     width: 35%;
+    margin-bottom: 2em;
     align-self: left;
 }
 
@@ -140,6 +143,22 @@ th, tr {
 .sortable-table {
     width: 100%;
     border-collapse: collapse;
+}
+
+.material-button {
+    display: inline-block;
+    outline: 0;
+    border: 0;
+    cursor: pointer;
+    border-radius: 6px;
+    padding: 14px 24px 16px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1;
+    transition: background 200ms;
+    background: transparent;
+    color: #2e2e2e;
+    box-shadow: 0 0 0 3px #000000 inset;
 }
 
 #remove-card {
