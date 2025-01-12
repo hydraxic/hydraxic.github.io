@@ -115,15 +115,32 @@ th, tr {
     text-align: center;
 }
 
+.crafting-container {
+    display: flex;
+    gap: 10px;
+}
+
 .crafting-materials {
-    width: 100%;
+    width: 35%;
     margin-bottom: 2em;
+    align-self: left;
 }
 
 .crafting-materials-upgrade {
-    width: 100%;
+    width: 35%;
+    align-self: left;
 }
 
+.details-box {
+    align-self: right;
+    width: 65%;
+    border: 1px solid #808080;
+}
+
+.sortable-table {
+    width: 100%;
+    border-collapse: collapse;
+}
 
 #remove-card {
     position: absolute;

@@ -224,6 +224,43 @@ def get_materials_mix(material):
                 
     return monsters, quests, raritynum
 
+def get_material_sources(material):
+    url = material["url"]
+    r = requests.get(url, headers=header)
+    soup = BeautifulSoup(r.text, 'html.parser')
+
+    tds = soup.find('td')
+    tdstext = tds.get_text(strip=True).encode('utf-8').decode('utf-8')
+    raritynum = re.split(r'(\d+)', tdstext)[1]
+
+    start_keyword = "Where to find " + material["name"]
+    end_keyword = "What " + material["name"] + " is used for"
+
+    htmlstr = str(soup)
+
+    start_index = htmlstr.find(start_keyword)
+    end_index = htmlstr.find(end_keyword)
+
+    print(f'Start index: {start_index}, End index: {end_index}', material["url"])
+
+    if start_index != -1 and end_index != -1 and start_index < end_index:
+        sliced_html = htmlstr[start_index:end_index + len(end_keyword)]
+        sliced_soup = BeautifulSoup(sliced_html, 'html.parser')
+
+        rows = sliced_soup.find_all('tr')
+
+        sources = []
+
+        for row in rows:
+            cols = row.find_all('td')
+            temp_array = []
+            for col in cols:
+                temp_array.append(col.get_text(strip=True).encode('utf-8').decode('utf-8'))
+
+            sources.append(temp_array)
+
+    return sources, raritynum
+
 def materials_scraper():
     # materials scraper
 
@@ -371,5 +408,67 @@ def materials_scraper():
     with open('mhw-tools/drop-list/items-list/temp-mats.json', 'w') as g:
         json.dump(materials_json, g, indent=4)
 
+def detailed_materials_scraper():
+    # materials scraper
+
+    mined = [
+        "Iron Ore",
+        "Machalite Ore",
+        "Dragonite Ore",
+        "Carbalite Ore",
+        "Fucium Ore",
+        "Eltalite Ore",
+        "Meldspar Ore",
+        "Earth Crystal",
+        "Coral Crystal",
+        "Dragonvein Crystal",
+        "Spiritvein Crystal",
+        "Lightcrystal",
+        "Novacrystal",
+        "Purecrystal",
+        "Firecell Stone",
+        "Bathycite Ore",
+        "Gracium",
+        "Aquacore Ore",
+        "Spiritcore Ore",
+        "Dreamcore Ore",
+        "Dragoncore Ore",
+        "Phantomcore Ore",
+        "Shadowcore Ore",
+    ]
+
+    # if mined, ONLY check for mining outcrops, NO quest rewards. IGNORE Seliana Supply Cache    DONE!
+    # if material has both monster drops and quest rewards, IGNORE quest rewards
+    # if material has only quest rewards, use quest rewards
+    # For all materials, take first two columns of table.
+
+    # Rerun weapon scraper, added new part.
+
+    materials_json = []
+    searched_links = []
+
+    with open('mhw-tools/drop-list/items-list/materials.json') as f:
+        materials = json.load(f)
+
+        for material in materials:
+            sources, rarity = get_material_sources(material)
+
+            materials_json.append({
+                "name": material["name"],
+                "source": sources,
+                "rarity": rarity,
+                "url": material["url"]
+            })
+            
+            searched_links.append(material["url"])
+
+    with open('mhw-tools/drop-list/items-list/temp-mats.json', 'w') as g:
+        json.dump(materials_json, g, indent=4)
+
 #equipment_scraper()
-materials_scraper()
+#materials_scraper()
+
+detailed_materials_scraper()
+
+# TODO for armour:
+# when scraping, only check the first layer of <tr> of the table for links. 

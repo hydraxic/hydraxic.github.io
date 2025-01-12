@@ -41,23 +41,35 @@
                         Item Name
                     </h3>
                     <h4><center>Forging</center></h4>
-                    <table class="crafting-materials">
-                        <tr>
-                            <th><b>Material</b></th>
-                            <th><b>Sources</b></th>
-                            <th><b>Locales</b></th>
-                            <th><b>Quantity</b></th>
-                        </tr>
-                    </table>
+                    <div class="crafting-container">
+                        <table class="crafting-materials">
+                            <tr>
+                                <th><b>Material</b></th>
+                                <th><b>Quantity</b></th>
+                            </tr>
+                        </table>
+                        <div class="details-box">
+                            <h3 id="details-box-title"><center>Loading...</center></h3>
+                            <table class="sortable-table" id="details-table">
+                                
+                            </table>
+                        </div>
+                    </div>
                     <h4><center>Upgrading</center></h4>
-                    <table class="crafting-materials-upgrade">
-                        <tr>
-                            <th><b>Material</b></th>
-                            <th><b>Sources</b></th>
-                            <th><b>Locales</b></th>
-                            <th><b>Quantity</b></th>
-                        </tr>
-                    </table>
+                    <div class="crafting-container">
+                        <table class="crafting-materials-upgrade">
+                            <tr>
+                                <th><b>Material</b></th>
+                                <th><b>Quantity</b></th>
+                            </tr>
+                        </table>
+                        <div class="details-box">
+                            <h3 id="details-box-title"><center>Loading...</center></h3>
+                            <table class="sortable-table" id="details-table-upgrade">
+                                
+                            </table>
+                        </div>
+                    </div>
                     <button class="action-button" id="remove-card" onclick="closeCard(this)">
                         <img src="images/close.png" alt="Close" id="remove-card">
                     </button>
