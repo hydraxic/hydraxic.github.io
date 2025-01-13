@@ -87,8 +87,9 @@ function searchItems() {
         button.className = 'result-button';
         button.textContent = match;
 
-        button.onclick = () => {
-            if (materialsResultsContainer.innerHTML.indexOf(match) == -1) {
+        button.onclick = () => {            
+            if (!Array.from(materialsResultsContainer.querySelectorAll('h2')).some(node => node.textContent === match)) {
+                console.log('Adding item:', match);
                 const clone = template.content.cloneNode(true);
                 const materialsTable = clone.querySelector('.crafting-materials');
                 const upgradesTable = clone.querySelector('.crafting-materials-upgrade');
@@ -101,9 +102,6 @@ function searchItems() {
                     .then(response => response.json())
                     .then(item => {
                         item.forEach(item => {
-                            console.log(item);
-                            console.log(item.name);
-                            console.log(match);
                             if (item.name == match) {
                                 console.log('Found match');
 
