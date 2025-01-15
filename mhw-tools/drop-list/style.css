@@ -108,18 +108,25 @@ body {
     margin-bottom: 2em;
 }
 
-table, th, tr {
+.item-info table, th, tr {
     border: 1px solid #808080;
     border-collapse: collapse;
 }
 
-th, tr {
+.item-info th, tr {
     padding: 0.5em;
     text-align: center;
 }
 
+.item-info tr {
+    height: 5em;
+    word-break: keep-all;
+    font-size: clamp(10px, 2vw, 16px);
+}
+
 .crafting-container {
     display: flex;
+    flex-wrap: wrap;
     gap: 10px;
 }
 
@@ -138,9 +145,29 @@ th, tr {
 }
 
 .details-box {
+    display: flex;
+    flex: 1;
     align-self: right;
     width: 65%;
     border: 1px solid #808080;
+}
+
+.details-box-titles {
+    align-self: stretch;
+}
+
+.areas-details {
+    width: 75%;
+    margin: 1em;
+    align-self: left;
+    overflow-x: auto;
+}
+
+.drops-details {
+    width: 25%;
+    margin: 1em;
+    align-self: right;
+    overflow-x: auto;
 }
 
 .sortable-table {
@@ -168,8 +195,8 @@ th, tr {
     position: absolute;
     border: none;
     background: none;
-    top: 2%;
-    right: 2%;
+    top: 2em;
+    right: 2em;
     width: 3em;
     height: 3em;
     cursor: pointer;

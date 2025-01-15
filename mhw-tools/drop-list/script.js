@@ -13,11 +13,13 @@ function addMaterialSourceDetails(materialName)
     if (materialName.parentElement.parentElement.parentElement.className == 'crafting-materials') { // forging
         const clone = materialName.parentElement.parentElement.parentElement.parentElement // item info div
         const detailsTable = clone.querySelector('#details-table');
+        const detailsDropsTable = clone.querySelector('#details-drops-table');
         
         const title = clone.querySelector('#details-box-title');
         title.textContent = materialName.textContent;
 
         detailsTable.innerHTML = '';
+        detailsDropsTable.innerHTML = '';
 
         fetch('items-list/materials.json')
             .then(response => response.json())
@@ -26,12 +28,24 @@ function addMaterialSourceDetails(materialName)
                     if (material.name == materialName.textContent) {
                         material.source.forEach(sources => {
                             const detailsRow = document.createElement('tr');
+                            const detailsDropsRow = document.createElement('tr');
                             sources.forEach(source => {
-                                const tempCell = document.createElement('th');
-                                tempCell.textContent = source;
-                                detailsRow.appendChild(tempCell);
+                                if (/^\d+%$/.test(source)) { // percentage chance, add to a different sortable table.
+                                    const tempCell = document.createElement('th');
+                                    tempCell.textContent = source;
+                                    detailsDropsRow.appendChild(tempCell);
+                                } else if (/^x\d+$/.test(source)) { // how many will drop, add to different sortable table, same as percentage
+                                    const tempCell = document.createElement('th');
+                                    tempCell.textContent = source;
+                                    detailsDropsRow.appendChild(tempCell);
+                                } else {
+                                    const tempCell = document.createElement('th');
+                                    tempCell.textContent = source;
+                                    detailsRow.appendChild(tempCell);
+                                }
                             })
                             detailsTable.appendChild(detailsRow);
+                            detailsDropsTable.appendChild(detailsDropsRow);
                         })
                     }
                 })
@@ -41,11 +55,13 @@ function addMaterialSourceDetails(materialName)
     else if (materialName.parentElement.parentElement.parentElement.className == 'crafting-materials-upgrade') { // upgrading
         const clone = materialName.parentElement.parentElement.parentElement.parentElement // item info div
         const detailsTableUpgrade = clone.querySelector('#details-table-upgrade');
+        const detailsDropsTableUpgrade = clone.querySelector('#details-drops-table-upgrade');
 
         const title = clone.querySelector('#details-box-title-upgrade');
         title.textContent = materialName.textContent;
 
         detailsTableUpgrade.innerHTML = '';
+        detailsDropsTableUpgrade.innerHTML = '';
 
         fetch('items-list/materials.json')
             .then(response => response.json())
@@ -54,12 +70,24 @@ function addMaterialSourceDetails(materialName)
                     if (material.name == materialName.textContent) {
                         material.source.forEach(sources => {
                             const detailsRow = document.createElement('tr');
+                            const detailsDropsRow = document.createElement('tr');
                             sources.forEach(source => {
-                                const tempCell = document.createElement('th');
-                                tempCell.textContent = source;
-                                detailsRow.appendChild(tempCell);
+                                if (/^\d+%$/.test(source)) { // percentage chance, add to a different sortable table.
+                                    const tempCell = document.createElement('th');
+                                    tempCell.textContent = source;
+                                    detailsDropsRow.appendChild(tempCell);
+                                } else if (/^x\d+$/.test(source)) { // how many will drop, add to different sortable table, same as percentage
+                                    const tempCell = document.createElement('th');
+                                    tempCell.textContent = source;
+                                    detailsDropsRow.appendChild(tempCell);
+                                } else {
+                                    const tempCell = document.createElement('th');
+                                    tempCell.textContent = source;
+                                    detailsRow.appendChild(tempCell);
+                                }
                             })
                             detailsTableUpgrade.appendChild(detailsRow);
+                            detailsDropsTableUpgrade.appendChild(detailsDropsRow);
                         })
                     }
                 })
@@ -93,6 +121,8 @@ function searchItems() {
                 const clone = template.content.cloneNode(true);
                 const materialsTable = clone.querySelector('.crafting-materials');
                 const upgradesTable = clone.querySelector('.crafting-materials-upgrade');
+                const detailsTitle = clone.querySelector('#details-box-title');
+                const detailsUpgradeTitle = clone.querySelector('#details-box-title-upgrade');
                 
                 equipmentName = clone.querySelector('.item-name');
 
@@ -110,6 +140,14 @@ function searchItems() {
                                 img.src = 'images/weapon-icons/' + item.type + '.png';
                                 img.style.height = '1.2em';
                                 equipmentName.appendChild(img);
+
+                                if (item['materials-forge'].length == 0) {
+                                    detailsTitle.textContent = 'Weapon cannot be forged';
+                                }
+
+                                if (item['materials-upgrade'].length == 0) {
+                                    detailsUpgradeTitle.textContent = 'Weapon cannot be upgraded';
+                                }
 
                                 item['materials-forge'].forEach(material => {
                                     const materialRow = document.createElement('tr');
