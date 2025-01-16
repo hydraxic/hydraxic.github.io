@@ -116,7 +116,9 @@ function searchItems() {
         button.textContent = match;
 
         button.onclick = () => {            
-            if (!Array.from(materialsResultsContainer.querySelectorAll('h2')).some(node => node.textContent === match)) {
+            console.log(match);
+            console.log(materialsResultsContainer.querySelectorAll('h2'));
+            if (!Array.from(materialsResultsContainer.querySelectorAll('h2')).some(node => node.textContent.trim() === match)) {
                 console.log('Adding item:', match);
                 const clone = template.content.cloneNode(true);
                 const materialsTable = clone.querySelector('.crafting-materials');
