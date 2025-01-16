@@ -134,26 +134,25 @@ body {
     height: 100%;
     width: 35%;
     margin-bottom: 2em;
-    align-self: left;
+    align-self: flex-start;
 }
 
 .crafting-materials-upgrade {
     height: 100%;
     width: 35%;
     margin-bottom: 2em;
-    align-self: left;
+    align-self: flex-start;
 }
 
 .details-box {
     display: flex;
     flex: 1;
     align-self: right;
-    width: 65%;
     border: 1px solid #808080;
 }
 
-.details-box-titles {
-    align-self: stretch;
+.flex-details-box {
+    align-self: flex-end;
 }
 
 .areas-details {
